@@ -1,0 +1,10 @@
+{
+  "body > form > header": "Select organization",
+  "body > form > footer > a": "Cancel",
+  "[data-testid='quick-links-panel'] h2": "Quick Links",
+  "[data-testid='help-item-XM Cloud Deploy'] p": "Manage XM Cloud setup and deployments",
+  "[data-testid='media-title-Invite team members']": "Invite team members",
+  "[data-testid='media-title-Help']": "Help",
+  "[data-testid='media-title-Create support ticket']": "Create support ticket",
+  "[data-testid='help-item-Help'] p": "Useful links and support"
+}

@@ -1,0 +1,8 @@
+{
+  "[data-testid='quick-links-panel'] h2": "クイックリンク",
+  "[data-testid='help-item-XM Cloud Deploy'] p": "XM Cloud のセットアップと展開を管理",
+  "[data-testid='media-title-Invite team members']": "チームメンバーの招待",
+  "[data-testid='media-title-Help']": "ヘルプ",
+  "[data-testid='help-item-Help'] p": "便利なリンクとサポート",
+  "[data-testid='media-title-Create support ticket']": "サポートチケットの作成"
+}
