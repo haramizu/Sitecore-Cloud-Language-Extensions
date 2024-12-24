@@ -24,8 +24,10 @@ function replaceTextInSelector() {
 
   selectors.forEach(selector => {
     const element = document.querySelector(selector);
-    if (element?.textContent?.trim() === en[selector as TranslationKeys]) {
-      element.textContent = ja[selector as TranslationKeys];
+    if (element?.textContent?.trim() === en[selector]) {
+      if (ja[selector as keyof typeof ja]) {
+        element.textContent = ja[selector as keyof typeof ja];
+      }
     }
   });
 }
