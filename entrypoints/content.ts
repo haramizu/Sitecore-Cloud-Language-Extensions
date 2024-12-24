@@ -3,6 +3,12 @@ export default defineContentScript({
   main() {
     console.log('Hello content.');
 
+    // Log the domain name
+    console.log('Current domain:', window.location.hostname);
+
+    // Replace text in HTML
+    replaceTextInSelector();
+
     // Observe changes in the DOM
     const observer = new MutationObserver(() => {
       replaceTextInSelector();
@@ -12,9 +18,16 @@ export default defineContentScript({
 });
 
 function replaceTextInSelector() {
-  const selector = 'a[data-targetid="home_1"]';
+  const selector = 'body > form > header';
   const element = document.querySelector(selector);
-  if (element && element.textContent) {
-    element.textContent = element.textContent.replace(/Home/, 'ホーム');
+  if (element?.textContent?.trim() === "Select organization") {
+    element.textContent = "組織の選択";
   }
+  // Replace text in footer link
+  const footerLinkSelector = 'body > form > footer > a';
+  const footerLinkElement = document.querySelector(footerLinkSelector);
+  if (footerLinkElement?.textContent?.trim() === "Cancel") {
+    footerLinkElement.textContent = "取り消し";
+  }
+
 }
