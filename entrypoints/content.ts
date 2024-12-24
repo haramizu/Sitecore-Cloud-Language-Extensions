@@ -6,8 +6,6 @@ type TranslationKeys = keyof typeof en;
 export default defineContentScript({
   matches: ['*://*.sitecorecloud.io/*'],
   main() {
-    console.log('Hello content.');
-
     // Replace text in HTML
     replaceTextInSelector();
 
