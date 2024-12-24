@@ -5,8 +5,8 @@ export default defineConfig({
   extensionApi: 'chrome',
   modules: ['@wxt-dev/module-react'],
   manifest: {
-    name: 'WXT React',
-    description: 'WXT + React',
+    name: 'Language Switcher',
+    description: 'Sitecore Language Switcher',
     version: '0.1.0',
     permissions: ['storage'],
   },
