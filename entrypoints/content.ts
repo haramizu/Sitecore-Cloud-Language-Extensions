@@ -3,9 +3,6 @@ export default defineContentScript({
   main() {
     console.log('Hello content.');
 
-    // Log the domain name
-    console.log('Current domain:', window.location.hostname);
-
     // Replace text in HTML
     replaceTextInSelector();
 
@@ -18,11 +15,13 @@ export default defineContentScript({
 });
 
 function replaceTextInSelector() {
+  // Replace text in header
   const selector = 'body > form > header';
   const element = document.querySelector(selector);
   if (element?.textContent?.trim() === "Select organization") {
     element.textContent = "組織の選択";
   }
+
   // Replace text in footer link
   const footerLinkSelector = 'body > form > footer > a';
   const footerLinkElement = document.querySelector(footerLinkSelector);
@@ -30,4 +29,10 @@ function replaceTextInSelector() {
     footerLinkElement.textContent = "取り消し";
   }
 
+  // Replace text in Quick Link
+  const QuickLinkSelector = 'body > sitecore-region > sitecore-extension > div.css-6rjclo > div > div > div.css-1ha1tj3 > div > div > h2';
+  const QuickLinkElement = document.querySelector(QuickLinkSelector);
+  if (QuickLinkElement?.textContent?.trim() === "Quick Links") {
+    QuickLinkElement.textContent = "クイックリンク";
+  }
 }
