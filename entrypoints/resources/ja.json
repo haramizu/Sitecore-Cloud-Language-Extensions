@@ -26,5 +26,10 @@
   "main > div > div.css-10bz5b3 > h1": "チームメンバー",
   "#navigation-vertical > a:nth-child(2)": "招待",
   "[id='chakra-modal--header-:re:']": "チームメンバーの招待",
-  "[id='chakra-modal--header-:r1c:']": "チームメンバーの招待"
+  "[id='chakra-modal--header-:r1c:']": "チームメンバーの招待",
+  "aside > h2.chakra-heading.css-40ytkn": "組織の管理",
+  "[data-targetid='multi-factorauthentication_0']": "多要素認証",
+  "[data-targetid='singlesign-on(sso)_1']": "シングルサインオン (SSO)",
+  "[data-targetid='sitecoresupportaccess_2']": "サイトコアサポートにアクセス",
+  "[data-targetid='customhostnames_3']": "カスタムホスト名"
 }

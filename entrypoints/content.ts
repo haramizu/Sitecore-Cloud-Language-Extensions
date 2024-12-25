@@ -41,11 +41,17 @@ async function replaceTextInSelector(lang: string) {
   }
 
   selectors.forEach(selector => {
-    const element = document.querySelector(selector);
-    if (translations && element?.textContent?.trim() === en[selector]) {
-      if (translations[selector as keyof typeof translations]) {
-        element.textContent = translations[selector as keyof typeof translations];
+    const elements = document.querySelectorAll(selector);
+    elements.forEach(element => {
+      if (translations && element.childNodes.length) {
+        element.childNodes.forEach(child => {
+          if (child.nodeType === Node.TEXT_NODE && child.textContent?.trim() === en[selector]) {
+            if (translations[selector as keyof typeof translations]) {
+              child.textContent = translations[selector as keyof typeof translations];
+            }
+          }
+        });
       }
-    }
+    });
   });
 }

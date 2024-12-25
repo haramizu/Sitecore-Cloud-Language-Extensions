@@ -26,5 +26,10 @@
   "main > div > div.css-10bz5b3 > h1": "Team members",
   "#navigation-vertical > a:nth-child(2)": "Invitations",
   "[id='chakra-modal--header-:re:']": "Invite team members",
-  "[id='chakra-modal--header-:r1c:']": "Invite team members"
+  "[id='chakra-modal--header-:r1c:']": "Invite team members",
+  "aside > h2.chakra-heading.css-40ytkn": "Organization management",
+  "[data-targetid='multi-factorauthentication_0']": "Multi-factor authentication",
+  "[data-targetid='singlesign-on(sso)_1']": "Single sign-on (SSO)",
+  "[data-targetid='sitecoresupportaccess_2']": "Sitecore Support access",
+  "[data-targetid='customhostnames_3']": "Custom hostnames"
 }
