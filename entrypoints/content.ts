@@ -1,11 +1,14 @@
 import languages from './resources/languages.json';
+import { storage } from "@wxt-dev/storage";
 
 type TranslationKeys = keyof typeof String;
 
 export default defineContentScript({
   matches: ['*://*.sitecorecloud.io/*'],
-  main() {
-    const lang = navigator.language.slice(0, 2);
+  async main() {
+    const browserLang = navigator.language.slice(0, 2);
+    const storedLang = (await storage.getItem(`local:preferredLanguage`)) as string;
+    const lang = storedLang || browserLang;
 
     const domain = window.location.hostname;
     console.log('domain: ' + domain);
