@@ -39,6 +39,5 @@
   "[data-testid='add-sso-connection-button'] span": "SSO-Verbindung hinzufügen",
   "[data-targetid='sitecoresupportaccess_2']": "Sitecore-Support-Zugang",
   "[data-testid='supportAccess-heading']": "Sitecore-Support-Zugang",
-  "[data-targetid='customhostnames_3']": "Benutzerdefinierte Hostnamen",
-  "[data-testid='customHostnames-heading']": "Benutzerdefinierte Hostnamen"
+  "[data-targetid='customhostnames_3']": "Benutzerdefinierte Hostnamen"
 }

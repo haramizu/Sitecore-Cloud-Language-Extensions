@@ -1,3 +1,7 @@
 {
-  "[data-testid='all-projects-button']": "All projects"
+  "div > ul > h1": "Projects",
+  "[data-testid='all-projects-button']": "All projects",
+  "[data-testid='my-projects-button']": "My projects",
+  "[href^='/projects?organization=']": "Projects",
+  "[href='/deployments?organization=org_BrDOm5eGLFWpHs2e']": "Deployments"
 }

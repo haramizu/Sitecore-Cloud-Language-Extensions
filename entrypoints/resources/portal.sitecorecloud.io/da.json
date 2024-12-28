@@ -39,6 +39,5 @@
   "[data-testid='add-sso-connection-button'] span": "Tilføj SSO forbindelse",
   "[data-targetid='sitecoresupportaccess_2']": "Sitecore Support adgang",
   "[data-testid='supportAccess-heading']": "Sitecore Support adgang",
-  "[data-targetid='customhostnames_3']": "Brugerdefinerede værtsnavne",
-  "[data-testid='customHostnames-heading']": "Brugerdefinerede værtsnavne"
+  "[data-targetid='customhostnames_3']": "Brugerdefinerede værtsnavne"
 }

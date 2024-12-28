@@ -1,3 +1,7 @@
 {
-  "[data-testid='all-projects-button']": "全てのプロジェクト"
+  "div > ul > h1": "プロジェクト",
+  "[data-testid='all-projects-button']": "全てのプロジェクト",
+  "[data-testid='my-projects-button']": "マイプロジェクト",
+  "[href^='/projects?organization=']": "プロジェクト1",
+  "[href='/deployments?organization=org_BrDOm5eGLFWpHs2e']": "展開"
 }
