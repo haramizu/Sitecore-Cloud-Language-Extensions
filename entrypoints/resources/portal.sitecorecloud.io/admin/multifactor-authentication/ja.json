@@ -1,3 +1,5 @@
 {
-  "h1": "多要素認証"
+  "h1": "多要素認証",
+  "[data-testid='activateButton']": "MFA 有効化",
+  "[data-testid='mfa-badge-not-enabled']": "無効"
 }

@@ -35,9 +35,6 @@
   "aside > h2.chakra-heading.css-40ytkn": "組織の管理",
   "[data-targetid='multi-factorauthentication_0']": "多要素認証",
   "[data-targetid='singlesign-on(sso)_1']": "シングルサインオン (SSO)",
-  "[data-testid='sso-page'] h1": "シングルサインオン (SSO)",
-  "[data-testid='add-sso-connection-button'] span": "SSO 接続の追加",
   "[data-targetid='sitecoresupportaccess_2']": "サイトコアサポートアクセス",
-  "[data-testid='supportAccess-heading']": "サイトコアサポートアクセス",
   "[data-targetid='customhostnames_3']": "カスタムホスト名"
 }

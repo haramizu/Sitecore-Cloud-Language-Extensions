@@ -57,6 +57,18 @@ async function replaceTextInSelector(lang: string, domain: string) {
         pageEn = await import(`./resources/${domain}/${pathParts[0]}/${pathParts[1]}/en.json`)
           .then((m) => m.default)
           .catch(() => null);
+      } else if (pathParts.length === 3) {
+        pageEn = await import(
+          `./resources/${domain}/${pathParts[0]}/${pathParts[1]}/${pathParts[2]}/en.json`
+        )
+          .then((m) => m.default)
+          .catch(() => null);
+      } else if (pathParts.length === 4) {
+        pageEn = await import(
+          `./resources/${domain}/${pathParts[0]}/${pathParts[1]}/${pathParts[2]}/${pathParts[3]}/en.json`
+        )
+          .then((m) => m.default)
+          .catch(() => null);
       }
       if (pageEn) {
         en = { ...en, ...pageEn };
@@ -86,6 +98,18 @@ async function replaceTextInSelector(lang: string, domain: string) {
       } else if (pathParts.length === 2) {
         pageTranslation = await import(
           `./resources/${domain}/${pathParts[0]}/${pathParts[1]}/${lang}.json`
+        )
+          .then((m) => m.default)
+          .catch(() => null);
+      } else if (pathParts.length === 3) {
+        pageTranslation = await import(
+          `./resources/${domain}/${pathParts[0]}/${pathParts[1]}/${pathParts[2]}/${lang}.json`
+        )
+          .then((m) => m.default)
+          .catch(() => null);
+      } else if (pathParts.length === 4) {
+        pageTranslation = await import(
+          `./resources/${domain}/${pathParts[0]}/${pathParts[1]}/${pathParts[2]}/${pathParts[3]}/${lang}.json`
         )
           .then((m) => m.default)
           .catch(() => null);
