@@ -8,7 +8,7 @@ export default defineConfig({
     name: 'Language Switcher',
     description: 'Sitecore Language Switcher',
     default_locale: 'en',
-    version: '0.1.2',
+    version: '0.2.0',
     permissions: ['storage'],
   },
 });
