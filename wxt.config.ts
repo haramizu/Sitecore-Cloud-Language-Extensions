@@ -7,7 +7,7 @@ export default defineConfig({
   manifest: {
     name: 'Language Switcher',
     description: 'Sitecore Language Switcher',
-    version: '0.1.0',
+    version: '0.1.1',
     permissions: ['storage'],
   },
 });
