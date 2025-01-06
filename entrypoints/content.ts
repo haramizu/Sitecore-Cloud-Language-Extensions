@@ -36,10 +36,32 @@ async function replaceTextInSelector(lang: string, domain: string) {
   let selectors: TranslationKeys[] = [];
   let en: Record<string, string>;
 
+  const path = window.location.pathname;
+  console.log('path: ' + path);
+
   try {
     en = await import(`./resources/${domain}/en.json`)
       .then((module) => module.default)
       .catch(() => null);
+
+    // If the page is not the home page, try to load the page translation
+    if (path !== '/') {
+      const pathParts = path.split('/').filter(Boolean);
+      let pageEn = null;
+
+      if (pathParts.length === 1) {
+        pageEn = await import(`./resources/${domain}/${pathParts[0]}/en.json`)
+          .then((m) => m.default)
+          .catch(() => null);
+      } else if (pathParts.length === 2) {
+        pageEn = await import(`./resources/${domain}/${pathParts[0]}/${pathParts[1]}/en.json`)
+          .then((m) => m.default)
+          .catch(() => null);
+      }
+      if (pageEn) {
+        en = { ...en, ...pageEn };
+      }
+    }
     selectors = Object.keys(en) as TranslationKeys[];
   } catch (error) {
     console.error(`English translation file for ${domain} not found.`);
@@ -49,8 +71,29 @@ async function replaceTextInSelector(lang: string, domain: string) {
   let translations: Record<string, string> | null = null;
 
   try {
-    const module = await import(`./resources/${domain}/${lang}.json`);
-    translations = module.default;
+    translations = await import(`./resources/${domain}/${lang}.json`)
+      .then((module) => module.default)
+      .catch(() => null);
+    // If the page is not the home page, try to load the page translation
+    if (path !== '/') {
+      const pathParts = path.split('/').filter(Boolean);
+      let pageTranslation = null;
+
+      if (pathParts.length === 1) {
+        pageTranslation = await import(`./resources/${domain}/${pathParts[0]}/${lang}.json`)
+          .then((m) => m.default)
+          .catch(() => null);
+      } else if (pathParts.length === 2) {
+        pageTranslation = await import(
+          `./resources/${domain}/${pathParts[0]}/${pathParts[1]}/${lang}.json`
+        )
+          .then((m) => m.default)
+          .catch(() => null);
+      }
+      if (pageTranslation) {
+        translations = { ...translations, ...pageTranslation };
+      }
+    }
   } catch (error) {
     console.error(`Translation file for ${lang} not found.`);
     return;
