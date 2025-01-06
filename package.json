@@ -1,8 +1,8 @@
 {
-  "name": "sitecore-multilanguage-assistant",
-  "description": "manifest.json description",
+  "name": "sitecore-cloud-language-extensions",
+  "description": "Browser extension to switch the display language of Sitecore Cloud",
   "private": true,
-  "version": "0.1.0",
+  "version": "0.1.1",
   "type": "module",
   "scripts": {
     "dev": "wxt",
