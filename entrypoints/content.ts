@@ -1,5 +1,5 @@
 import languages from './resources/languages.json';
-import { storage } from "@wxt-dev/storage";
+import { storage } from '@wxt-dev/storage';
 
 type TranslationKeys = keyof typeof String;
 
@@ -14,7 +14,10 @@ export default defineContentScript({
     console.log('domain: ' + domain);
 
     // If the language is 'en', do not execute
-    if (lang.startsWith('en') || !Object.keys(languages).some(language => lang.startsWith(language))) {
+    if (
+      lang.startsWith('en') ||
+      !Object.keys(languages).some((language) => lang.startsWith(language))
+    ) {
       return;
     }
 
@@ -34,7 +37,9 @@ async function replaceTextInSelector(lang: string, domain: string) {
   let en: Record<string, string>;
 
   try {
-    en = await import(`./resources/${domain}/en.json`).then(module => module.default).catch(() => null);
+    en = await import(`./resources/${domain}/en.json`)
+      .then((module) => module.default)
+      .catch(() => null);
     selectors = Object.keys(en) as TranslationKeys[];
   } catch (error) {
     console.error(`English translation file for ${domain} not found.`);
@@ -51,11 +56,11 @@ async function replaceTextInSelector(lang: string, domain: string) {
     return;
   }
 
-  selectors.forEach(selector => {
+  selectors.forEach((selector) => {
     const elements = document.querySelectorAll(selector);
-    elements.forEach(element => {
+    elements.forEach((element) => {
       if (translations && element.childNodes.length) {
-        element.childNodes.forEach(child => {
+        element.childNodes.forEach((child) => {
           if (child.nodeType === Node.TEXT_NODE && child.textContent?.trim() === en[selector]) {
             if (translations[selector as keyof typeof translations]) {
               child.textContent = translations[selector as keyof typeof translations];
