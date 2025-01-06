@@ -2,10 +2,6 @@
 
 By installing the browser extension created here, you can switch the language of the management screens of the following tools provided by Sitecore Cloud.
 
-![Screenshot 1](/docs/assets/sclx01.png)
-
-![Screenshot 2](/docs/assets/sclx02.gif)
-
 ## System Requirements
 
 By using the package provided here, you can switch languages in the following browsers:
