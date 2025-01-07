@@ -6,7 +6,7 @@
   "[class='chakra-menu__group__title chakra-menu__option-group css-2z7zj3']": "Admin",
   "[id='menu-list-:r3:-menuitem-:rf:'] span[style='pointer-events: none; flex: 1 1 0%;']": "Teammedlemmer",
   "[id='menu-list-:r3:-menuitem-:rg:'] span[style='pointer-events: none; flex: 1 1 0%;']": "Invitationer",
-  "[id='menu-list-:r3:-menuitem-:rh:'] span[style='pointer-events: none; flex: 1 1 0%;']": "Multi-faktor autentificering",
+  "[id='menu-list-:r3:-menuitem-:rh:'] span[style='pointer-events: none; flex: 1 1 0%;']": "Multi-faktor godkendelse",
   "[id='menu-list-:r3:-menuitem-:ri:'] span[style='pointer-events: none; flex: 1 1 0%;']": "Single sign-on (SSO)",
   "[id='menu-list-:r3:-menuitem-:rj:'] span[style='pointer-events: none; flex: 1 1 0%;']": "Sitecore Support adgang",
   "[id='menu-list-:r3:-menuitem-:rk:'] span[style='pointer-events: none; flex: 1 1 0%;']": "Brugerdefinerede værtsnavne",
@@ -33,11 +33,8 @@
   "[data-behavior-analytics-id='resend invitation - submenu']": "Send invitation igen",
   "[data-behavior-analytics-id='delete invitation - submenu']": "Slet invitation",
   "aside > h2.chakra-heading.css-40ytkn": "Organisationsadministration",
-  "[data-targetid='multi-factorauthentication_0']": "Multi-faktor autentificering",
+  "[data-targetid='multi-factorauthentication_0']": "Multi-faktor godkendelse",
   "[data-targetid='singlesign-on(sso)_1']": "Single sign-on (SSO)",
-  "[data-testid='sso-page'] h1": "Single sign-on (SSO)",
-  "[data-testid='add-sso-connection-button'] span": "Tilføj SSO forbindelse",
   "[data-targetid='sitecoresupportaccess_2']": "Sitecore Support adgang",
-  "[data-testid='supportAccess-heading']": "Sitecore Support adgang",
   "[data-targetid='customhostnames_3']": "Brugerdefinerede værtsnavne"
 }

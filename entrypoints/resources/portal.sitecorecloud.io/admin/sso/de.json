@@ -1,0 +1,12 @@
+{
+  "h1": "Einmalanmeldung (SSO)",
+  "[data-testid='add-sso-connection-button'] span": "SSO-Verbindung hinzufügen",
+  "p:nth-child(1)": "Mit der Einmalanmeldung kann Ihr Team sich mit Ihrem bestehenden Identitätsanbieter bei Ihrer Sitecore Cloud Portal-Organisation und Apps anmelden.",
+  "p:nth-child(2)": "Das Einrichten einer SSO-Verbindung umfasst einige Schritte: Neue Verbindung hinzufügen und konfigurieren → Domains verifizieren → Neue Verbindung testen → Neue Verbindung aktivieren.",
+  "tr > th:nth-child(1) > div": "E-Mail-Domains",
+  "tr > th:nth-child(2) > div": "Anbietertyp",
+  "tr > th:nth-child(3) > div": "Domains verifiziert",
+  "tr > th:nth-child(4) > div": "Status",
+  "div > button": "Testen",
+  "button[aria-label='edit connection']": "Konfigurieren"
+}

@@ -1,0 +1,10 @@
+{
+  "h1": "Benutzerdefinierte Hostnamen",
+  "[data-testid='create-custom-hostname-button']": "Benutzerdefinierten Hostnamen erstellen",
+  "tr > th:nth-child(1) > div": "Benutzerdefinierter Hostname",
+  "tr > th:nth-child(2) > div": "Standardkontext-ID",
+  "tr > th:nth-child(3) > div": "Standard-Site-ID",
+  "tr > th:nth-child(4) > div": "Erstellt",
+  "tr > th:nth-child(5) > div": "SSL-Status",
+  "tr > th:nth-child(6) > div": "Hostname-Status"
+}

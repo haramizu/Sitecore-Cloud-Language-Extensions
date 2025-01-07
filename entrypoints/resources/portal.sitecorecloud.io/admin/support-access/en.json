@@ -1,3 +1,7 @@
 {
-  "h1": "Sitecore Support access"
+  "h1": "Sitecore Support access",
+  "[data-testid='activateButton']": "Enable Access",
+  "[data-testid='support-access-badge-not-enabled']": "Not enabled",
+  "p": "Grant Sitecore support engineers access to your organization and all its apps to resolve technical issues. To revoke the access, click disable access.",
+  "h2": "No Logs yet"
 }

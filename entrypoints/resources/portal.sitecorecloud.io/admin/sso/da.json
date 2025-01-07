@@ -1,0 +1,12 @@
+{
+  "h1": "Single sign-on (SSO)",
+  "[data-testid='add-sso-connection-button'] span": "Tilføj SSO-forbindelse",
+  "p:nth-child(1)": "Med single sign-on kan dit team logge ind på din Sitecore Cloud Portal-organisation og apps ved hjælp af din eksisterende identitetsudbyder.",
+  "p:nth-child(2)": "Opsætning af en SSO-forbindelse involverer nogle få trin: Tilføj og konfigurer en ny forbindelse → Bekræft domænerne → Test den nye forbindelse → Aktiver den nye forbindelse.",
+  "tr > th:nth-child(1) > div": "E-mail domæner",
+  "tr > th:nth-child(2) > div": "Udbyder type",
+  "tr > th:nth-child(3) > div": "Domæner bekræftet",
+  "tr > th:nth-child(4) > div": "Status",
+  "div > button": "Test",
+  "button[aria-label='edit connection']": "Konfigurer"
+}

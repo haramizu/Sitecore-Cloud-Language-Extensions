@@ -1,0 +1,7 @@
+{
+  "h1": "Sitecore Support adgang",
+  "[data-testid='activateButton']": "Aktiver adgang",
+  "[data-testid='support-access-badge-not-enabled']": "Ikke aktiveret",
+  "p": "Giv Sitecore supportingeniører adgang til din organisation og alle dens apps for at løse tekniske problemer. For at tilbagekalde adgangen, klik på deaktiver adgang.",
+  "h2": "Ingen logfiler endnu"
+}

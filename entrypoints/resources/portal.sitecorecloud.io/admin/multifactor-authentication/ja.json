@@ -1,5 +1,6 @@
 {
   "h1": "多要素認証",
   "[data-testid='activateButton']": "MFA 有効化",
-  "[data-testid='mfa-badge-not-enabled']": "無効"
+  "[data-testid='mfa-badge-not-enabled']": "無効",
+  "p:nth-child(1)": "多要素認証 (MFA) とは、ログインするために2つ以上の認証要素をユーザーに要求する認証方法である。 MFAを有効にすると、組織内のすべてのユーザーがMFAを使用する必要があります。"
 }

@@ -1,0 +1,6 @@
+{
+  "h1": "Mehrstufige Authentifizierung",
+  "[data-testid='activateButton']": "MFA aktivieren",
+  "[data-testid='mfa-badge-not-enabled']": "Nicht aktiviert",
+  "p:nth-child(1)": "Die mehrstufige Authentifizierung (MFA) ist eine Authentifizierungsmethode, die von einem Benutzer verlangt, zwei oder mehr Überprüfungsfaktoren anzugeben, um sich anzumelden. Wenn MFA aktiviert ist, muss jeder Benutzer in Ihrer Organisation sie verwenden."
+}

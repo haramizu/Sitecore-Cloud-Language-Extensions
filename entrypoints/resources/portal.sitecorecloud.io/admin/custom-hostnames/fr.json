@@ -1,0 +1,10 @@
+{
+  "h1": "Noms d'hôtes personnalisés",
+  "[data-testid='create-custom-hostname-button']": "Créer un nom d'hôte personnalisé",
+  "tr > th:nth-child(1) > div": "Nom d'hôte personnalisé",
+  "tr > th:nth-child(2) > div": "ID de contexte par défaut",
+  "tr > th:nth-child(3) > div": "ID de site par défaut",
+  "tr > th:nth-child(4) > div": "Créé",
+  "tr > th:nth-child(5) > div": "Statut SSL",
+  "tr > th:nth-child(6) > div": "Statut du nom d'hôte"
+}

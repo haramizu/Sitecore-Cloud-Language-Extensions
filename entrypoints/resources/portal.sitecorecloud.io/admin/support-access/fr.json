@@ -1,0 +1,7 @@
+{
+  "h1": "Accès au support Sitecore",
+  "[data-testid='activateButton']": "Activer l'accès",
+  "[data-testid='support-access-badge-not-enabled']": "Non activé",
+  "p": "Accordez aux ingénieurs du support Sitecore l'accès à votre organisation et à toutes ses applications pour résoudre les problèmes techniques. Pour révoquer l'accès, cliquez sur désactiver l'accès.",
+  "h2": "Pas encore de journaux"
+}

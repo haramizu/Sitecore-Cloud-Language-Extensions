@@ -1,0 +1,6 @@
+{
+  "h1": "Authentification multi-facteurs",
+  "[data-testid='activateButton']": "Activer MFA",
+  "[data-testid='mfa-badge-not-enabled']": "Non activé",
+  "p:nth-child(1)": "L'authentification multi-facteurs (MFA) est une méthode d'authentification qui nécessite qu'un utilisateur fournisse deux ou plusieurs facteurs de vérification pour se connecter. Lorsque la MFA est activée, chaque utilisateur de votre organisation doit l'utiliser."
+}

@@ -1,0 +1,7 @@
+{
+  "h1": "Sitecore Support-Zugang",
+  "[data-testid='activateButton']": "Zugang aktivieren",
+  "[data-testid='support-access-badge-not-enabled']": "Nicht aktiviert",
+  "p": "Gewähren Sie Sitecore-Support-Ingenieuren Zugriff auf Ihre Organisation und alle ihre Apps, um technische Probleme zu lösen. Um den Zugriff zu widerrufen, klicken Sie auf Zugang deaktivieren.",
+  "h2": "Noch keine Protokolle"
+}
