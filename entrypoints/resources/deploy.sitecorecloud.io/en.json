@@ -1,7 +1,12 @@
 {
   "div > ul > h1": "Projects",
-  "[data-testid='all-projects-button']": "All projects",
-  "[data-testid='my-projects-button']": "My projects",
-  "[href^='/projects?organization=']": "Projects",
-  "[href='/deployments?organization=org_BrDOm5eGLFWpHs2e']": "Deployments"
+  "[href^='/projects']": "Projects",
+  "[href^='/deployments']": "Deployments",
+  "[href^='/credentials/organization']": "Credentials",
+  "[href^='/connections/sourcecontrol']": "Connections",
+  "[href^='/documentation']": "Documentation",
+  "[href^='/system-status']": "System status",
+  "[href^='/settings']": "Settings",
+  "[data-testid='tab-environments']": "Environments",
+  "[data-testid='tab-projectDetails']": "Details"
 }
