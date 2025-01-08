@@ -1,0 +1,12 @@
+{
+  "header > div > h2": "プロジェクトの作成",
+  "[data-testid='btn-Cancel']": "取り消し",
+  "div > div:nth-child(1) > div.css-1iz8ajm > h3": "プロジェクト名",
+  "div > div:nth-child(2) > div.css-1iz8ajm > h3": "ソース管理の選択",
+  "div > div:nth-child(3) > div.css-1iz8ajm > h3": "リポジトリ設定",
+  "div > div:nth-child(4) > div.css-1iz8ajm > h3": "環境の設定",
+  "div > div:nth-child(5) > div.css-1iz8ajm > h3": "確認と展開",
+  "[data-testid='create-project-wizard-form'] h2": "プロジェクト名",
+  "[data-testid='create-project-wizard-form'] .chakra-form__label": "プロジェクトの名前",
+  "[data-testid='btn-Continue']": "続行"
+}

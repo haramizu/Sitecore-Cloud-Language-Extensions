@@ -1,0 +1,14 @@
+{
+  "header > div > h2": "Create project",
+  "[data-testid='btn-Cancel']": "Cancel",
+  "div > div:nth-child(1) > div.css-1iz8ajm > h3": "Name your project",
+  "div > div:nth-child(2) > div.css-1iz8ajm > h3": "Choose source control",
+  "div > div:nth-child(3) > div.css-1iz8ajm > h3": "Set up repository",
+  "div > div:nth-child(4) > div.css-1iz8ajm > h3": "Configure authoring environment",
+  "div > div:nth-child(5) > div.css-1iz8ajm > h3": "Review and deploy",
+  "form > div > h2": "Configure authoring environment",
+  "form > div > div > label": "Environment name",
+  "form > div > p": "Enter a meaningful name, for example a name including staging, dev, or prod.",
+  "[data-testid='btn-Back']": "Back",
+  "[data-testid='btn-Continue']": "Continue"
+}
