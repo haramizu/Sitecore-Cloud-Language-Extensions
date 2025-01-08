@@ -1,0 +1,12 @@
+{
+  "h1": "Verbindungen",
+  "#root > div > div > div > main > div > div > main > p": "Erstellen und anzeigen Ihrer autorisierten Git-basierten Quellcode-Verbindungen. Auf der Registerkarte Hosting können Sie Ihre Hosting-Anbieter verwalten.",
+  "[data-testid='tab-sourceControl']": "Quellcodeverwaltung",
+  "[data-testid='tab-hosting']": "Hosting",
+  "[data-testid='hosting-connection-menubutton'] span": "Verbindung erstellen",
+  "tr > th:nth-child(1) > div": "Name",
+  "tr > th:nth-child(2) > div": "Anbieter",
+  "tr > th:nth-child(3) > div": "Verbindungs-ID",
+  "tr > th:nth-child(4) > div": "Erstellt von",
+  "tr > th:nth-child(5) > div": "Erstellungsdatum"
+}

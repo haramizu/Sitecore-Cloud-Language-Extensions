@@ -1,5 +1,9 @@
 {
   "h1": "プロジェクト",
   "[data-testid='all-projects-button']": "全てのプロジェクト",
-  "[data-testid='my-projects-button']": "マイプロジェクト"
+  "[data-testid='my-projects-button']": "マイプロジェクト",
+  "[data-testid='btn-Create project']": "プロジェクトの作成",
+  "tr > th:nth-child(1) > div": "名前",
+  "tr > th:nth-child(3) > div": "環境数",
+  "tr > th:nth-child(4) > div": "作成日"
 }

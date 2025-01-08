@@ -1,5 +1,3 @@
 {
-  "h1": "Settings",
-  "[data-testid='all-projects-button']": "All projects",
-  "[data-testid='my-projects-button']": "My projects"
+  "h1": "Settings"
 }

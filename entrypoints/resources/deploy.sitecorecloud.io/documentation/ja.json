@@ -1,5 +1,3 @@
 {
-  "h1": "ドキュメント",
-  "[data-testid='all-projects-button']": "全てのプロジェクト",
-  "[data-testid='my-projects-button']": "マイプロジェクト"
+  "h1": "ドキュメント"
 }

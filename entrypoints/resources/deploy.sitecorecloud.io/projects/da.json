@@ -1,0 +1,9 @@
+{
+  "h1": "Projekter",
+  "[data-testid='all-projects-button']": "Alle projekter",
+  "[data-testid='my-projects-button']": "Mine projekter",
+  "[data-testid='btn-Create project']": "Opret projekt",
+  "tr > th:nth-child(1) > div": "Navn",
+  "tr > th:nth-child(3) > div": "Antal miljøer",
+  "tr > th:nth-child(4) > div": "Oprettelsesdato"
+}
