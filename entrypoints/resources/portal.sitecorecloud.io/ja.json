@@ -47,5 +47,25 @@
   "form > div:nth-of-type(3) > div > div > div > div:nth-of-type(3) > label": "アプリのアクセス",
   "[data-testid='invitation-add-product-button']": "アプリの追加",
   "[data-testid='cancel-btn']": "取り消し",
-  "[data-testid='submit-btn']": "招待を送信"
+  "[data-testid='submit-btn']": "招待を送信",
+  "header > div:nth-of-type(1) > button:nth-of-type(2) > span": "メニュー",
+  "header > div:nth-of-type(1) > div:nth-of-type(1) > div > button > span:nth-of-type(2)": "ホーム",
+  "header > div:nth-of-type(1) > div:nth-of-type(1) > div > div > p": "管理",
+  "header > div:nth-of-type(1) > div:nth-of-type(1) > div > div > button:nth-of-type(1) > span:nth-of-type(2)": "チームメンバー",
+  "header > div:nth-of-type(1) > div:nth-of-type(1) > div > div > button:nth-of-type(2) > span:nth-of-type(2)": "招待",
+  "header > div:nth-of-type(1) > div:nth-of-type(1) > div > div > button:nth-of-type(3) > span:nth-of-type(2)": "多要素認証",
+  "header > div:nth-of-type(1) > div:nth-of-type(1) > div > div > button:nth-of-type(4) > span:nth-of-type(2)": "シングルサインオン (SSO)",
+  "header > div:nth-of-type(1) > div:nth-of-type(1) > div > div > button:nth-of-type(5) > span:nth-of-type(2)": "サイトコアサポートアクセス",
+  "header > div:nth-of-type(1) > div:nth-of-type(1) > div > div > button:nth-of-type(6) > span:nth-of-type(2)": "カスタムホスト名",
+  "[data-testid='discardChangesModal-title']": "変更の取り消し",
+  "section > div > p": "保存されていない変更を破棄して終了しますか？",
+  "[data-testid='discardChangesModal-keepEditingButton']": "編集を続ける",
+  "[data-testid='discardChangesModal-discardButton']": "破棄する",
+  "[data-testid='delete-invitation-modal-content'] header": "招待を削除",
+  "[data-testid='delete-invitation-modal-content'] div p": "招待状を削除しようとしています。この操作は取り消しできません。",
+  "[data-testid='invitation-delete-conf-close-btn']": "取り消し",
+  "[data-testid='invitation-delete-conf-delete-btn']": "削除",
+  "[data-testid='resend-invitation-button']": "再送",
+  "[data-testid='delete-invitation-button']": "招待を削除"
 }
+

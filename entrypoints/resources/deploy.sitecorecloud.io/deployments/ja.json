@@ -9,5 +9,8 @@
   "tr > th:nth-child(3) > div": "環境",
   "tr > th:nth-child(4) > div": "環境 ID",
   "tr > th:nth-child(5) > div": "日付",
-  "[data-testid='deployments-status-header']": "ステータス"
+  "[data-testid='deployments-status-header']": "ステータス",
+  "tr > td:nth-child(7) > div > div > button:nth-child(1)": "展開ログを参照",
+  "tr > td:nth-child(7) > div > div > button:nth-child(2)": "展開の取り消し"
 }
+

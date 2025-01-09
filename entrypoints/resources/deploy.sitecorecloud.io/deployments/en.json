@@ -9,5 +9,7 @@
   "tr > th:nth-child(3) > div": "Environment",
   "tr > th:nth-child(4) > div": "Environment ID",
   "tr > th:nth-child(5) > div": "Date",
-  "[data-testid='deployments-status-header']": "Status"
+  "[data-testid='deployments-status-header']": "Status",
+  "tr > td:nth-child(7) > div > div > button:nth-child(1)": "View deployment logs",
+  "tr > td:nth-child(7) > div > div > button:nth-child(2)": "Cancel deployment"
 }

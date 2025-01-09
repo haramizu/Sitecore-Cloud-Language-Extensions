@@ -47,6 +47,25 @@
   "form > div:nth-of-type(3) > div > div > div > div:nth-of-type(3) > label": "App-Zugriff",
   "[data-testid='invitation-add-product-button']": "App hinzufügen",
   "[data-testid='cancel-btn']": "Abbrechen",
-  "[data-testid='submit-btn']": "Einladungen senden"
+  "[data-testid='submit-btn']": "Einladungen senden",
+  "header > div:nth-of-type(1) > button:nth-of-type(2) > span": "Menü",
+  "header > div:nth-of-type(1) > div:nth-of-type(1) > div > button > span:nth-of-type(2)": "Startseite",
+  "header > div:nth-of-type(1) > div:nth-of-type(1) > div > div > p": "Admin",
+  "header > div:nth-of-type(1) > div:nth-of-type(1) > div > div > button:nth-of-type(1) > span:nth-of-type(2)": "Teammitglieder",
+  "header > div:nth-of-type(1) > div:nth-of-type(1) > div > div > button:nth-of-type(2) > span:nth-of-type(2)": "Einladungen",
+  "header > div:nth-of-type(1) > div:nth-of-type(1) > div > div > button:nth-of-type(3) > span:nth-of-type(2)": "Multi-Faktor-Authentifizierung",
+  "header > div:nth-of-type(1) > div:nth-of-type(1) > div > div > button:nth-of-type(4) > span:nth-of-type(2)": "Einmalanmeldung (SSO)",
+  "header > div:nth-of-type(1) > div:nth-of-type(1) > div > div > button:nth-of-type(5) > span:nth-of-type(2)": "Sitecore Support-Zugang",
+  "header > div:nth-of-type(1) > div:nth-of-type(1) > div > div > button:nth-of-type(6) > span:nth-of-type(2)": "Benutzerdefinierte Hostnamen",
+  "[data-testid='discardChangesModal-title']": "Änderungen verwerfen?",
+  "section > div > p": "Ungespeicherte Änderungen verwerfen und schließen?",
+  "[data-testid='discardChangesModal-keepEditingButton']": "Weiter bearbeiten",
+  "[data-testid='discardChangesModal-discardButton']": "Verwerfen",
+  "[data-testid='delete-invitation-modal-content'] header": "Einladung löschen",
+  "[data-testid='delete-invitation-modal-content'] div p": "Sie sind dabei, die Einladung zu löschen. Diese Aktion kann nicht rückgängig gemacht werden.",
+  "[data-testid='invitation-delete-conf-close-btn']": "Abbrechen",
+  "[data-testid='invitation-delete-conf-delete-btn']": "Löschen",
+  "[data-testid='resend-invitation-button']": "Erneut senden",
+  "[data-testid='delete-invitation-button']": "Einladung löschen"
 }
 

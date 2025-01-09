@@ -47,6 +47,25 @@
   "form > div:nth-of-type(3) > div > div > div > div:nth-of-type(3) > label": "Accès à l'application",
   "[data-testid='invitation-add-product-button']": "Ajouter une application",
   "[data-testid='cancel-btn']": "Annuler",
-  "[data-testid='submit-btn']": "Envoyer les invitations"
+  "[data-testid='submit-btn']": "Envoyer les invitations",
+  "header > div:nth-of-type(1) > button:nth-of-type(2) > span": "Menu",
+  "header > div:nth-of-type(1) > div:nth-of-type(1) > div > button > span:nth-of-type(2)": "Accueil",
+  "header > div:nth-of-type(1) > div:nth-of-type(1) > div > div > p": "Admin",
+  "header > div:nth-of-type(1) > div:nth-of-type(1) > div > div > button:nth-of-type(1) > span:nth-of-type(2)": "Membres de l'équipe",
+  "header > div:nth-of-type(1) > div:nth-of-type(1) > div > div > button:nth-of-type(2) > span:nth-of-type(2)": "Invitations",
+  "header > div:nth-of-type(1) > div:nth-of-type(1) > div > div > button:nth-of-type(3) > span:nth-of-type(2)": "Authentification multi-facteurs",
+  "header > div:nth-of-type(1) > div:nth-of-type(1) > div > div > button:nth-of-type(4) > span:nth-of-type(2)": "Authentification unique (SSO)",
+  "header > div:nth-of-type(1) > div:nth-of-type(1) > div > div > button:nth-of-type(5) > span:nth-of-type(2)": "Accès au support Sitecore",
+  "header > div:nth-of-type(1) > div:nth-of-type(1) > div > div > button:nth-of-type(6) > span:nth-of-type(2)": "Noms d'hôte personnalisés",
+  "[data-testid='discardChangesModal-title']": "Annuler les modifications?",
+  "section > div > p": "Annuler les modifications non enregistrées et fermer?",
+  "[data-testid='discardChangesModal-keepEditingButton']": "Continuer à éditer",
+  "[data-testid='discardChangesModal-discardButton']": "Annuler",
+  "[data-testid='delete-invitation-modal-content'] header": "Supprimer l'invitation",
+  "[data-testid='delete-invitation-modal-content'] div p": "Vous êtes sur le point de supprimer l'invitation. Cette action ne peut pas être annulée.",
+  "[data-testid='invitation-delete-conf-close-btn']": "Annuler",
+  "[data-testid='invitation-delete-conf-delete-btn']": "Supprimer",
+  "[data-testid='resend-invitation-button']": "Renvoyer",
+  "[data-testid='delete-invitation-button']": "Supprimer l'invitation"
 }
 

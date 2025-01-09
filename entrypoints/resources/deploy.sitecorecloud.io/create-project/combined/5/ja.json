@@ -5,8 +5,18 @@
   "div > div:nth-child(2) > div.css-1iz8ajm > h3": "ソース管理の選択",
   "div > div:nth-child(3) > div.css-1iz8ajm > h3": "リポジトリ設定",
   "div > div:nth-child(4) > div.css-1iz8ajm > h3": "環境の設定",
-  "div > div:nth-child(5) > div.css-1iz8ajm > h3": "確認と展開",
-  "form > div > h2": "確認と展開",
+  "div > div:nth-child(5) > div.css-1iz8ajm > h3": "レビューと展開",
+  "form > div > h2": "レビューと展開",
+  "form > div > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div > div > div > div > div > p": "プロジェクト名",
+  "form > div > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div > div > div > div > div > p": "ソース管理の選択",
+  "form > div > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div > div > div > p": "リポジトリ",
+  "form > div > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div > div > div > div:nth-of-type(2) > div > p": "リポジトリ名",
+  "form > div > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > div > div > div > p": "環境",
+  "form > div > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > div > div > div > div:nth-of-type(1) > div > p": "環境名",
+  "form > div > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > div > div > div > div:nth-of-type(2) > div > p": "プロダクション SaaS SLA",
+  "form > div > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > div > div > div > div:nth-of-type(3) > div > p": "リポジトリへのプッシュで自動デプロイ",
+  "[data-testid='btn-Edit']": "編集",
   "[data-testid='btn-Back']": "戻る",
   "[data-testid='btn-Start deployment']": "展開を開始"
 }
+

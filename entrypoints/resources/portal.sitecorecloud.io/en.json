@@ -47,6 +47,25 @@
   "form > div:nth-of-type(3) > div > div > div > div:nth-of-type(3) > label": "App access",
   "[data-testid='invitation-add-product-button']": "Add app",
   "[data-testid='cancel-btn']": "Cancel",
-  "[data-testid='submit-btn']": "Send invites"
+  "[data-testid='submit-btn']": "Send invites",
+  "header > div:nth-of-type(1) > button:nth-of-type(2) > span": "Menu",
+  "header > div:nth-of-type(1) > div:nth-of-type(1) > div > button > span:nth-of-type(2)": "Home",
+  "header > div:nth-of-type(1) > div:nth-of-type(1) > div > div > p": "Admin",
+  "header > div:nth-of-type(1) > div:nth-of-type(1) > div > div > button:nth-of-type(1) > span:nth-of-type(2)": "Team members",
+  "header > div:nth-of-type(1) > div:nth-of-type(1) > div > div > button:nth-of-type(2) > span:nth-of-type(2)": "Invitations",
+  "header > div:nth-of-type(1) > div:nth-of-type(1) > div > div > button:nth-of-type(3) > span:nth-of-type(2)": "Multi-factor authentication",
+  "header > div:nth-of-type(1) > div:nth-of-type(1) > div > div > button:nth-of-type(4) > span:nth-of-type(2)": "Single sign-on (SSO)",
+  "header > div:nth-of-type(1) > div:nth-of-type(1) > div > div > button:nth-of-type(5) > span:nth-of-type(2)": "Sitecore Support access",
+  "header > div:nth-of-type(1) > div:nth-of-type(1) > div > div > button:nth-of-type(6) > span:nth-of-type(2)": "Custom hostnames",
+  "[data-testid='discardChangesModal-title']": "Discard changes?",
+  "section > div > p": "Discard unsaved changes and close?",
+  "[data-testid='discardChangesModal-keepEditingButton']": "Keep editing",
+  "[data-testid='discardChangesModal-discardButton']": "Discard",
+  "[data-testid='delete-invitation-modal-content'] header": "Delete invitation",
+  "[data-testid='delete-invitation-modal-content'] div p": "You are about to delete the invitation. This action cannot be undone.",
+  "[data-testid='invitation-delete-conf-close-btn']": "Cancel",
+  "[data-testid='invitation-delete-conf-delete-btn']": "Delete",
+  "[data-testid='resend-invitation-button']": "Resend",
+  "[data-testid='delete-invitation-button']": "Delete invitation"
 }
 
