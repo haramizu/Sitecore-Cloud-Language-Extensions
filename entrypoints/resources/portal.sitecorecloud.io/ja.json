@@ -23,7 +23,7 @@
   "[data-testid='help-item-Sitecore Support Portal'] p": "問題の報告とサポートケースの管理",
   "[data-testid='help-item-Sitecore Learning'] p": "世界クラスのトレーニングと Sitecore 認定",
   "[data-testid='help-item-Sitecore Developer Portal'] p": "最高の開発者体験のためのリソース",
-  "main > div > div.css-10bz5b3 > h1": "チームメンバー",
+  "main > div > div:nth-of-type(1) > h1": "チームメンバー",
   "[data-testid='export']": "エクポート",
   "[data-testid='create_invite_toggle']": "招待",
   "tr > th:nth-child(2) > div": "名",

@@ -23,7 +23,7 @@
   "[data-testid='help-item-Sitecore Learning'] p": "Get world-class training and Sitecore certification",
   "[data-testid='help-item-Sitecore Developer Portal'] p": "Resources for the best developer experience",
   "[data-testid='help-item-Help'] p": "Useful links and support",
-  "main > div > div.css-10bz5b3 > h1": "Team members",
+  "main > div > div:nth-of-type(1) > h1": "Team members",
   "[data-testid='export']": "Export",
   "[data-testid='create_invite_toggle']": "Invite",
   "tr > th:nth-child(2) > div": "Given name",
@@ -49,3 +49,4 @@
   "[data-testid='cancel-btn']": "Cancel",
   "[data-testid='submit-btn']": "Send invites"
 }
+
