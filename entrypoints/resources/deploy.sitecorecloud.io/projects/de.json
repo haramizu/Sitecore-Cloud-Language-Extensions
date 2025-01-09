@@ -5,5 +5,6 @@
   "[data-testid='btn-Create project']": "Projekt erstellen",
   "tr > th:nth-child(1) > div": "Name",
   "tr > th:nth-child(3) > div": "Anzahl der Umgebungen",
-  "tr > th:nth-child(4) > div": "Erstellungsdatum"
+  "tr > th:nth-child(4) > div": "Erstellungsdatum",
+  "tr > td:nth-of-type(5) > div > div > span > button": "Projekt löschen"
 }
