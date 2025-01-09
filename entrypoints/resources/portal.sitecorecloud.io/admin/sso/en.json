@@ -3,10 +3,10 @@
   "[data-testid='add-sso-connection-button'] span": "Add SSO connection",
   "p:nth-child(1)": "With single sign-on, your team can log in to your Sitecore Cloud Portal organization and apps using your existing identity provider.",
   "p:nth-child(2)": "Setting up an SSO connection involves a few steps: Add and configure a new connection → Verify the domains → Test the new connection → Enable the new connection.",
-  "tr > th:nth-child(1) > div": "Email domains",
-  "tr > th:nth-child(2) > div": "Provider type",
-  "tr > th:nth-child(3) > div": "Domains verified",
-  "tr > th:nth-child(4) > div": "Status",
-  "div > button": "Test",
+  "tr th:nth-child(1) div": "Email domains",
+  "tr th:nth-child(2) div": "Provider type",
+  "tr th:nth-child(3) div": "Domains verified",
+  "tr th:nth-child(4) div": "Status",
+  "div button": "Test",
   "button[aria-label='edit connection']": "Configure"
 }

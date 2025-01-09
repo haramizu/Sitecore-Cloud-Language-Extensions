@@ -1,10 +1,10 @@
 {
   "h1": "Custom hostnames",
   "[data-testid='create-custom-hostname-button']": "Create custom hostname",
-  "tr > th:nth-child(1) > div": "Custom hostname",
-  "tr > th:nth-child(2) > div": "Default Context ID",
-  "tr > th:nth-child(3) > div": "Default site ID",
-  "tr > th:nth-child(4) > div": "Created",
-  "tr > th:nth-child(5) > div": "SSL status",
-  "tr > th:nth-child(6) > div": "Hostname status"
+  "tr th:nth-child(1) div": "Custom hostname",
+  "tr th:nth-child(2) div": "Default Context ID",
+  "tr th:nth-child(3) div": "Default site ID",
+  "tr th:nth-child(4) div": "Created",
+  "tr th:nth-child(5) div": "SSL status",
+  "tr th:nth-child(6) div": "Hostname status"
 }

@@ -3,8 +3,9 @@
   "[data-testid='all-projects-button']": "Alle projekter",
   "[data-testid='my-projects-button']": "Mine projekter",
   "[data-testid='btn-Create project']": "Opret projekt",
-  "tr > th:nth-child(1) > div": "Navn",
-  "tr > th:nth-child(3) > div": "Antal miljøer",
-  "tr > th:nth-child(4) > div": "Oprettelsesdato",
-  "tr > td:nth-of-type(5) > div > div > span > button": "Slet projekt"
+  "tr th:nth-child(1) div": "Navn",
+  "tr th:nth-child(3) div": "Antal miljøer",
+  "tr th:nth-child(4) div": "Oprettelsesdato",
+  "tr td:nth-of-type(5) div div span button": "Slet projekt"
 }
+

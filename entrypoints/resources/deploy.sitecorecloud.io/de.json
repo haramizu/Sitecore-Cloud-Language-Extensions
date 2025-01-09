@@ -1,5 +1,5 @@
 {
-  "div > ul > h1": "Projekte",
+  "div ul h1": "Projekte",
   "[href^='/projects']": "Projekte",
   "[href^='/deployments']": "Bereitstellungen",
   "[href^='/credentials/organization']": "Anmeldeinformationen",
@@ -15,8 +15,8 @@
   "[data-testid='btn-Create environment']": "Umgebung erstellen",
   "[data-testid='tab-environments']": "Umgebungen",
   "[data-testid='tab-projectDetails']": "Details",
-  "tr > th:nth-child(1) > div": "Name",
-  "tr > th:nth-child(3) > div": "Erstellungsdatum",
+  "tr th:nth-child(1) div": "Name",
+  "tr th:nth-child(3) div": "Erstellungsdatum",
   "[data-behavior-analytics-id='build-and-deploy-button']": "Erstellen und bereitstellen",
   "[data-testid='restart-environment-menu-item'] div": "Umgebung neu starten",
   "[data-testid='tab-deployments']": "Bereitstellungen",

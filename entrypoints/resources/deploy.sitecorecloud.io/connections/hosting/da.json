@@ -1,12 +1,12 @@
 {
   "h1": "Forbindelser",
-  "#root > div > div > div > main > div > div > main > p": "Opret og se dine autoriserede Git-baserede kildekontrolforbindelser. På fanen Hosting kan du administrere dine hostingudbydere.",
+  "#root div div div main div div main p": "Opret og se dine autoriserede Git-baserede kildekontrolforbindelser. På fanen Hosting kan du administrere dine hostingudbydere.",
   "[data-testid='tab-sourceControl']": "Kildekontrol",
   "[data-testid='tab-hosting']": "Hosting",
   "[data-testid='hosting-connection-menubutton'] span": "Opret forbindelse",
-  "tr > th:nth-child(1) > div": "Navn",
-  "tr > th:nth-child(2) > div": "Udbyder",
-  "tr > th:nth-child(3) > div": "Forbindelses-ID",
-  "tr > th:nth-child(4) > div": "Oprettet af",
-  "tr > th:nth-child(5) > div": "Oprettelsesdato"
+  "tr th:nth-child(1) div": "Navn",
+  "tr th:nth-child(2) div": "Udbyder",
+  "tr th:nth-child(3) div": "Forbindelses-ID",
+  "tr th:nth-child(4) div": "Oprettet af",
+  "tr th:nth-child(5) div": "Oprettelsesdato"
 }

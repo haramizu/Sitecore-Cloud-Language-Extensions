@@ -1,16 +1,16 @@
 {
-  "header > div > h2": "プロジェクトの作成",
+  "header div h2": "プロジェクトの作成",
   "[data-testid='btn-Cancel']": "取り消し",
-  "div > div:nth-child(1) > div.css-1iz8ajm > h3": "プロジェクト名",
-  "div > div:nth-child(2) > div.css-1iz8ajm > h3": "ソース管理の選択",
-  "div > div:nth-child(3) > div.css-1iz8ajm > h3": "リポジトリ設定",
-  "div > div:nth-child(4) > div.css-1iz8ajm > h3": "環境の設定",
-  "div > div:nth-child(5) > div.css-1iz8ajm > h3": "レビューと展開",
-  "form > div > h2": "リポジトリ設定",
-  "form > div > p": "プロジェクトのコードを保存する場所を選択します。",
-  "form > div > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > p": "接続先がわからない場合は、管理者にご相談ください。",
-  "form > div > div:nth-of-type(2) > div:nth-of-type(2) > label": "新しいリポジトリに名前を付ける",
-  "form > div > div:nth-of-type(2) > p": "このリポジトリにはプロジェクトのコードが格納されます。 リポジトリ名は、ソース管理システムの要件に従わなければなりません。",
+  "div div:nth-child(1) div.css-1iz8ajm h3": "プロジェクト名",
+  "div div:nth-child(2) div.css-1iz8ajm h3": "ソース管理の選択",
+  "div div:nth-child(3) div.css-1iz8ajm h3": "リポジトリ設定",
+  "div div:nth-child(4) div.css-1iz8ajm h3": "環境の設定",
+  "div div:nth-child(5) div.css-1iz8ajm h3": "レビューと展開",
+  "form div h2": "リポジトリ設定",
+  "form div p": "プロジェクトのコードを保存する場所を選択します。",
+  "form div div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(1) p": "接続先がわからない場合は、管理者にご相談ください。",
+  "form div div:nth-of-type(2) div:nth-of-type(2) label": "新しいリポジトリに名前を付ける",
+  "form div div:nth-of-type(2) p": "このリポジトリにはプロジェクトのコードが格納されます。 リポジトリ名は、ソース管理システムの要件に従わなければなりません。",
   "[data-testid='use-xmcloud-template-btn']": "XM Cloud テンプレートを使用する",
   "[data-testid='use-own-code-btn']": "独自のコードを使用する",
   "[data-testid='select-element-sourceControlIntegrationId'] label": "GitHubアカウントを選択する",
@@ -20,3 +20,4 @@
   "[data-testid='btn-Back']": "戻る",
   "[data-testid='btn-Continue']": "続行"
 }
+

@@ -1,5 +1,5 @@
 {
-  "div > ul > h1": "Projekter",
+  "div ul h1": "Projekter",
   "[href^='/projects']": "Projekter",
   "[href^='/deployments']": "Udrulninger",
   "[href^='/credentials/organization']": "Legitimationsoplysninger",
@@ -15,8 +15,8 @@
   "[data-testid='btn-Create environment']": "Opret miljø",
   "[data-testid='tab-environments']": "Miljøer",
   "[data-testid='tab-projectDetails']": "Detaljer",
-  "tr > th:nth-child(1) > div": "Navn",
-  "tr > th:nth-child(3) > div": "Oprettelsesdato",
+  "tr th:nth-child(1) div": "Navn",
+  "tr th:nth-child(3) div": "Oprettelsesdato",
   "[data-behavior-analytics-id='build-and-deploy-button']": "Byg og udrul",
   "[data-testid='restart-environment-menu-item'] div": "Genstart miljø",
   "[data-testid='tab-deployments']": "Udrulninger",

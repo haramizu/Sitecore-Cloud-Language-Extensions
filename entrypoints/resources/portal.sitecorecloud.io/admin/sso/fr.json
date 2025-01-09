@@ -3,10 +3,10 @@
   "[data-testid='add-sso-connection-button'] span": "Ajouter une connexion SSO",
   "p:nth-child(1)": "Avec l'authentification unique, votre équipe peut se connecter à votre organisation et à vos applications Sitecore Cloud Portal en utilisant votre fournisseur d'identité existant.",
   "p:nth-child(2)": "La configuration d'une connexion SSO implique quelques étapes : Ajouter et configurer une nouvelle connexion → Vérifier les domaines → Tester la nouvelle connexion → Activer la nouvelle connexion.",
-  "tr > th:nth-child(1) > div": "Domaines de messagerie",
-  "tr > th:nth-child(2) > div": "Type de fournisseur",
-  "tr > th:nth-child(3) > div": "Domaines vérifiés",
-  "tr > th:nth-child(4) > div": "Statut",
-  "div > button": "Tester",
+  "tr th:nth-child(1) div": "Domaines de messagerie",
+  "tr th:nth-child(2) div": "Type de fournisseur",
+  "tr th:nth-child(3) div": "Domaines vérifiés",
+  "tr th:nth-child(4) div": "Statut",
+  "div button": "Tester",
   "button[aria-label='edit connection']": "Configurer"
 }

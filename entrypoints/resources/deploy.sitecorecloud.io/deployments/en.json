@@ -4,12 +4,13 @@
   "[data-testid='recent-deployment-button']": "Recent deployments",
   "[data-testid='my-deployment-button']": "My deployments",
   "[data-testid='not-deployed-button']": "Not deployed",
-  "tr > th:nth-child(1) > div": "Project",
-  "tr > th:nth-child(2) > div": "Project ID",
-  "tr > th:nth-child(3) > div": "Environment",
-  "tr > th:nth-child(4) > div": "Environment ID",
-  "tr > th:nth-child(5) > div": "Date",
+  "tr th:nth-child(1) div": "Project",
+  "tr th:nth-child(2) div": "Project ID",
+  "tr th:nth-child(3) div": "Environment",
+  "tr th:nth-child(4) div": "Environment ID",
+  "tr th:nth-child(5) div": "Date",
   "[data-testid='deployments-status-header']": "Status",
-  "tr > td:nth-child(7) > div > div > button:nth-child(1)": "View deployment logs",
-  "tr > td:nth-child(7) > div > div > button:nth-child(2)": "Cancel deployment"
+  "tr td:nth-child(7) div div button:nth-child(1)": "View deployment logs",
+  "tr td:nth-child(7) div div button:nth-child(2)": "Cancel deployment"
 }
+

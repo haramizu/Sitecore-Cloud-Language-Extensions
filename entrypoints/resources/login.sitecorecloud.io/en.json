@@ -1,4 +1,4 @@
 {
-  "body > form > header": "Select organization",
-  "body > form > footer > a": "Cancel"
+  "body form header": "Select organization",
+  "body form footer a": "Cancel"
 }

@@ -4,10 +4,10 @@
   "[data-testid='recent-deployment-button']": "Seneste udrulninger",
   "[data-testid='my-deployment-button']": "Mine udrulninger",
   "[data-testid='not-deployed-button']": "Ikke udrullet",
-  "tr > th:nth-child(1) > div": "Projekt",
-  "tr > th:nth-child(2) > div": "Projekt ID",
-  "tr > th:nth-child(3) > div": "Miljø",
-  "tr > th:nth-child(4) > div": "Miljø ID",
-  "tr > th:nth-child(5) > div": "Dato",
+  "tr th:nth-child(1) div": "Projekt",
+  "tr th:nth-child(2) div": "Projekt ID",
+  "tr th:nth-child(3) div": "Miljø",
+  "tr th:nth-child(4) div": "Miljø ID",
+  "tr th:nth-child(5) div": "Dato",
   "[data-testid='deployments-status-header']": "Status"
 }

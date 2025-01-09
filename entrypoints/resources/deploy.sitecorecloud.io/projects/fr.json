@@ -3,8 +3,9 @@
   "[data-testid='all-projects-button']": "Tous les projets",
   "[data-testid='my-projects-button']": "Mes projets",
   "[data-testid='btn-Create project']": "Créer un projet",
-  "tr > th:nth-child(1) > div": "Nom",
-  "tr > th:nth-child(3) > div": "Nombre d'environnements",
-  "tr > th:nth-child(4) > div": "Date de création",
-  "tr > td:nth-of-type(5) > div > div > span > button": "Supprimer le projet"
+  "tr th:nth-child(1) div": "Nom",
+  "tr th:nth-child(3) div": "Nombre d'environnements",
+  "tr th:nth-child(4) div": "Date de création",
+  "tr td:nth-of-type(5) div div span button": "Supprimer le projet"
 }
+
