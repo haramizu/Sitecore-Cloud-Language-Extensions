@@ -20,6 +20,9 @@
   "[data-behavior-analytics-id='build-and-deploy-button']": "Erstellen und bereitstellen",
   "[data-testid='restart-environment-menu-item'] div": "Umgebung neu starten",
   "[data-testid='tab-deployments']": "Bereitstellungen",
+  "section header": "Umgebung löschen",
+  "[data-testid='Delete-confirm-button']": "Löschen",
+  "[data-testid='cancel-button']": "Abbrechen",
   "[data-testid='tab-sites']": "Websites",
   "[data-testid='btn-publish']": "Alle Websites veröffentlichen",
   "[data-testid='btn-Create site']": "Website erstellen",
@@ -35,3 +38,4 @@
   "[data-testid='contextid-live-button']": "Live",
   "[data-testid='btn-Generate API key']": "API-Schlüssel generieren"
 }
+

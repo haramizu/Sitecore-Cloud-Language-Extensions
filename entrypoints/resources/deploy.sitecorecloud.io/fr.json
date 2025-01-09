@@ -20,6 +20,9 @@
   "[data-behavior-analytics-id='build-and-deploy-button']": "Construire et déployer",
   "[data-testid='restart-environment-menu-item'] div": "Redémarrer l'environnement",
   "[data-testid='tab-deployments']": "Déploiements",
+  "section header": "Supprimer l'environnement",
+  "[data-testid='Delete-confirm-button']": "Supprimer",
+  "[data-testid='cancel-button']": "Annuler",
   "[data-testid='tab-sites']": "Sites",
   "[data-testid='btn-publish']": "Publier tous les sites",
   "[data-testid='btn-Create site']": "Créer un site",
@@ -35,3 +38,4 @@
   "[data-testid='contextid-live-button']": "En direct",
   "[data-testid='btn-Generate API key']": "Générer une clé API"
 }
+

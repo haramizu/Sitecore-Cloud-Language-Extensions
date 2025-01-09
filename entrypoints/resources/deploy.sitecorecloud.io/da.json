@@ -20,6 +20,9 @@
   "[data-behavior-analytics-id='build-and-deploy-button']": "Byg og udrul",
   "[data-testid='restart-environment-menu-item'] div": "Genstart miljø",
   "[data-testid='tab-deployments']": "Udrulninger",
+  "section header": "Slet miljø",
+  "[data-testid='Delete-confirm-button']": "Slet",
+  "[data-testid='cancel-button']": "Annuller",
   "[data-testid='tab-sites']": "Websteder",
   "[data-testid='btn-publish']": "Udgiv alle websteder",
   "[data-testid='btn-Create site']": "Opret websted",
@@ -35,3 +38,4 @@
   "[data-testid='contextid-live-button']": "Live",
   "[data-testid='btn-Generate API key']": "Generer API-nøgle"
 }
+
