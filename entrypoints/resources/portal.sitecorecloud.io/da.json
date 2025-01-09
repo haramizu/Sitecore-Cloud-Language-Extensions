@@ -66,6 +66,13 @@
   "[data-testid='invitation-delete-conf-close-btn']": "Annuller",
   "[data-testid='invitation-delete-conf-delete-btn']": "Slet",
   "[data-testid='resend-invitation-button']": "Send invitation igen",
-  "[data-testid='delete-invitation-button']": "Slet invitation"
+  "[data-testid='delete-invitation-button']": "Slet invitation",
+  "[data-testid='MFAActivationModal-header']": "Multi-faktor autentifikation",
+  "[data-testid='cancel-button']": "Annuller",
+  "[data-testid='activate-button']": "Aktiver MFA",
+  "[data-testid='hostname-creation-modal-header']": "Opret brugerdefineret værtsnavn",
+  "[data-testid='label-hostname']": "Værtsnavn",
+  "[data-testid='hostname-creation-cancelButton']": "Annuller",
+  "[data-testid='hostname-creation-submitButton']": "Opret"
 }
 

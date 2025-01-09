@@ -66,6 +66,13 @@
   "[data-testid='invitation-delete-conf-close-btn']": "Cancel",
   "[data-testid='invitation-delete-conf-delete-btn']": "Delete",
   "[data-testid='resend-invitation-button']": "Resend",
-  "[data-testid='delete-invitation-button']": "Delete invitation"
+  "[data-testid='delete-invitation-button']": "Delete invitation",
+  "[data-testid='MFAActivationModal-header']": "Multi-factor authentication",
+  "[data-testid='cancel-button']": "Cancel",
+  "[data-testid='activate-button']": "Enable MFA",
+  "[data-testid='hostname-creation-modal-header']": "Create custom hostname",
+  "[data-testid='label-hostname']": "Hostname",
+  "[data-testid='hostname-creation-cancelButton']": "Cancel",
+  "[data-testid='hostname-creation-submitButton']": "Create"
 }
 
