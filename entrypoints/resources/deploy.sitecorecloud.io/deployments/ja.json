@@ -11,6 +11,7 @@
   "tr th:nth-child(5) div": "日付",
   "[data-testid='deployments-status-header']": "ステータス",
   "tr td:nth-child(7) div div button:nth-child(1)": "展開ログを参照",
-  "tr td:nth-child(7) div div button:nth-child(2)": "展開の取り消し"
+  "tr td:nth-child(7) div div button:nth-child(2)": "展開の取り消し",
+  "main div:nth-child(3) div div h2": "まだ展開が作成されていません",
+  "main div:nth-child(3) div div p": "フィルターまたは検索パラメータを変更して、再度お試しください。"
 }
-

@@ -11,6 +11,7 @@
   "tr th:nth-child(5) div": "Date",
   "[data-testid='deployments-status-header']": "Status",
   "tr td:nth-child(7) div div button:nth-child(1)": "View deployment logs",
-  "tr td:nth-child(7) div div button:nth-child(2)": "Cancel deployment"
+  "tr td:nth-child(7) div div button:nth-child(2)": "Cancel deployment",
+  "main div:nth-child(3) div div h2": "No Deployments created yet",
+  "main div:nth-child(3) div div p": "Change your filter or search parameters and try again."
 }
-

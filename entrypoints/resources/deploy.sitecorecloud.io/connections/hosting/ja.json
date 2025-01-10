@@ -8,5 +8,6 @@
   "tr th:nth-child(2) div": "プロバイダー",
   "tr th:nth-child(3) div": "Connection ID",
   "tr th:nth-child(4) div": "作成者",
-  "tr th:nth-child(5) div": "作成日"
+  "tr th:nth-child(5) div": "作成日",
+  "tr td:nth-child(6) div div span button": "接続を削除"
 }

@@ -8,5 +8,6 @@
   "tr th:nth-child(2) div": "Fournisseur",
   "tr th:nth-child(3) div": "ID de connexion",
   "tr th:nth-child(4) div": "Créé par",
-  "tr th:nth-child(5) div": "Date de création"
+  "tr th:nth-child(5) div": "Date de création",
+  "tr td:nth-child(6) div div span button": "Supprimer"
 }

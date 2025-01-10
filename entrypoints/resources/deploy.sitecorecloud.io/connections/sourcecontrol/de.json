@@ -8,5 +8,6 @@
   "tr th:nth-child(2) div": "Anbieter",
   "tr th:nth-child(3) div": "Verbindungs-ID",
   "tr th:nth-child(4) div": "Erstellt von",
-  "tr th:nth-child(5) div": "Erstellungsdatum"
+  "tr th:nth-child(5) div": "Erstellungsdatum",
+  "tr td:nth-child(6) div div span button": "Löschen"
 }

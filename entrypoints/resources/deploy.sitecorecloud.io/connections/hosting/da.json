@@ -8,5 +8,6 @@
   "tr th:nth-child(2) div": "Udbyder",
   "tr th:nth-child(3) div": "Forbindelses-ID",
   "tr th:nth-child(4) div": "Oprettet af",
-  "tr th:nth-child(5) div": "Oprettelsesdato"
+  "tr th:nth-child(5) div": "Oprettelsesdato",
+  "tr td:nth-child(6) div div span button": "Slet forbindelse"
 }

@@ -8,5 +8,6 @@
   "tr th:nth-child(2) div": "Provider",
   "tr th:nth-child(3) div": "Connection ID",
   "tr th:nth-child(4) div": "Created by",
-  "tr th:nth-child(5) div": "Date created"
+  "tr th:nth-child(5) div": "Date created",
+  "tr td:nth-child(6) div div span button": "Delete"
 }
