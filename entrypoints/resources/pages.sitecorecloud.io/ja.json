@@ -1,3 +1,17 @@
 {
-  "#navigation-horizontal nav button.chakra-button.feaas-pnpihi": "コンポーネント"
+  "ng-spd-popover div div ng-spd-list:nth-of-type(1) h4": "環境",
+  "ng-spd-popover div div ng-spd-list:nth-of-type(2) h4": "サイト",
+  "ng-spd-list h4": "言語",
+  "app-layout-switch div span": "共有レイアウト",
+  "[data-testid='nav-editor'] span:nth-of-type(2)": "編集",
+  "[data-testid='nav-templates'] span:nth-of-type(2)": "テンプレート",
+  "[data-testid='nav-personalization'] span:nth-of-type(2)": "パーソナライズ",
+  "[data-testid='nav-analytics'] span:nth-of-type(2)": "アナリティクス",
+  "app-publish-button div div button:nth-of-type(1)": "公開",
+  "ng-spd-popover div ng-spd-list div span": "公開",
+  "ng-spd-popover div ng-spd-list div div button": "公開を開始",
+  "app-rendering-host-selector button div:nth-of-type(1)": "標準編集ホスト",
+  "ng-spd-popover div div div:nth-of-type(1) div:nth-of-type(1) label": "標準編集ホスト",
+  "ng-spd-popover div div div:nth-of-type(1) div:nth-of-type(2) label": "ローカルホスト",
+  "ng-spd-popover-wrapper ng-spd-popover div div div:nth-of-type(3) button": "保存"
 }
