@@ -1,0 +1,20 @@
+{
+  "ng-spd-split-pane app-left-hand-side app-personalization div:nth-of-type(1) div h5": "Personalisere",
+  "ng-spd-split-pane app-left-hand-side app-personalization div:nth-of-type(1) ng-spd-header-with-button h5": "Sidevarianter",
+  "ng-spd-split-pane app-left-hand-side app-personalization div:nth-of-type(1) ng-spd-header-with-button button": "Opret variant",
+  "ng-spd-page-pane app-editor-rhs div div:nth-of-type(3) div:nth-of-type(1) h4": "Om personalisering",
+  "ng-spd-page-pane app-editor-rhs div div:nth-of-type(3) div:nth-of-type(2) p:nth-of-type(1)": "En sidevariant er baseret på indholdet fra den oprindelige side. For at personalisere den har du følgende muligheder:",
+  "ng-spd-page-pane app-editor-rhs div div:nth-of-type(3) div:nth-of-type(2) ul li:nth-of-type(1)": "Ændre indholdselementet i en komponent",
+  "ng-spd-page-pane app-editor-rhs div div:nth-of-type(3) div:nth-of-type(2) ul li:nth-of-type(2)": "Skift en komponent med en anden kompatibel",
+  "ng-spd-page-pane app-editor-rhs div div:nth-of-type(3) div:nth-of-type(2) ul li:nth-of-type(3)": "Skjul komponent for den specifikke målgruppe",
+  "ng-spd-page-pane app-editor-rhs div div:nth-of-type(3) div:nth-of-type(2) ul li:nth-of-type(4)": "Nulstil til det oprindelige standardindhold",
+  "ng-spd-page-pane app-editor-rhs div div:nth-of-type(3) div:nth-of-type(2) p:nth-of-type(2)": "Vælg en komponent i lærredet for at begynde at personalisere.",
+  "ng-spd-page-pane app-editor-rhs div div:nth-of-type(3) div:nth-of-type(2) p:nth-of-type(3)": "Du kan oprette op til otte varianter af en side.",
+  "app-create-variant-dialog div ng-spd-dialog-panel ng-spd-dialog-header p": "Opret ny sidevariant",
+  "app-create-variant-dialog div ng-spd-dialog-panel app-stepper div div:nth-of-type(1) span:nth-of-type(2)": "Navngiv din sidevariant",
+  "app-create-variant-dialog div ng-spd-dialog-panel app-stepper div div:nth-of-type(3) span:nth-of-type(2)": "Opret din målgruppe",
+  "app-create-variant-dialog div ng-spd-dialog-panel div div span h5": "Begynd at oprette din sidevariant ved at give den et navn.",
+  "app-create-variant-dialog div ng-spd-dialog-panel div div div:nth-of-type(1) label": "Sidevariant navn",
+  "app-create-variant-dialog div ng-spd-dialog-panel ng-spd-dialog-actions button:nth-of-type(1)": "Annuller",
+  "app-create-variant-dialog div ng-spd-dialog-panel ng-spd-dialog-actions button:nth-of-type(2)": "Næste"
+}

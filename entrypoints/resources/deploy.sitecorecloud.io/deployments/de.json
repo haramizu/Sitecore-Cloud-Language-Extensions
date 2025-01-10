@@ -1,0 +1,17 @@
+{
+  "h1": "Bereitstellungen",
+  "[data-testid='btn-Create deployment']": "Bereitstellung erstellen",
+  "[data-testid='recent-deployment-button']": "Letzte Bereitstellungen",
+  "[data-testid='my-deployment-button']": "Meine Bereitstellungen",
+  "[data-testid='not-deployed-button']": "Nicht bereitgestellt",
+  "tr th:nth-child(1) div": "Projekt",
+  "tr th:nth-child(2) div": "Projekt-ID",
+  "tr th:nth-child(3) div": "Umgebung",
+  "tr th:nth-child(4) div": "Umgebungs-ID",
+  "tr th:nth-child(5) div": "Datum",
+  "[data-testid='deployments-status-header']": "Status",
+  "tr td:nth-child(7) div div button:nth-child(1)": "Bereitstellungsprotokolle anzeigen",
+  "tr td:nth-child(7) div div button:nth-child(2)": "Bereitstellung abbrechen",
+  "main div:nth-child(3) div div h2": "Noch keine Bereitstellungen erstellt",
+  "main div:nth-child(3) div div p": "Ändern Sie Ihre Filter- oder Suchparameter und versuchen Sie es erneut."
+}

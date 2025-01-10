@@ -1,0 +1,12 @@
+{
+  "h1": "シングルサインオン (SSO)",
+  "[data-testid='add-sso-connection-button'] span": "SSO 接続の追加",
+  "p:nth-child(1)": "シングルサインオンでは、既存のIDプロバイダを使用して、Sitecore Cloud Portalの組織やアプリケーションにログインできます。",
+  "p:nth-child(2)": "SSO接続のセットアップにはいくつかのステップがある : 新しい接続を追加し設定する → ドメインを確認する → 新しい接続をテストする → 新しい接続を有効にする。",
+  "tr th:nth-child(1) div": "メールドメイン",
+  "tr th:nth-child(2) div": "プロバイダータイプ",
+  "tr th:nth-child(3) div": "ドメインの確認",
+  "tr th:nth-child(4) div": "ステータス",
+  "div button": "テスト",
+  "button[aria-label='edit connection']": "設定"
+}

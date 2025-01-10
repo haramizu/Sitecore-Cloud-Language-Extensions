@@ -1,0 +1,15 @@
+{
+  "header div h2": "プロジェクトの作成",
+  "[data-testid='btn-Cancel']": "取り消し",
+  "div div:nth-child(1) div.css-1iz8ajm h3": "プロジェクト名",
+  "div div:nth-child(2) div.css-1iz8ajm h3": "ソース管理の選択",
+  "div div:nth-child(3) div.css-1iz8ajm h3": "リポジトリ設定",
+  "div div:nth-child(4) div.css-1iz8ajm h3": "環境の設定",
+  "div div:nth-child(5) div.css-1iz8ajm h3": "レビューと展開",
+  "form div h2": "ソース管理の選択",
+  "[data-testid='btn-Connect']": "接続",
+  "[data-testid='btn-Selected']": "選択済",
+  "[data-testid='btn-Back']": "戻る",
+  "[data-testid='btn-Continue']": "続行"
+}
+

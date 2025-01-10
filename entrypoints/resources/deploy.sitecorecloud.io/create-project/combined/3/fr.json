@@ -1,0 +1,22 @@
+{
+  "header div h2": "Créer un projet",
+  "[data-testid='btn-Cancel']": "Annuler",
+  "div div:nth-child(1) div.css-1iz8ajm h3": "Nommez votre projet",
+  "div div:nth-child(2) div.css-1iz8ajm h3": "Choisissez le contrôle de source",
+  "div div:nth-child(3) div.css-1iz8ajm h3": "Configurer le dépôt",
+  "div div:nth-child(4) div.css-1iz8ajm h3": "Configurer l'environnement d'auteur",
+  "div div:nth-child(5) div.css-1iz8ajm h3": "Revoir et déployer",
+  "form div h2": "Configurer le dépôt",
+  "form div p": "Choisissez où stocker le code de votre projet.",
+  "form div div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(1) p": "Si vous ne connaissez pas votre connexion, veuillez parler à votre administrateur",
+  "form div div:nth-of-type(2) div:nth-of-type(2) label": "Nommez votre nouveau dépôt",
+  "form div div:nth-of-type(2) p": "Ce dépôt contiendra le code de votre projet. Le nom du dépôt doit respecter les exigences de votre système de contrôle de source.",
+  "[data-testid='use-xmcloud-template-btn']": "Utiliser le modèle XM Cloud",
+  "[data-testid='use-own-code-btn']": "Utiliser votre propre code",
+  "[data-testid='select-element-sourceControlIntegrationId'] label": "Choisissez un compte GitHub",
+  "[data-testid='select-element-repository'] label": "Choisissez un dépôt",
+  "[data-testid='select-element-repositoryBranch'] label": "Lier à une branche",
+  "[data-testid='btn-Connect to a new account']": "Connecter à un nouveau compte",
+  "[data-testid='btn-Back']": "Retour",
+  "[data-testid='btn-Continue']": "Continuer"
+}

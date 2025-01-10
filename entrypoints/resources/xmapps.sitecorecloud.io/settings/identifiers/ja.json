@@ -1,0 +1,15 @@
+{
+  "[data-testid='tabs'] a:nth-of-type(1)": "言語",
+  "[data-testid='tabs'] a:nth-of-type(2)": "アナリティクス識別子",
+  "main div div div:nth-of-type(1) div:nth-of-type(2) h2": "ユーティリティ",
+  "[data-testid='external-link-Desktop'] p": "デスクトップ",
+  "main div div div:nth-of-type(1) div:nth-of-type(3) h2": "アクセス管理",
+  "[data-testid='external-link-User manager'] p": "ユーザー管理",
+  "[data-testid='external-link-Role manager'] p": "ロール管理",
+  "[data-testid='external-link-Security editor'] p": "セキュリティエディター",
+  "[data-testid='external-link-Access viewer'] p": "アクセスビューア",
+  "main div div div:nth-of-type(2) div div:nth-of-type(1) h2": "アナリティクス識別子",
+  "table thead tr th:nth-of-type(1) div": "名前",
+  "table thead tr th:nth-of-type(2) div": "タイムアウト (分)",
+  "table thead tr th:nth-of-type(3) div": "サイトホストに割り当て"
+}

@@ -1,0 +1,11 @@
+{
+  "h1": "Projects",
+  "[data-testid='all-projects-button']": "All projects",
+  "[data-testid='my-projects-button']": "My projects",
+  "[data-testid='btn-Create project']": "Create project",
+  "tr th:nth-child(1) div": "Name",
+  "tr th:nth-child(3) div": "Number of environments",
+  "tr th:nth-child(4) div": "Date created",
+  "tr td:nth-of-type(5) div div span button": "Delete project"
+}
+

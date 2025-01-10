@@ -1,0 +1,13 @@
+{
+  "h1": "Connections",
+  "#root div div div main div div main p": "Create and view your authorized Git-based source control connections. On the Hosting tab, you can manage your hosting providers.",
+  "[data-testid='tab-sourceControl']": "Source control",
+  "[data-testid='tab-hosting']": "Hosting",
+  "[data-testid='sc-connection-menubutton'] span": "Create connection",
+  "tr th:nth-child(1) div": "Name",
+  "tr th:nth-child(2) div": "Provider",
+  "tr th:nth-child(3) div": "Connection ID",
+  "tr th:nth-child(4) div": "Created by",
+  "tr th:nth-child(5) div": "Date created",
+  "tr td:nth-child(6) div div span button": "Delete"
+}

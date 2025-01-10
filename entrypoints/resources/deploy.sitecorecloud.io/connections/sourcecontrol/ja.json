@@ -1,0 +1,13 @@
+{
+  "h1": "接続",
+  "#root div div div main div div main p": "認可されたGitベースのソース管理接続を作成し、表示します。 ホスティングタブでは、ホスティングプロバイダを管理することができます。",
+  "[data-testid='tab-sourceControl']": "ソース管理",
+  "[data-testid='tab-hosting']": "ホスティング",
+  "[data-testid='sc-connection-menubutton'] span": "コネクションの作成",
+  "tr th:nth-child(1) div": "名前",
+  "tr th:nth-child(2) div": "プロバイダー",
+  "tr th:nth-child(3) div": "Connection ID",
+  "tr th:nth-child(4) div": "作成者",
+  "tr th:nth-child(5) div": "作成日",
+  "tr td:nth-child(6) div div span button": "削除"
+}

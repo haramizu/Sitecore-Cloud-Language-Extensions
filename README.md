@@ -23,6 +23,23 @@ You can switch between the following languages:
 - French
 - Japanese
 
+## Supported Products
+
+The current version supports the following Sitecore Cloud tools
+
+- Sitecore Cloud Portal
+- Sitecore XM Cloud
+  - XM Cloud Deploy
+  - Sites
+  - Pages ( Analytics not yet )
+
+The following tools are planned.
+
+- Sitecore XM Cloud
+  - Explorer
+  - Components
+  - Forms
+
 ## Extension Configuration
 
 This extension is developed using the following tools:
@@ -32,3 +49,7 @@ This extension is developed using the following tools:
 - Node 22.12.0
 - npm 11.0.0
 - Visual Studio Code
+
+## History
+
+- 2025.01.xx initial release

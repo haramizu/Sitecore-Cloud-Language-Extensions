@@ -1,0 +1,6 @@
+{
+  "h1": "Flerfaktorautentificering",
+  "[data-testid='activateButton']": "Aktiver MFA",
+  "[data-testid='mfa-badge-not-enabled']": "Ikke aktiveret",
+  "p:nth-child(1)": "Flerfaktorautentificering (MFA) er en autentificeringsmetode, der kræver, at en bruger leverer to eller flere verifikationsfaktorer for at logge ind. Når MFA er aktiveret, skal alle brugere i din organisation bruge det."
+}

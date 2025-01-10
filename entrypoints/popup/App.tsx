@@ -1,6 +1,7 @@
 import { useState, useEffect } from "react";
 import languages from "../resources/languages.json";
 import { storage } from "@wxt-dev/storage";
+import { i18n } from "#i18n";
 import "./App.css";
 
 function App() {
@@ -54,6 +55,7 @@ function App() {
           ))}
         </select>
       </div>
+      <div>{i18n.t('selectLanguage')}</div>
     </>
   );
 }

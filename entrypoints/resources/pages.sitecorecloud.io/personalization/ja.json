@@ -1,0 +1,20 @@
+{
+  "ng-spd-split-pane app-left-hand-side app-personalization div:nth-of-type(1) div h5": "パーソナライズ",
+  "ng-spd-split-pane app-left-hand-side app-personalization div:nth-of-type(1) ng-spd-header-with-button h5": "ページバリアント",
+  "ng-spd-split-pane app-left-hand-side app-personalization div:nth-of-type(1) ng-spd-header-with-button button": "バリアントを作成",
+  "ng-spd-page-pane app-editor-rhs div div:nth-of-type(3) div:nth-of-type(1) h4": "パーソナライズについて",
+  "ng-spd-page-pane app-editor-rhs div div:nth-of-type(3) div:nth-of-type(2) p:nth-of-type(1)": "ページバリアントは元のページのコンテンツに基づいています。パーソナライズするには、次のオプションがあります：",
+  "ng-spd-page-pane app-editor-rhs div div:nth-of-type(3) div:nth-of-type(2) ul li:nth-of-type(1)": "コンポーネントのコンテンツアイテムを変更する",
+  "ng-spd-page-pane app-editor-rhs div div:nth-of-type(3) div:nth-of-type(2) ul li:nth-of-type(2)": "別の互換性のあるコンポーネントに切り替える",
+  "ng-spd-page-pane app-editor-rhs div div:nth-of-type(3) div:nth-of-type(2) ul li:nth-of-type(3)": "特定のオーディエンスのためにコンポーネントを非表示にする",
+  "ng-spd-page-pane app-editor-rhs div div:nth-of-type(3) div:nth-of-type(2) ul li:nth-of-type(4)": "元のデフォルトコンテンツにリセットする",
+  "ng-spd-page-pane app-editor-rhs div div:nth-of-type(3) div:nth-of-type(2) p:nth-of-type(2)": "キャンバスでコンポーネントを選択してパーソナライズを開始します。",
+  "ng-spd-page-pane app-editor-rhs div div:nth-of-type(3) div:nth-of-type(2) p:nth-of-type(3)": "ページのバリアントは最大8つまで作成できます。",
+  "app-create-variant-dialog div ng-spd-dialog-panel ng-spd-dialog-header p": "新しいページバリアントを作成",
+  "app-create-variant-dialog div ng-spd-dialog-panel app-stepper div div:nth-of-type(1) span:nth-of-type(2)": "ページバリアントに名前を付ける",
+  "app-create-variant-dialog div ng-spd-dialog-panel app-stepper div div:nth-of-type(3) span:nth-of-type(2)": "オーディエンスを作成する",
+  "app-create-variant-dialog div ng-spd-dialog-panel div div span h5": "ページバリアントに名前を付けて作成を開始します。",
+  "app-create-variant-dialog div ng-spd-dialog-panel div div div:nth-of-type(1) label": "ページバリアント名",
+  "app-create-variant-dialog div ng-spd-dialog-panel ng-spd-dialog-actions button:nth-of-type(1)": "キャンセル",
+  "app-create-variant-dialog div ng-spd-dialog-panel ng-spd-dialog-actions button:nth-of-type(2)": "次へ"
+}

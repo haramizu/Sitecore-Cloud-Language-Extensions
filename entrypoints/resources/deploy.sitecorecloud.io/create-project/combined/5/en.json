@@ -1,0 +1,22 @@
+{
+  "header div h2": "Create project",
+  "[data-testid='btn-Cancel']": "Cancel",
+  "div div:nth-child(1) div.css-1iz8ajm h3": "Name your project",
+  "div div:nth-child(2) div.css-1iz8ajm h3": "Choose source control",
+  "div div:nth-child(3) div.css-1iz8ajm h3": "Set up repository",
+  "div div:nth-child(4) div.css-1iz8ajm h3": "Configure authoring environment",
+  "div div:nth-child(5) div.css-1iz8ajm h3": "Review and deploy",
+  "form div h2": "Review and deploy",
+  "form div div:nth-of-type(1) div:nth-of-type(1) div:nth-of-type(1) div div div div div p": "Project name",
+  "form div div:nth-of-type(1) div:nth-of-type(1) div:nth-of-type(2) div div div div div p": "Source control",
+  "form div div:nth-of-type(1) div:nth-of-type(1) div:nth-of-type(3) div div div p": "Repository",
+  "form div div:nth-of-type(1) div:nth-of-type(1) div:nth-of-type(3) div div div div:nth-of-type(2) div p": "Repository name",
+  "form div div:nth-of-type(1) div:nth-of-type(1) div:nth-of-type(4) div div div p": "Authoring environment",
+  "form div div:nth-of-type(1) div:nth-of-type(1) div:nth-of-type(4) div div div div:nth-of-type(1) div p": "Environment name",
+  "form div div:nth-of-type(1) div:nth-of-type(1) div:nth-of-type(4) div div div div:nth-of-type(2) div p": "Production SaaS SLA",
+  "form div div:nth-of-type(1) div:nth-of-type(1) div:nth-of-type(4) div div div div:nth-of-type(3) div p": "Auto deploy on push to repository",
+  "[data-testid='btn-Edit']": "Edit",
+  "[data-testid='btn-Back']": "Back",
+  "[data-testid='btn-Start deployment']": "Start deployment"
+}
+

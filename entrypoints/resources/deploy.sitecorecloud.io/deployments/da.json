@@ -1,0 +1,17 @@
+{
+  "h1": "Udrulninger",
+  "[data-testid='btn-Create deployment']": "Opret udrulning",
+  "[data-testid='recent-deployment-button']": "Seneste udrulninger",
+  "[data-testid='my-deployment-button']": "Mine udrulninger",
+  "[data-testid='not-deployed-button']": "Ikke udrullet",
+  "tr th:nth-child(1) div": "Projekt",
+  "tr th:nth-child(2) div": "Projekt ID",
+  "tr th:nth-child(3) div": "Miljø",
+  "tr th:nth-child(4) div": "Miljø ID",
+  "tr th:nth-child(5) div": "Dato",
+  "[data-testid='deployments-status-header']": "Status",
+  "tr td:nth-child(7) div div button:nth-child(1)": "Vis udrulningslogfiler",
+  "tr td:nth-child(7) div div button:nth-child(2)": "Annuller udrulning",
+  "main div:nth-child(3) div div h2": "Ingen udrulninger oprettet endnu",
+  "main div:nth-child(3) div div p": "Ændr dine filter- eller søgeparametre og prøv igen."
+}

@@ -1,0 +1,12 @@
+{
+  "header div h2": "Opret projekt",
+  "[data-testid='btn-Cancel']": "Annuller",
+  "div div:nth-child(1) div.css-1iz8ajm h3": "Navngiv dit projekt",
+  "div div:nth-child(2) div.css-1iz8ajm h3": "Vælg kildekontrol",
+  "div div:nth-child(3) div.css-1iz8ajm h3": "Opsæt repository",
+  "div div:nth-child(4) div.css-1iz8ajm h3": "Konfigurer forfattermiljø",
+  "div div:nth-child(5) div.css-1iz8ajm h3": "Gennemgå og implementer",
+  "[data-testid='create-project-wizard-form'] h2": "Navngiv dit projekt",
+  "[data-testid='create-project-wizard-form'] .chakra-form__label": "Projektnavn",
+  "[data-testid='btn-Continue']": "Fortsæt"
+}

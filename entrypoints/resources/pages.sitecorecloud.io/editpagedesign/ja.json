@@ -1,0 +1,10 @@
+{
+  "app-page-designs-lhs-panel div ng-spd-tab-group button:nth-of-type(1)": "デザイン",
+  "app-page-designs-lhs-panel div ng-spd-tab-outlet div:nth-of-type(1) div div:nth-of-type(1) div:nth-of-type(1) span": "選択された部分デザイン",
+  "app-page-designs-lhs-panel div ng-spd-tab-outlet div:nth-of-type(1) div div:nth-of-type(2) div:nth-of-type(1) span": "利用可能な部分デザイン",
+  "app-page-designs-lhs-panel div ng-spd-tab-outlet div:nth-of-type(1) div div:nth-of-type(2) div:nth-of-type(1) p": "このページデザインに追加したい部分デザインを選択してください。",
+  "app-page-designs-lhs-panel div ng-spd-tab-outlet div:nth-of-type(1) div div:nth-of-type(2) div[3] p": "利用可能な部分デザインはありません",
+  "app-page-designs-lhs-panel div ng-spd-tab-group button:nth-of-type(2)": "詳細",
+  "app-page-designs-lhs-panel div ng-spd-tab-outlet div:nth-of-type(2) div div div": "このページデザインを使用しているデータテンプレート：",
+  "app-page-designs-lhs-panel div ng-spd-tab-outlet div:nth-of-type(2) div a": "テンプレートに移動"
+}

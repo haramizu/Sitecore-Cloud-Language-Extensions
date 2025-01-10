@@ -1,0 +1,14 @@
+{
+  "app-left-hand-side div app-content-tree-area div:nth-of-type(1)": "Sitemap",
+  "ng-spd-header-with-button button": "Opret en side",
+  "ng-spd-list button:nth-of-type(1)": "Opret en underside",
+  "ng-spd-list button:nth-of-type(2)": "Opret en mappe",
+  "ng-spd-list button:nth-of-type(3)": "Duplikér",
+  "ng-spd-list button:nth-of-type(4)": "Indstillinger",
+  "ng-spd-list button:nth-of-type(5)": "Slet",
+  "ng-spd-list a": "Åbn i Explorer",
+  "app-component-gallery div:nth-of-type(1)": "Komponenter",
+  "app-component-filter-context div div:nth-of-type(1)": "Datakilde",
+  "app-component-filter-context div span": "*Datakilde filter gælder kun for Sitecore Komponenter",
+  "app-component-gallery div:nth-of-type(4) button": "Åbn Komponenter"
+}

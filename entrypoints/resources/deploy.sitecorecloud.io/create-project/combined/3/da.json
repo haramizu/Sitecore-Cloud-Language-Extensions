@@ -1,0 +1,22 @@
+{
+  "header div h2": "Opret projekt",
+  "[data-testid='btn-Cancel']": "Annuller",
+  "div div:nth-child(1) div.css-1iz8ajm h3": "Navngiv dit projekt",
+  "div div:nth-child(2) div.css-1iz8ajm h3": "Vælg kildekontrol",
+  "div div:nth-child(3) div.css-1iz8ajm h3": "Opsæt repository",
+  "div div:nth-child(4) div.css-1iz8ajm h3": "Konfigurer forfattermiljø",
+  "div div:nth-child(5) div.css-1iz8ajm h3": "Gennemgå og implementer",
+  "form div h2": "Opsæt repository",
+  "form div p": "Vælg hvor du vil gemme dit projekts kode.",
+  "form div div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(1) p": "Hvis du ikke kender din forbindelse, bedes du tale med din administrator",
+  "form div div:nth-of-type(2) div:nth-of-type(2) label": "Navngiv dit nye repository",
+  "form div div:nth-of-type(2) p": "Dette repository vil indeholde din projektkode. Repository-navnet skal følge kravene i dit kildekontrolsystem.",
+  "[data-testid='use-xmcloud-template-btn']": "Brug XM Cloud-skabelon",
+  "[data-testid='use-own-code-btn']": "Brug din egen kode",
+  "[data-testid='select-element-sourceControlIntegrationId'] label": "Vælg GitHub-konto",
+  "[data-testid='select-element-repository'] label": "Vælg et repository",
+  "[data-testid='select-element-repositoryBranch'] label": "Link til branch",
+  "[data-testid='btn-Connect to a new account']": "Opret forbindelse til en ny konto",
+  "[data-testid='btn-Back']": "Tilbage",
+  "[data-testid='btn-Continue']": "Fortsæt"
+}

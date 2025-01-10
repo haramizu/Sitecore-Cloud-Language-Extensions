@@ -1,0 +1,23 @@
+{
+  "header div h2": "Create project",
+  "[data-testid='btn-Cancel']": "Cancel",
+  "div div:nth-child(1) div.css-1iz8ajm h3": "Name your project",
+  "div div:nth-child(2) div.css-1iz8ajm h3": "Choose source control",
+  "div div:nth-child(3) div.css-1iz8ajm h3": "Set up repository",
+  "div div:nth-child(4) div.css-1iz8ajm h3": "Configure authoring environment",
+  "div div:nth-child(5) div.css-1iz8ajm h3": "Review and deploy",
+  "form div h2": "Configure authoring environment",
+  "form div div:nth-of-type(1) label": "Environment name",
+  "form div p": "Enter a meaningful name, for example a name including staging, dev, or prod.",
+  "form div div:nth-of-type(2) label": "Production SaaS SLA",
+  "form div div:nth-of-type(2) p": "A production environment is optimized for production traffic and is covered by the Sitecore SaaS Service Level Agreement. This setting cannot be changed later.",
+  "form div div:nth-of-type(2) div div label:nth-of-type(1) span:nth-of-type(2)": "Yes",
+  "form div div:nth-of-type(2) div div label:nth-of-type(2) span:nth-of-type(2)": "No",
+  "form div div:nth-of-type(3) label": "Auto deploy on push to repository",
+  "form div div:nth-of-type(3) p": "A push to your repository in your source control system automatically triggers a redeployment of the environment in the XM Cloud Deploy app.",
+  "form div div:nth-of-type(3) div div label:nth-of-type(1) span:nth-of-type(2)": "Yes",
+  "form div div:nth-of-type(3) div div label:nth-of-type(2) span:nth-of-type(2)": "No",
+  "[data-testid='btn-Back']": "Back",
+  "[data-testid='btn-Continue']": "Continue"
+}
+

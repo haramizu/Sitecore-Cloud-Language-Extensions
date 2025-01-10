@@ -1,3 +1,10 @@
 {
-  "div.css-z7mtfw > div > h1": "カスタムホスト名"
+  "h1": "カスタムホスト名",
+  "[data-testid='create-custom-hostname-button']": "カスタムホスト名の作成",
+  "tr th:nth-child(1) div": "カスタムホスト名",
+  "tr th:nth-child(2) div": "コンテキストID",
+  "tr th:nth-child(3) div": "サイトID",
+  "tr th:nth-child(4) div": "作成日",
+  "tr th:nth-child(5) div": "SSLステータス",
+  "tr th:nth-child(6) div": "ホスト名ステータス"
 }

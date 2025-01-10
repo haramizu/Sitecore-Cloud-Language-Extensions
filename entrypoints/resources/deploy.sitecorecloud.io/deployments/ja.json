@@ -1,0 +1,17 @@
+{
+  "h1": "展開",
+  "[data-testid='btn-Create deployment']": "展開の作成",
+  "[data-testid='recent-deployment-button']": "最近の展開履歴",
+  "[data-testid='my-deployment-button']": "自分の展開履歴",
+  "[data-testid='not-deployed-button']": "未展開",
+  "tr th:nth-child(1) div": "プロジェクト",
+  "tr th:nth-child(2) div": "プロジェクト ID",
+  "tr th:nth-child(3) div": "環境",
+  "tr th:nth-child(4) div": "環境 ID",
+  "tr th:nth-child(5) div": "日付",
+  "[data-testid='deployments-status-header']": "ステータス",
+  "tr td:nth-child(7) div div button:nth-child(1)": "展開ログを参照",
+  "tr td:nth-child(7) div div button:nth-child(2)": "展開の取り消し",
+  "main div:nth-child(3) div div h2": "まだ展開が作成されていません",
+  "main div:nth-child(3) div div p": "フィルターまたは検索パラメータを変更して、再度お試しください。"
+}

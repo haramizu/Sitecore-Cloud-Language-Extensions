@@ -1,3 +1,6 @@
 {
-  "h1": "Multi-factor authentication"
+  "h1": "Multi-factor authentication",
+  "[data-testid='activateButton']": "Enable MFA",
+  "[data-testid='mfa-badge-not-enabled']": "Not enabled",
+  "p:nth-child(1)": "Multi-factor authentication (MFA) is an authentication method that requires a user to provide two or more verification factors to log in. When MFA is enabled, every user in your organization must use it."
 }

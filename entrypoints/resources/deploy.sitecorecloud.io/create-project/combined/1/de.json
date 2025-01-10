@@ -1,0 +1,12 @@
+{
+  "header div h2": "Projekt erstellen",
+  "[data-testid='btn-Cancel']": "Abbrechen",
+  "div div:nth-child(1) div.css-1iz8ajm h3": "Benennen Sie Ihr Projekt",
+  "div div:nth-child(2) div.css-1iz8ajm h3": "Quellcodeverwaltung wählen",
+  "div div:nth-child(3) div.css-1iz8ajm h3": "Repository einrichten",
+  "div div:nth-child(4) div.css-1iz8ajm h3": "Autorenumgebung konfigurieren",
+  "div div:nth-child(5) div.css-1iz8ajm h3": "Überprüfen und bereitstellen",
+  "[data-testid='create-project-wizard-form'] h2": "Benennen Sie Ihr Projekt",
+  "[data-testid='create-project-wizard-form'] .chakra-form__label": "Projektname",
+  "[data-testid='btn-Continue']": "Weiter"
+}

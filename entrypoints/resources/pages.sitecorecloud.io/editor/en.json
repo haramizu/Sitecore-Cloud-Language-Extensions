@@ -1,0 +1,14 @@
+{
+  "app-left-hand-side div app-content-tree-area div:nth-of-type(1)": "Sitemap",
+  "ng-spd-header-with-button button": "Create a page",
+  "ng-spd-list button:nth-of-type(1)": "Create a subpage",
+  "ng-spd-list button:nth-of-type(2)": "Create a folder",
+  "ng-spd-list button:nth-of-type(3)": "Duplicate",
+  "ng-spd-list button:nth-of-type(4)": "Settings",
+  "ng-spd-list button:nth-of-type(5)": "Delete",
+  "ng-spd-list a": "Open in Explorer",
+  "app-component-gallery div:nth-of-type(1)": "Components",
+  "app-component-filter-context div div:nth-of-type(1)": "Data source",
+  "app-component-filter-context div span": "*Data source filter only applies to Sitecore Components",
+  "app-component-gallery div:nth-of-type(4) button": "Open Components"
+}

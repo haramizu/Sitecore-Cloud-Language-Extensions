@@ -1,0 +1,22 @@
+{
+  "header div h2": "Projekt erstellen",
+  "[data-testid='btn-Cancel']": "Abbrechen",
+  "div div:nth-child(1) div.css-1iz8ajm h3": "Benennen Sie Ihr Projekt",
+  "div div:nth-child(2) div.css-1iz8ajm h3": "Quellcodeverwaltung wählen",
+  "div div:nth-child(3) div.css-1iz8ajm h3": "Repository einrichten",
+  "div div:nth-child(4) div.css-1iz8ajm h3": "Autorenumgebung konfigurieren",
+  "div div:nth-child(5) div.css-1iz8ajm h3": "Überprüfen und bereitstellen",
+  "form div h2": "Repository einrichten",
+  "form div p": "Wählen Sie, wo der Code Ihres Projekts gespeichert werden soll.",
+  "form div div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(1) p": "Wenn Sie Ihre Verbindung nicht kennen, wenden Sie sich bitte an Ihren Administrator",
+  "form div div:nth-of-type(2) div:nth-of-type(2) label": "Benennen Sie Ihr neues Repository",
+  "form div div:nth-of-type(2) p": "Dieses Repository enthält den Code Ihres Projekts. Der Repository-Name muss den Anforderungen Ihres Quellcodeverwaltungssystems entsprechen.",
+  "[data-testid='use-xmcloud-template-btn']": "XM Cloud-Vorlage verwenden",
+  "[data-testid='use-own-code-btn']": "Eigenen Code verwenden",
+  "[data-testid='select-element-sourceControlIntegrationId'] label": "GitHub-Konto wählen",
+  "[data-testid='select-element-repository'] label": "Repository wählen",
+  "[data-testid='select-element-repositoryBranch'] label": "Mit Branch verknüpfen",
+  "[data-testid='btn-Connect to a new account']": "Mit einem neuen Konto verbinden",
+  "[data-testid='btn-Back']": "Zurück",
+  "[data-testid='btn-Continue']": "Weiter"
+}

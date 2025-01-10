@@ -1,0 +1,14 @@
+{
+  "header div h2": "Créer un projet",
+  "[data-testid='btn-Cancel']": "Annuler",
+  "div div:nth-child(1) div.css-1iz8ajm h3": "Nommez votre projet",
+  "div div:nth-child(2) div.css-1iz8ajm h3": "Choisissez le contrôle de source",
+  "div div:nth-child(3) div.css-1iz8ajm h3": "Configurer le dépôt",
+  "div div:nth-child(4) div.css-1iz8ajm h3": "Configurer l'environnement d'auteur",
+  "div div:nth-child(5) div.css-1iz8ajm h3": "Revoir et déployer",
+  "form div h2": "Choisissez le contrôle de source",
+  "[data-testid='btn-Connect']": "Connecter",
+  "[data-testid='btn-Selected']": "Sélectionné",
+  "[data-testid='btn-Back']": "Retour",
+  "[data-testid='btn-Continue']": "Continuer"
+}

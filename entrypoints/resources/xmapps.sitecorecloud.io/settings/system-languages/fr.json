@@ -1,0 +1,19 @@
+{
+  "[data-testid='tabs'] a:nth-of-type(1)": "Langues",
+  "[data-testid='tabs'] a:nth-of-type(2)": "Identifiants analytiques",
+  "main div div div:nth-of-type(1) div:nth-of-type(2) h2": "Utilitaires",
+  "[data-testid='external-link-Desktop'] p": "Bureau",
+  "main div div div:nth-of-type(1) div:nth-of-type(3) h2": "Gestion des accès",
+  "[data-testid='external-link-User manager'] p": "Gestionnaire d'utilisateurs",
+  "[data-testid='external-link-Role manager'] p": "Gestionnaire de rôles",
+  "[data-testid='external-link-Security editor'] p": "Éditeur de sécurité",
+  "[data-testid='external-link-Access viewer'] p": "Visionneuse d'accès",
+  "main div div div:nth-of-type(2) div div:nth-of-type(1) div:nth-of-type(2) div button": "Ajouter une langue",
+  "main div div div:nth-of-type(2) div div:nth-of-type(1) div:nth-of-type(1) h2": "Langues",
+  "main div div div:nth-of-type(2) div div:nth-of-type(1) div:nth-of-type(1) p": "La langue par défaut est l'anglais, mais vous pouvez ajouter un nombre illimité de langues à votre environnement XM Cloud. Après avoir ajouté des langues, vous créez les versions linguistiques souhaitées pour vos éléments ou sites. Ensuite, vous pouvez commencer à traduire le contenu de vos sites web.",
+  "table thead tr th:nth-of-type(1)": "Langue",
+  "table thead tr th:nth-of-type(2)": "Langue de secours",
+  "table thead tr th:nth-of-type(3)": "Code de langue",
+  "table tbody tr:nth-of-type(2) td:nth-of-type(4) div div div button:nth-of-type(1) span:nth-of-type(2)": "Éditer",
+  "table tbody tr:nth-of-type(2) td:nth-of-type(4) div div div button:nth-of-type(2) span:nth-of-type(2)": "Supprimer"
+}

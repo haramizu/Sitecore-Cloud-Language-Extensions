@@ -1,0 +1,22 @@
+{
+  "header div h2": "Create project",
+  "[data-testid='btn-Cancel']": "Cancel",
+  "div div:nth-child(1) div.css-1iz8ajm h3": "Name your project",
+  "div div:nth-child(2) div.css-1iz8ajm h3": "Choose source control",
+  "div div:nth-child(3) div.css-1iz8ajm h3": "Set up repository",
+  "div div:nth-child(4) div.css-1iz8ajm h3": "Configure authoring environment",
+  "div div:nth-child(5) div.css-1iz8ajm h3": "Review and deploy",
+  "form div h2": "Set up repository",
+  "form div p": "Choose where to store your project's code.",
+  "form div div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(1) p": "If you do not know your connection, please talk to your admin",
+  "form div div:nth-of-type(2) div:nth-of-type(2) label": "Name your new repository",
+  "form div div:nth-of-type(2) p": "This repository will contain your project code. The repository name must follow the requirements of your source control system.",
+  "[data-testid='use-xmcloud-template-btn']": "Use XM Cloud template",
+  "[data-testid='use-own-code-btn']": "Use your own code",
+  "[data-testid='select-element-sourceControlIntegrationId'] label": "Choose GitHub account",
+  "[data-testid='select-element-repository'] label": "Choose a repository",
+  "[data-testid='select-element-repositoryBranch'] label": "Link to branch",
+  "[data-testid='btn-Connect to a new account']": "Connect to a new account",
+  "[data-testid='btn-Back']": "Back",
+  "[data-testid='btn-Continue']": "Continue"
+}

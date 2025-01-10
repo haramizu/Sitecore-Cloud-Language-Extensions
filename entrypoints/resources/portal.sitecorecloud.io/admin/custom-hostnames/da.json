@@ -1,0 +1,10 @@
+{
+  "h1": "Brugerdefinerede værtsnavne",
+  "[data-testid='create-custom-hostname-button']": "Opret brugerdefineret værtsnavn",
+  "tr th:nth-child(1) div": "Brugerdefineret værtsnavn",
+  "tr th:nth-child(2) div": "Standardkontekst-ID",
+  "tr th:nth-child(3) div": "Standard site-ID",
+  "tr th:nth-child(4) div": "Oprettet",
+  "tr th:nth-child(5) div": "SSL-status",
+  "tr th:nth-child(6) div": "Værtsnavn status"
+}

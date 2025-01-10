@@ -1,0 +1,15 @@
+{
+  "[data-testid='tabs'] a:nth-of-type(1)": "Sprachen",
+  "[data-testid='tabs'] a:nth-of-type(2)": "Analysekennungen",
+  "main div div div:nth-of-type(1) div:nth-of-type(2) h2": "Dienstprogramme",
+  "[data-testid='external-link-Desktop'] p": "Desktop",
+  "main div div div:nth-of-type(1) div:nth-of-type(3) h2": "Zugriffsverwaltung",
+  "[data-testid='external-link-User manager'] p": "Benutzerverwaltung",
+  "[data-testid='external-link-Role manager'] p": "Rollenverwaltung",
+  "[data-testid='external-link-Security editor'] p": "Sicherheitseditor",
+  "[data-testid='external-link-Access viewer'] p": "Zugriffsbetrachter",
+  "main div div div:nth-of-type(2) div div:nth-of-type(1) h2": "Analysekennungen",
+  "table thead tr th:nth-of-type(1) div": "Name",
+  "table thead tr th:nth-of-type(2) div": "Timeout (in Minuten)",
+  "table thead tr th:nth-of-type(3) div": "Zugewiesen an Site-Host"
+}

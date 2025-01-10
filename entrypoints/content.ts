@@ -1,5 +1,5 @@
 import languages from './resources/languages.json';
-import { storage } from "@wxt-dev/storage";
+import { storage } from '@wxt-dev/storage';
 
 type TranslationKeys = keyof typeof String;
 
@@ -14,7 +14,10 @@ export default defineContentScript({
     console.log('domain: ' + domain);
 
     // If the language is 'en', do not execute
-    if (lang.startsWith('en') || !Object.keys(languages).some(language => lang.startsWith(language))) {
+    if (
+      lang.startsWith('en') ||
+      !Object.keys(languages).some((language) => lang.startsWith(language))
+    ) {
       return;
     }
 
@@ -33,8 +36,44 @@ async function replaceTextInSelector(lang: string, domain: string) {
   let selectors: TranslationKeys[] = [];
   let en: Record<string, string>;
 
+  const path = window.location.pathname;
+  console.log('path: ' + path);
+
   try {
-    en = await import(`./resources/${domain}/en.json`).then(module => module.default).catch(() => null);
+    en = await import(`./resources/${domain}/en.json`)
+      .then((module) => module.default)
+      .catch(() => null);
+
+    // If the page is not the home page, try to load the page translation
+    if (path !== '/') {
+      const pathParts = path.split('/').filter(Boolean);
+      let pageEn = null;
+
+      if (pathParts.length === 1) {
+        pageEn = await import(`./resources/${domain}/${pathParts[0]}/en.json`)
+          .then((m) => m.default)
+          .catch(() => null);
+      } else if (pathParts.length === 2) {
+        pageEn = await import(`./resources/${domain}/${pathParts[0]}/${pathParts[1]}/en.json`)
+          .then((m) => m.default)
+          .catch(() => null);
+      } else if (pathParts.length === 3) {
+        pageEn = await import(
+          `./resources/${domain}/${pathParts[0]}/${pathParts[1]}/${pathParts[2]}/en.json`
+        )
+          .then((m) => m.default)
+          .catch(() => null);
+      } else if (pathParts.length === 4) {
+        pageEn = await import(
+          `./resources/${domain}/${pathParts[0]}/${pathParts[1]}/${pathParts[2]}/${pathParts[3]}/en.json`
+        )
+          .then((m) => m.default)
+          .catch(() => null);
+      }
+      if (pageEn) {
+        en = { ...en, ...pageEn };
+      }
+    }
     selectors = Object.keys(en) as TranslationKeys[];
   } catch (error) {
     console.error(`English translation file for ${domain} not found.`);
@@ -44,18 +83,51 @@ async function replaceTextInSelector(lang: string, domain: string) {
   let translations: Record<string, string> | null = null;
 
   try {
-    const module = await import(`./resources/${domain}/${lang}.json`);
-    translations = module.default;
+    translations = await import(`./resources/${domain}/${lang}.json`)
+      .then((module) => module.default)
+      .catch(() => null);
+    // If the page is not the home page, try to load the page translation
+    if (path !== '/') {
+      const pathParts = path.split('/').filter(Boolean);
+      let pageTranslation = null;
+
+      if (pathParts.length === 1) {
+        pageTranslation = await import(`./resources/${domain}/${pathParts[0]}/${lang}.json`)
+          .then((m) => m.default)
+          .catch(() => null);
+      } else if (pathParts.length === 2) {
+        pageTranslation = await import(
+          `./resources/${domain}/${pathParts[0]}/${pathParts[1]}/${lang}.json`
+        )
+          .then((m) => m.default)
+          .catch(() => null);
+      } else if (pathParts.length === 3) {
+        pageTranslation = await import(
+          `./resources/${domain}/${pathParts[0]}/${pathParts[1]}/${pathParts[2]}/${lang}.json`
+        )
+          .then((m) => m.default)
+          .catch(() => null);
+      } else if (pathParts.length === 4) {
+        pageTranslation = await import(
+          `./resources/${domain}/${pathParts[0]}/${pathParts[1]}/${pathParts[2]}/${pathParts[3]}/${lang}.json`
+        )
+          .then((m) => m.default)
+          .catch(() => null);
+      }
+      if (pageTranslation) {
+        translations = { ...translations, ...pageTranslation };
+      }
+    }
   } catch (error) {
     console.error(`Translation file for ${lang} not found.`);
     return;
   }
 
-  selectors.forEach(selector => {
+  selectors.forEach((selector) => {
     const elements = document.querySelectorAll(selector);
-    elements.forEach(element => {
+    elements.forEach((element) => {
       if (translations && element.childNodes.length) {
-        element.childNodes.forEach(child => {
+        element.childNodes.forEach((child) => {
           if (child.nodeType === Node.TEXT_NODE && child.textContent?.trim() === en[selector]) {
             if (translations[selector as keyof typeof translations]) {
               child.textContent = translations[selector as keyof typeof translations];
