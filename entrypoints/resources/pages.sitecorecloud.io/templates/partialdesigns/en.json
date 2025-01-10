@@ -11,6 +11,7 @@
   "app-templates-view app-partial-designs div div:nth-of-type(2) div:nth-of-type(2) app-item-details div div span:nth-of-type(1)": "Name",
   "app-templates-view app-partial-designs div div:nth-of-type(2) div:nth-of-type(2) app-item-details div div span:nth-of-type(3)": "Created",
   "app-templates-view app-partial-designs div div:nth-of-type(2) div:nth-of-type(2) app-item-details div div span:nth-of-type(5)": "Modified",
+  "app-templates-view app-partial-designs div div:nth-of-type(2) div:nth-of-type(2) app-item-details div:nth-of-type(1) p": "Select an item to view its details",
   "ng-spd-popover-wrapper ng-spd-popover div ng-spd-list button:nth-of-type(1)": "Rename",
   "ng-spd-popover-wrapper ng-spd-popover div ng-spd-list button:nth-of-type(2)": "Move to",
   "ng-spd-popover-wrapper ng-spd-popover div ng-spd-list button:nth-of-type(3)": "Delete",

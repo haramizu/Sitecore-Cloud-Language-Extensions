@@ -1,3 +1,10 @@
 {
-  "app-analytics div div ng-spd-tab-group button:nth-of-type(1)": "Site insights"
+  "app-page-designs-lhs-panel div ng-spd-tab-group button:nth-of-type(1)": "Design",
+  "app-page-designs-lhs-panel div ng-spd-tab-outlet div:nth-of-type(1) div div:nth-of-type(1) div:nth-of-type(1) span": "Selected partial designs",
+  "app-page-designs-lhs-panel div ng-spd-tab-outlet div:nth-of-type(1) div div:nth-of-type(2) div:nth-of-type(1) span": "Available partial designs",
+  "app-page-designs-lhs-panel div ng-spd-tab-outlet div:nth-of-type(1) div div:nth-of-type(2) div:nth-of-type(1) p": "Select the partial design you want to add to this page design.",
+  "app-page-designs-lhs-panel div ng-spd-tab-outlet div:nth-of-type(1) div div:nth-of-type(2) div[3] p": "There are no available partial designs",
+  "app-page-designs-lhs-panel div ng-spd-tab-group button:nth-of-type(2)": "Details",
+  "app-page-designs-lhs-panel div ng-spd-tab-outlet div:nth-of-type(2) div div div": "Data Templates using this page design:",
+  "app-page-designs-lhs-panel div ng-spd-tab-outlet div:nth-of-type(2) div a": "Go to Templates"
 }

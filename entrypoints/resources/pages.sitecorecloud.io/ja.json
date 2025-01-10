@@ -14,5 +14,6 @@
   "app-rendering-host-selector button div:nth-of-type(1)": "標準編集ホスト",
   "ng-spd-popover div div div:nth-of-type(1) div:nth-of-type(1) label": "標準編集ホスト",
   "ng-spd-popover div div div:nth-of-type(1) div:nth-of-type(2) label": "ローカルホスト",
-  "ng-spd-popover-wrapper ng-spd-popover div div div:nth-of-type(3) button": "保存"
+  "ng-spd-popover-wrapper ng-spd-popover div div div:nth-of-type(3) button": "保存",
+  "ng-spd-page-pane app-editor-rhs div div:nth-of-type(2) p": "キャンバスの要素を選択すると、より多くのオプションが表示されます。"
 }

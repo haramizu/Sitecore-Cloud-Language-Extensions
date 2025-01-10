@@ -1,3 +1,7 @@
 {
-  "app-analytics div div ng-spd-tab-group button:nth-of-type(1)": "サイト インサイト"
+  "app-component-gallery div:nth-of-type(1)": "コンポーネント",
+  "app-component-filter-context div div:nth-of-type(1)": "データソース",
+  "app-component-filter-context div span": "*データソースフィルタは Sitecore Components のみに適用されます。",
+  "app-component-gallery div:nth-of-type(4) button": "Components を開く",
+  "app-top-bar div:nth-of-type(1) button": "ページデザインに戻る"
 }
