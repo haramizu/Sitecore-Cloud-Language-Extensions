@@ -24,6 +24,7 @@
   "app-editor-rhs div div:nth-of-type(2) app-sitecore-region sitecore-region sitecore-extension div app-sc-section:nth-of-type(2) ng-spd-accordion ng-spd-accordion-header button div:nth-of-type(1)": "レイアウト",
   "app-editor-rhs div div:nth-of-type(2) app-sitecore-region sitecore-region sitecore-extension div app-sc-section:nth-of-type(3) ng-spd-accordion ng-spd-accordion-header button div:nth-of-type(1)": "スタイリング",
   "app-editor-rhs div div:nth-of-type(2) app-sitecore-region sitecore-region sitecore-extension div app-sc-section:nth-of-type(4) ng-spd-accordion ng-spd-accordion-header button div:nth-of-type(1)": "高度なスタイリング",
+  "app-editor-rhs div div:nth-of-type(2) app-sitecore-region sitecore-region sitecore-extension div app-sc-section:nth-of-type(4) ng-spd-accordion ng-spd-accordion-content div:nth-of-type(1) app-sc-editing-control div div:nth-of-type(1)": "バリアント",
   "app-media-dialog ng-spd-dialog-panel ng-spd-dialog-header": "画像を追加",
   "app-media-dialog ng-spd-dialog-panel ng-spd-tab-group button:nth-of-type(1) h4": "メディアライブラリ",
   "app-media-dialog ng-spd-dialog-panel div ng-spd-tab-outlet div:nth-of-type(1) app-media-library div app-media-action-bar div div:nth-of-type(2) button:nth-of-type(1)": "リフレッシュ",

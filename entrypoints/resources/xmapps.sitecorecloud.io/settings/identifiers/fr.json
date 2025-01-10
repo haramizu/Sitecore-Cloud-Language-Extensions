@@ -1,0 +1,15 @@
+{
+  "[data-testid='tabs'] a:nth-of-type(1)": "Langues",
+  "[data-testid='tabs'] a:nth-of-type(2)": "Identifiants analytiques",
+  "main div div div:nth-of-type(1) div:nth-of-type(2) h2": "Utilitaires",
+  "[data-testid='external-link-Desktop'] p": "Bureau",
+  "main div div div:nth-of-type(1) div:nth-of-type(3) h2": "Gestion des accès",
+  "[data-testid='external-link-User manager'] p": "Gestionnaire d'utilisateurs",
+  "[data-testid='external-link-Role manager'] p": "Gestionnaire de rôles",
+  "[data-testid='external-link-Security editor'] p": "Éditeur de sécurité",
+  "[data-testid='external-link-Access viewer'] p": "Visionneuse d'accès",
+  "main div div div:nth-of-type(2) div div:nth-of-type(1) h2": "Identifiants analytiques",
+  "table thead tr th:nth-of-type(1) div": "Nom",
+  "table thead tr th:nth-of-type(2) div": "Délai d'expiration (en minutes)",
+  "table thead tr th:nth-of-type(3) div": "Assigné à l'hôte du site"
+}
