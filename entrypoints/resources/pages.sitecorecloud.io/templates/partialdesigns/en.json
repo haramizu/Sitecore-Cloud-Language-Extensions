@@ -1,3 +1,26 @@
 {
-  "app-left-hand-side div app-content-tree-area div:nth-of-type(1)": "Sitemap"
+  "app-templates-lhs-panel div div:nth-of-type(1) span": "Design",
+  "app-templates-lhs-panel div div:nth-of-type(1) ng-spd-list a:nth-of-type(1) span": "Page designs",
+  "app-templates-lhs-panel div div:nth-of-type(1) ng-spd-list a:nth-of-type(2) span": "Partial designs",
+  "app-templates-lhs-panel div div:nth-of-type(3) span": "Configure",
+  "app-templates-lhs-panel div div:nth-of-type(3) ng-spd-list a span": "Data templates",
+  "app-templates-view app-partial-designs div div:nth-of-type(1) span": "Partial designs",
+  "app-templates-view app-partial-designs div div:nth-of-type(1) div span": "Partial designs are reusable parts of a page design that are made up of components. Partial designs built here will be available when creating a page design.",
+  "app-templates-view app-partial-designs div div:nth-of-type(1) div div button span": "Create",
+  "app-templates-view app-partial-designs div div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(3) div h3": "Partial designs",
+  "app-templates-view app-partial-designs div div:nth-of-type(2) div:nth-of-type(2) app-item-details div div span:nth-of-type(1)": "Name",
+  "app-templates-view app-partial-designs div div:nth-of-type(2) div:nth-of-type(2) app-item-details div div span:nth-of-type(3)": "Created",
+  "app-templates-view app-partial-designs div div:nth-of-type(2) div:nth-of-type(2) app-item-details div div span:nth-of-type(5)": "Modified",
+  "ng-spd-popover-wrapper ng-spd-popover div ng-spd-list button:nth-of-type(1)": "Rename",
+  "ng-spd-popover-wrapper ng-spd-popover div ng-spd-list button:nth-of-type(2)": "Move to",
+  "ng-spd-popover-wrapper ng-spd-popover div ng-spd-list button:nth-of-type(3)": "Delete",
+  "app-rename-item-dialog ng-spd-dialog-panel ng-spd-dialog-header": "Rename",
+  "app-rename-item-dialog ng-spd-dialog-panel ng-spd-dialog-actions button:nth-of-type(1)": "Cancel",
+  "app-rename-item-dialog ng-spd-dialog-panel ng-spd-dialog-actions button:nth-of-type(2)": "Save",
+  "app-warning-dialog ng-spd-dialog-panel ng-spd-dialog-header": "Delete",
+  "app-warning-dialog ng-spd-dialog-panel ng-spd-dialog-actions button:nth-of-type(1)": "Cancel",
+  "app-warning-dialog ng-spd-dialog-panel ng-spd-dialog-actions button:nth-of-type(2)": "Delete",
+  "app-move-item-dialog ng-spd-dialog-panel ng-spd-dialog-actions div button": "New folder",
+  "app-move-item-dialog ng-spd-dialog-panel ng-spd-dialog-actions div div button:nth-of-type(1)": "Cancel",
+  "app-move-item-dialog ng-spd-dialog-panel ng-spd-dialog-actions div div button:nth-of-type(2)": "Move here"
 }

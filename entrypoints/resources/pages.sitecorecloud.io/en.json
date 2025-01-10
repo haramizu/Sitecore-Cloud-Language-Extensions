@@ -10,6 +10,7 @@
   "app-publish-button div div button:nth-of-type(1)": "Publish",
   "ng-spd-popover div ng-spd-list div span": "Publish",
   "ng-spd-popover div ng-spd-list div div button": "Start publish",
+  "ng-spd-page-header app-top-bar div div:nth-of-type(3) button": "Close",
   "app-rendering-host-selector button div:nth-of-type(1)": "Default editing host",
   "ng-spd-popover div div div:nth-of-type(1) div:nth-of-type(1) label": "Default editing host",
   "ng-spd-popover div div div:nth-of-type(1) div:nth-of-type(2) label": "Local host",
