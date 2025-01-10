@@ -1,3 +1,19 @@
 {
-  "[data-testid='create-dropdown-button'] span": "Create"
+  "[data-testid='tabs'] a:nth-of-type(1)": "Languages",
+  "[data-testid='tabs'] a:nth-of-type(2)": "Analytics identifiers",
+  "main div div div:nth-of-type(1) div:nth-of-type(2) h2": "Utilities",
+  "[data-testid='external-link-Desktop'] p": "Desktop",
+  "main div div div:nth-of-type(1) div:nth-of-type(3) h2": "Access management",
+  "[data-testid='external-link-User manager'] p": "User manager",
+  "[data-testid='external-link-Role manager'] p": "Role manager",
+  "[data-testid='external-link-Security editor'] p": "Security editor",
+  "[data-testid='external-link-Access viewer'] p": "Access viewer",
+  "main div div div:nth-of-type(2) div div:nth-of-type(1) div:nth-of-type(2) div button": "Add language",
+  "main div div div:nth-of-type(2) div div:nth-of-type(1) div:nth-of-type(1) h2": "Languages",
+  "main div div div:nth-of-type(2) div div:nth-of-type(1) div:nth-of-type(1) p": "The default language is English, but you can add any number of languages to your XM Cloud environment. After adding languages, you create the language versions you want for your items or sites. Then you can start translating the content of your websites.",
+  "table thead tr th:nth-of-type(1)": "Language",
+  "table thead tr th:nth-of-type(2)": "Fallback language",
+  "table thead tr th:nth-of-type(3)": "Language code",
+  "table tbody tr:nth-of-type(2) td:nth-of-type(4) div div div button:nth-of-type(1) span:nth-of-type(2)": "Edit",
+  "table tbody tr:nth-of-type(2) td:nth-of-type(4) div div div button:nth-of-type(2) span:nth-of-type(2)": "Delete"
 }
