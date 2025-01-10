@@ -1,0 +1,21 @@
+{
+  "header div h2": "Créer un projet",
+  "[data-testid='btn-Cancel']": "Annuler",
+  "div div:nth-child(1) div.css-1iz8ajm h3": "Nommez votre projet",
+  "div div:nth-child(2) div.css-1iz8ajm h3": "Choisissez le contrôle de source",
+  "div div:nth-child(3) div.css-1iz8ajm h3": "Configurer le dépôt",
+  "div div:nth-child(4) div.css-1iz8ajm h3": "Configurer l'environnement d'auteur",
+  "div div:nth-child(5) div.css-1iz8ajm h3": "Revoir et déployer",
+  "form div h2": "Revoir et déployer",
+  "form div div:nth-of-type(1) div:nth-of-type(1) div:nth-of-type(1) div div div div div p": "Nom du projet",
+  "form div div:nth-of-type(1) div:nth-of-type(1) div:nth-of-type(2) div div div div div p": "Contrôle de source",
+  "form div div:nth-of-type(1) div:nth-of-type(1) div:nth-of-type(3) div div div p": "Dépôt",
+  "form div div:nth-of-type(1) div:nth-of-type(1) div:nth-of-type(3) div div div div:nth-of-type(2) div p": "Nom du dépôt",
+  "form div div:nth-of-type(1) div:nth-of-type(1) div:nth-of-type(4) div div div p": "Environnement d'auteur",
+  "form div div:nth-of-type(1) div:nth-of-type(1) div:nth-of-type(4) div div div div:nth-of-type(1) div p": "Nom de l'environnement",
+  "form div div:nth-of-type(1) div:nth-of-type(1) div:nth-of-type(4) div div div div:nth-of-type(2) div p": "SLA SaaS de production",
+  "form div div:nth-of-type(1) div:nth-of-type(1) div:nth-of-type(4) div div div div:nth-of-type(3) div p": "Déploiement automatique lors du push vers le dépôt",
+  "[data-testid='btn-Edit']": "Modifier",
+  "[data-testid='btn-Back']": "Retour",
+  "[data-testid='btn-Start deployment']": "Démarrer le déploiement"
+}

@@ -1,0 +1,22 @@
+{
+  "header div h2": "Créer un projet",
+  "[data-testid='btn-Cancel']": "Annuler",
+  "div div:nth-child(1) div.css-1iz8ajm h3": "Nommez votre projet",
+  "div div:nth-child(2) div.css-1iz8ajm h3": "Choisissez le contrôle de source",
+  "div div:nth-child(3) div.css-1iz8ajm h3": "Configurer le dépôt",
+  "div div:nth-child(4) div.css-1iz8ajm h3": "Configurer l'environnement d'auteur",
+  "div div:nth-child(5) div.css-1iz8ajm h3": "Revoir et déployer",
+  "form div h2": "Configurer l'environnement d'auteur",
+  "form div div:nth-of-type(1) label": "Nom de l'environnement",
+  "form div p": "Entrez un nom significatif, par exemple un nom incluant staging, dev ou prod.",
+  "form div div:nth-of-type(2) label": "SLA SaaS de production",
+  "form div div:nth-of-type(2) p": "Un environnement de production est optimisé pour le trafic de production et est couvert par l'Accord de Niveau de Service Sitecore SaaS. Ce paramètre ne peut pas être modifié ultérieurement.",
+  "form div div:nth-of-type(2) div div label:nth-of-type(1) span:nth-of-type(2)": "Oui",
+  "form div div:nth-of-type(2) div div label:nth-of-type(2) span:nth-of-type(2)": "Non",
+  "form div div:nth-of-type(3) label": "Déploiement automatique lors du push vers le dépôt",
+  "form div div:nth-of-type(3) p": "Un push vers votre dépôt dans votre système de contrôle de source déclenche automatiquement un redéploiement de l'environnement dans l'application XM Cloud Deploy.",
+  "form div div:nth-of-type(3) div div label:nth-of-type(1) span:nth-of-type(2)": "Oui",
+  "form div div:nth-of-type(3) div div label:nth-of-type(2) span:nth-of-type(2)": "Non",
+  "[data-testid='btn-Back']": "Retour",
+  "[data-testid='btn-Continue']": "Continuer"
+}

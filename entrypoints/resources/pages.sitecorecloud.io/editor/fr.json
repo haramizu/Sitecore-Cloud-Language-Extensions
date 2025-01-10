@@ -1,0 +1,14 @@
+{
+  "app-left-hand-side div app-content-tree-area div:nth-of-type(1)": "Plan du site",
+  "ng-spd-header-with-button button": "Créer une page",
+  "ng-spd-list button:nth-of-type(1)": "Créer une sous-page",
+  "ng-spd-list button:nth-of-type(2)": "Créer un dossier",
+  "ng-spd-list button:nth-of-type(3)": "Dupliquer",
+  "ng-spd-list button:nth-of-type(4)": "Paramètres",
+  "ng-spd-list button:nth-of-type(5)": "Supprimer",
+  "ng-spd-list a": "Ouvrir dans l'Explorateur",
+  "app-component-gallery div:nth-of-type(1)": "Composants",
+  "app-component-filter-context div div:nth-of-type(1)": "Source de données",
+  "app-component-filter-context div span": "*Le filtre de source de données ne s'applique qu'aux composants Sitecore",
+  "app-component-gallery div:nth-of-type(4) button": "Ouvrir les composants"
+}

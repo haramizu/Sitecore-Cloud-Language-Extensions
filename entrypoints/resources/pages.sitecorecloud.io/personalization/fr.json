@@ -1,0 +1,20 @@
+{
+  "ng-spd-split-pane app-left-hand-side app-personalization div:nth-of-type(1) div h5": "Personnaliser",
+  "ng-spd-split-pane app-left-hand-side app-personalization div:nth-of-type(1) ng-spd-header-with-button h5": "Variantes de page",
+  "ng-spd-split-pane app-left-hand-side app-personalization div:nth-of-type(1) ng-spd-header-with-button button": "Créer une variante",
+  "ng-spd-page-pane app-editor-rhs div div:nth-of-type(3) div:nth-of-type(1) h4": "À propos de la personnalisation",
+  "ng-spd-page-pane app-editor-rhs div div:nth-of-type(3) div:nth-of-type(2) p:nth-of-type(1)": "Une variante de page est basée sur le contenu de la page originale. Pour la personnaliser, vous avez les options suivantes :",
+  "ng-spd-page-pane app-editor-rhs div div:nth-of-type(3) div:nth-of-type(2) ul li:nth-of-type(1)": "Changer l'élément de contenu d'un composant",
+  "ng-spd-page-pane app-editor-rhs div div:nth-of-type(3) div:nth-of-type(2) ul li:nth-of-type(2)": "Remplacer un composant par un autre compatible",
+  "ng-spd-page-pane app-editor-rhs div div:nth-of-type(3) div:nth-of-type(2) ul li:nth-of-type(3)": "Masquer le composant pour un public spécifique",
+  "ng-spd-page-pane app-editor-rhs div div:nth-of-type(3) div:nth-of-type(2) ul li:nth-of-type(4)": "Réinitialiser au contenu par défaut original",
+  "ng-spd-page-pane app-editor-rhs div div:nth-of-type(3) div:nth-of-type(2) p:nth-of-type(2)": "Sélectionnez un composant dans le canevas pour commencer à personnaliser.",
+  "ng-spd-page-pane app-editor-rhs div div:nth-of-type(3) div:nth-of-type(2) p:nth-of-type(3)": "Vous pouvez créer jusqu'à huit variantes d'une page.",
+  "app-create-variant-dialog div ng-spd-dialog-panel ng-spd-dialog-header p": "Créer une nouvelle variante de page",
+  "app-create-variant-dialog div ng-spd-dialog-panel app-stepper div div:nth-of-type(1) span:nth-of-type(2)": "Nommez votre variante de page",
+  "app-create-variant-dialog div ng-spd-dialog-panel app-stepper div div:nth-of-type(3) span:nth-of-type(2)": "Créez votre audience",
+  "app-create-variant-dialog div ng-spd-dialog-panel div div span h5": "Commencez à créer votre variante de page en lui donnant un nom.",
+  "app-create-variant-dialog div ng-spd-dialog-panel div div div:nth-of-type(1) label": "Nom de la variante de page",
+  "app-create-variant-dialog div ng-spd-dialog-panel ng-spd-dialog-actions button:nth-of-type(1)": "Annuler",
+  "app-create-variant-dialog div ng-spd-dialog-panel ng-spd-dialog-actions button:nth-of-type(2)": "Suivant"
+}

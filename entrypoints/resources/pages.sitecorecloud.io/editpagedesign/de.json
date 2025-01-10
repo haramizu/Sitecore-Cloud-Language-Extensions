@@ -1,0 +1,10 @@
+{
+  "app-page-designs-lhs-panel div ng-spd-tab-group button:nth-of-type(1)": "Design",
+  "app-page-designs-lhs-panel div ng-spd-tab-outlet div:nth-of-type(1) div div:nth-of-type(1) div:nth-of-type(1) span": "Ausgewählte Teildesigns",
+  "app-page-designs-lhs-panel div ng-spd-tab-outlet div:nth-of-type(1) div div:nth-of-type(2) div:nth-of-type(1) span": "Verfügbare Teildesigns",
+  "app-page-designs-lhs-panel div ng-spd-tab-outlet div:nth-of-type(1) div div:nth-of-type(2) div:nth-of-type(1) p": "Wählen Sie das Teildesign aus, das Sie zu diesem Seitendesign hinzufügen möchten.",
+  "app-page-designs-lhs-panel div ng-spd-tab-outlet div:nth-of-type(1) div div:nth-of-type(2) div[3] p": "Es sind keine Teildesigns verfügbar",
+  "app-page-designs-lhs-panel div ng-spd-tab-group button:nth-of-type(2)": "Details",
+  "app-page-designs-lhs-panel div ng-spd-tab-outlet div:nth-of-type(2) div div div": "Datenvorlagen, die dieses Seitendesign verwenden:",
+  "app-page-designs-lhs-panel div ng-spd-tab-outlet div:nth-of-type(2) div a": "Zu den Vorlagen"
+}
