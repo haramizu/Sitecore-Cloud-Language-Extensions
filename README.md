@@ -32,6 +32,7 @@ The current version supports the following Sitecore Cloud tools
   - XM Cloud Deploy
   - Sites
   - Pages ( Analytics not yet )
+- Sitecore Connect
 
 The following tools are planned.
 

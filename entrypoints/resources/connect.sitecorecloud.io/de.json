@@ -1,0 +1,21 @@
+{
+  "[data-targetid='dashboard_1']": "Armaturenbrett",
+  "[data-targetid='projects_2']": "Projekte",
+  "[data-targetid='communitylibrary_3']": "Gemeinschaftsbibliothek",
+  "[data-testid='Tools'] span": "Werkzeuge",
+  "header div div:nth-of-type(2) div div button:nth-of-type(1)": "Gemeinsame Datenmodelle",
+  "header div div:nth-of-type(2) div div button:nth-of-type(2)": "Connector SDK",
+  "header div div:nth-of-type(2) div div button:nth-of-type(3)": "Benutzerdefinierte OAuth-Profile",
+  "header div div:nth-of-type(2) div div button:nth-of-type(4)": "Umgebungseigenschaften",
+  "header div div:nth-of-type(2) div div button:nth-of-type(5)": "Protokolle",
+  "header div div:nth-of-type(2) div div button:nth-of-type(6)": "Nachschlagetabellen",
+  "header div div:nth-of-type(2) div div button:nth-of-type(7)": "Nachrichtenvorlagen",
+  "header div div:nth-of-type(2) div div button:nth-of-type(8)": "On-Prem-Gruppen",
+  "header div div:nth-of-type(2) div div button:nth-of-type(9)": "Personenaufgabe",
+  "header div div:nth-of-type(2) div div button:nth-of-type(11)": "Rezeptlebenszyklusverwaltung",
+  "header div div:nth-of-type(2) div div button:nth-of-type(12)": "Laufzeitverbindungen",
+  "header div div:nth-of-type(2) div div button:nth-of-type(13)": "Workbot",
+  "header div div:nth-of-type(2) div div button:nth-of-type(14)": "Verbindungen",
+  "header div div:nth-of-type(3) div div button:nth-of-type(1)": "Konto verwalten",
+  "header div div:nth-of-type(3) div div button:nth-of-type(2)": "Abmelden"
+}
