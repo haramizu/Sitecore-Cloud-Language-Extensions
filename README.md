@@ -52,4 +52,4 @@ This extension is developed using the following tools:
 
 ## History
 
-- 2025.01.xx initial release
+- 2025.01.15 initial release 0.3.0
