@@ -14,6 +14,22 @@
   "[data-testid='not-archived-button']": "Not archived",
   "[data-testid='archived-button']": "Archived",
   "[data-flip-id='forms-table-empty'] div h2": "No Forms yet",
-  "[data-flip-id='no-filter-match'] p": "No Forms match your criteria"
+  "[data-flip-id='no-filter-match'] p": "No Forms match your criteria",
+  "table thead tr th:nth-of-type(2) div p": "Name",
+  "table thead tr th:nth-of-type(3) div p": "Views",
+  "table thead tr th:nth-of-type(5) div p": "Submissions",
+  "table thead tr th:nth-of-type(6) div p": "Status",
+  "table thead tr th:nth-of-type(7) div p": "Labels",
+  "table tbody tr td:nth-of-type(7) div button": "Add label",
+  "[data-testid='settings-menu_item']": "Settings",
+  "[data-testid='duplicate-menu_item']": "Duplicate",
+  "[data-testid='copy to environment-menu_item']": "Copy to environment",
+  "[data-testid='archive-menu_item']": "Archive",
+  "[data-testid='delete-menu_item']": "Delete",
+  "[data-testid='unarchive-menu_item']": "Unarchive",
+  "[data-testid='settings-webhooks-dropdown']  div:nth-of-type(2) a button": "Manage webhooks",
+  "[data-testid='site-management'] p": "Form available on",
+  "[data-testid='site-management'] div p": "All sites",
+  "[data-testid='site-management'] div button": "Edit"
 }
 

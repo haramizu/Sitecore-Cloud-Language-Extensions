@@ -14,6 +14,22 @@
   "[data-testid='not-archived-button']": "アーカイブされていない",
   "[data-testid='archived-button']": "アーカイブされた",
   "[data-flip-id='forms-table-empty'] div h2": "フォームはまだありません",
-  "[data-flip-id='no-filter-match'] p": "条件に合うフォームがありません"
+  "[data-flip-id='no-filter-match'] p": "条件に合うフォームがありません",
+  "table thead tr th:nth-of-type(2) div p": "名前",
+  "table thead tr th:nth-of-type(3) div p": "表示",
+  "table thead tr th:nth-of-type(5) div p": "回答",
+  "table thead tr th:nth-of-type(6) div p": "ステータス",
+  "table thead tr th:nth-of-type(7) div p": "ラベル",
+  "table tbody tr td:nth-of-type(7) div button": "ラベルの追加",
+  "[data-testid='settings-menu_item']": "設定",
+  "[data-testid='duplicate-menu_item']": "複製",
+  "[data-testid='copy to environment-menu_item']": "環境にコピー",
+  "[data-testid='archive-menu_item']": "アーカイブ",
+  "[data-testid='delete-menu_item']": "削除",
+  "[data-testid='unarchive-menu_item']": "アーカイブを戻す",
+  "[data-testid='settings-webhooks-dropdown']  div:nth-of-type(2) a button": "Webhookの管理",
+  "[data-testid='site-management'] p": "利用可能なフォーム",
+  "[data-testid='site-management'] div p": "すべてのサイト",
+  "[data-testid='site-management'] div button": "編集"
 }
 
