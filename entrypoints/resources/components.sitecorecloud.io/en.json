@@ -45,11 +45,18 @@
   "[id='entity-Library sharing'] div:nth-of-type(2) div div:nth-of-type(2) div label:nth-of-type(2) p": "Share all component collections within your organization",
   "[id='entity-Shared style libraries'] div div:nth-of-type(1) div div p:nth-of-type(1)": "Shared style libraries",
   "[id='entity-Shared style libraries'] div div:nth-of-type(1) div div p:nth-of-type(2)": "Replace your style library with an out-of-the-box or a shared library",
+  "[id='entity-Shared style libraries'] div:nth-of-type(1) div:nth-of-type(2) button": "Close",
+  "[id='entity-Shared style libraries'] div:nth-of-type(2) div div:nth-of-type(1) span": "Replacing style library will discard the current styles. It will possible to revert to the previously staged state.",
   "[id='entity-Shared components'] div div:nth-of-type(1) div div p:nth-of-type(1)": "Shared components",
   "[id='entity-Shared components'] div div:nth-of-type(1) div div p:nth-of-type(2)": "Import out-of-the-box or shared components collections",
+  "[id='entity-Shared components'] div:nth-of-type(1) div:nth-of-type(2) button": "Close",
   "body div:nth-of-type(1) div:nth-of-type(2) div div div:nth-of-type(8) div:nth-of-type(1) p": "Your component library API key",
   "[id='entity-Rendering host'] div div:nth-of-type(1) div div p:nth-of-type(1)": "Rendering host",
   "[id='entity-Rendering host'] div div:nth-of-type(1) div div p:nth-of-type(2)": "Use the rendering host to register your own code components and make them available in the Component builder.",
-  "[id='entity-Content Hub ONE'] div div:nth-of-type(1) div div p:nth-of-type(1)": "Content Hub ONE"
+  "[id='entity-Rendering host'] div:nth-of-type(1) div:nth-of-type(2) button": "Close",
+  "[id='entity-Rendering host'] div:nth-of-type(2) div div div:nth-of-type(1) div label div": "Set your rendering host",
+  "[id='entity-Rendering host'] div:nth-of-type(2) div div div:nth-of-type(1) p": "Automatically linked to the deployed JSS application",
+  "[id='entity-Content Hub ONE'] div:nth-of-type(1) div:nth-of-type(2) button": "Close",
+  "[id='entity-Content Hub ONE'] div:nth-of-type(2) div div div:nth-of-type(2) div div div p:nth-of-type(2)": "The delivery API allows access to approved and published content"
 }
 

@@ -45,10 +45,18 @@
   "[id='entity-Library sharing'] div:nth-of-type(2) div div:nth-of-type(2) div label:nth-of-type(2) p": "組織内で全てのコンポーネントコレクションを共有する",
   "[id='entity-Shared style libraries'] div div:nth-of-type(1) div div p:nth-of-type(1)": "共有スタイルライブラリ",
   "[id='entity-Shared style libraries'] div div:nth-of-type(1) div div p:nth-of-type(2)": "スタイルライブラリを既製のライブラリまたは共有ライブラリに置き換えます",
+  "[id='entity-Shared style libraries'] div:nth-of-type(1) div:nth-of-type(2) button": "閉じる",
+  "[id='entity-Shared style libraries'] div:nth-of-type(2) div div:nth-of-type(1) span": "スタイルライブラリを置き換えると、現在のスタイルが破棄されます。以前のステージング状態に戻すことができます。",
   "[id='entity-Shared components'] div div:nth-of-type(1) div div p:nth-of-type(1)": "共有コンポーネント",
   "[id='entity-Shared components'] div div:nth-of-type(1) div div p:nth-of-type(2)": "既製のコンポーネントコレクションまたは共有コンポーネントコレクションをインポートします",
+  "[id='entity-Shared components'] div:nth-of-type(1) div:nth-of-type(2) button": "閉じる",
   "body div:nth-of-type(1) div:nth-of-type(2) div div div:nth-of-type(8) div:nth-of-type(1) p": "コンポーネントライブラリのAPIキー",
   "[id='entity-Rendering host'] div div:nth-of-type(1) div div p:nth-of-type(1)": "レンダリングホスト",
-  "[id='entity-Rendering host'] div div:nth-of-type(1) div div p:nth-of-type(2)": "レンダリングホストを使用して独自のコードコンポーネントを登録し、コンポーネントビルダーで利用できるようにします。"
+  "[id='entity-Rendering host'] div div:nth-of-type(1) div div p:nth-of-type(2)": "レンダリングホストを使用して独自のコードコンポーネントを登録し、コンポーネントビルダーで利用できるようにします。",
+  "[id='entity-Rendering host'] div:nth-of-type(1) div:nth-of-type(2) button": "閉じる",
+  "[id='entity-Rendering host'] div:nth-of-type(2) div div div:nth-of-type(1) div label div": "レンダリングホストを設定する",
+  "[id='entity-Rendering host'] div:nth-of-type(2) div div div:nth-of-type(1) p": "デプロイされたJSSアプリケーションに自動的にリンクされます",
+  "[id='entity-Content Hub ONE'] div:nth-of-type(1) div:nth-of-type(2) button": "閉じる",
+  "[id='entity-Content Hub ONE'] div:nth-of-type(2) div div div:nth-of-type(2) div div div p:nth-of-type(2)": "Delivery API を使用すると、承認および公開されたコンテンツにアクセスできます"
 }
 
