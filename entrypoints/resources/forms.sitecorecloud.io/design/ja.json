@@ -5,9 +5,27 @@
   "[data-testid='left-sidebar-menu'] div:nth-of-type(2) div:nth-of-type(1) button:nth-of-type(2)": "アイテム",
   "[data-testid='left-sidebar-menu'] div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(2) div div:nth-of-type(1) button": "フィールド",
   "[title='Button']": "ボタン",
+  "[title='Phone']": "電話",
+  "[title='Short text']": "短いテキスト",
+  "[title='Long text']": "長いテキスト",
+  "[title='Select']": "選択",
+  "[title='Multi select']": "複数選択",
+  "[title='Date']": "日付",
+  "[title='Number']": "番号",
+  "[title='Radio button']": "ラジオボタン",
+  "[title='Checkbox']": "チェックボックス",
+  "[title='Checkbox group']": "チェックボックスグループ",
+  "[title='T&C checkbox']": "T&Cチェックボックス",
+  "[title='File upload']": "ファイルアップロード",
   "[data-testid='left-sidebar-menu'] div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(2) div div:nth-of-type(2) button": "基本",
+  "[title='Image']": "画像",
+  "[title='Text']": "テキスト",
+  "[title='Spacer']": "スペーサー",
+  "[title='Social media']": "ソーシャルメディア",
   "[data-testid='left-sidebar-menu'] div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(2) div div:nth-of-type(3) button": "保存したアイテム",
   "[data-testid='left-sidebar-menu'] div:nth-of-type(2) div:nth-of-type(1) button:nth-of-type(3)": "オプション",
-  "[data-testid='left-sidebar-menu'] div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(3) h2": "全般設定"
+  "[data-testid='left-sidebar-menu'] div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(3) h2": "全般設定",
+  "[data-testid='load-template'] button": "テンプレートを読み込む",
+  "[data-testid='clear-design-button']": "デザインをクリア"
 }
 

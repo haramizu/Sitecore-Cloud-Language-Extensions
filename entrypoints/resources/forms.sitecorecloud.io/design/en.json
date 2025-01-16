@@ -5,9 +5,27 @@
   "[data-testid='left-sidebar-menu'] div:nth-of-type(2) div:nth-of-type(1) button:nth-of-type(2)": "Items",
   "[data-testid='left-sidebar-menu'] div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(2) div div:nth-of-type(1) button": "Fields",
   "[title='Button']": "Button",
+  "[title='Phone']": "Phone",
+  "[title='Short text']": "Short text",
+  "[title='Long text']": "Long text",
+  "[title='Select']": "Select",
+  "[title='Multi select']": "Multi select",
+  "[title='Date']": "Date",
+  "[title='Number']": "Number",
+  "[title='Radio button']": "Radio button",
+  "[title='Checkbox']": "Checkbox",
+  "[title='Checkbox group']": "Checkbox group",
+  "[title='T&C checkbox']": "T&C checkbox",
+  "[title='File upload']": "File upload",
   "[data-testid='left-sidebar-menu'] div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(2) div div:nth-of-type(2) button": "Basic",
+  "[title='Image']": "Image",
+  "[title='Text']": "Text",
+  "[title='Spacer']": "Spacer",
+  "[title='Social media']": "Social media",
   "[data-testid='left-sidebar-menu'] div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(2) div div:nth-of-type(3) button": "Saved items",
   "[data-testid='left-sidebar-menu'] div:nth-of-type(2) div:nth-of-type(1) button:nth-of-type(3)": "Options",
-  "[data-testid='left-sidebar-menu'] div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(3) h2": "General settings"
+  "[data-testid='left-sidebar-menu'] div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(3) h2": "General settings",
+  "[data-testid='load-template'] button": "Load template",
+  "[data-testid='clear-design-button']": "Clear design"
 }
 
