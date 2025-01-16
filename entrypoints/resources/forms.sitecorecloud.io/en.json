@@ -30,6 +30,15 @@
   "[data-testid='settings-webhooks-dropdown']  div:nth-of-type(2) a button": "Manage webhooks",
   "[data-testid='site-management'] p": "Form available on",
   "[data-testid='site-management'] div p": "All sites",
-  "[data-testid='site-management'] div button": "Edit"
+  "[data-testid='site-management'] div button": "Edit",
+  "body div:nth-of-type(2) div div div div div:nth-of-type(1) div button": "Create webhook",
+  "[data-testid='webhooks-table'] thead tr th:nth-of-type(1) div": "Name",
+  "[data-testid='webhooks-table'] thead tr th:nth-of-type(2) div p": "Auth type",
+  "[data-testid='webhooks-table'] thead tr th:nth-of-type(3) div p": "Status",
+  "[data-testid='webhook-action-edit']": "Edit",
+  "[data-testid='webhook-action-delete']": "Delete",
+  "body div:nth-of-type(2) div div div:nth-of-type(1) button": "Create style",
+  "[data-testid='edit-menu_item']": "Edit",
+  "[data-testid='rename-menu_item']": "Rename"
 }
 

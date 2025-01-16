@@ -30,6 +30,15 @@
   "[data-testid='settings-webhooks-dropdown']  div:nth-of-type(2) a button": "Webhookの管理",
   "[data-testid='site-management'] p": "利用可能なフォーム",
   "[data-testid='site-management'] div p": "すべてのサイト",
-  "[data-testid='site-management'] div button": "編集"
+  "[data-testid='site-management'] div button": "編集",
+  "body div:nth-of-type(2) div div div div div:nth-of-type(1) div button": "Webhook の作成",
+  "[data-testid='webhooks-table'] thead tr th:nth-of-type(1) div": "名前",
+  "[data-testid='webhooks-table'] thead tr th:nth-of-type(2) div p": "認証タイプ",
+  "[data-testid='webhooks-table'] thead tr th:nth-of-type(3) div p": "ステータス",
+  "[data-testid='webhook-action-edit']": "編集",
+  "[data-testid='webhook-action-delete']": "削除",
+  "body div:nth-of-type(2) div div div:nth-of-type(1) button": "スタイル作成",
+  "[data-testid='edit-menu_item']": "編集",
+  "[data-testid='rename-menu_item']": "名前の変更"
 }
 
