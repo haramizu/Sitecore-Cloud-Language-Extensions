@@ -1,14 +1,19 @@
 {
+  "xmc-pocket-nav div div div div:nth-of-type(1) div:nth-of-type(3) div": "デザインライブラリ",
+  "xmc-pocket-nav div div div div:nth-of-type(1) div:nth-of-type(4) div": "コンテンツ",
+  "xmc-pocket-nav div div div div:nth-of-type(1) div:nth-of-type(4) a:nth-of-type(1)  div span": "コンテン ツエディタ",
+  "xmc-pocket-nav div div div div:nth-of-type(1) div:nth-of-type(4) a:nth-of-type(2) div span": "メディア ライブラリ",
   "ng-spd-popover div div ng-spd-list:nth-of-type(1) h4": "環境",
   "ng-spd-popover div div ng-spd-list:nth-of-type(2) h4": "サイト",
   "ng-spd-list h4": "言語",
   "app-layout-switch div span": "共有レイアウト",
-  "[data-testid='nav-editor'] span:nth-of-type(2)": "編集",
-  "[data-testid='nav-templates'] span:nth-of-type(2)": "テンプレート",
-  "[data-testid='nav-personalization'] span:nth-of-type(2)": "パーソナライズ",
-  "[data-testid='nav-analytics'] span:nth-of-type(2)": "アナリティクス",
+  "app-navigation-bar a:nth-of-type(1) span:nth-of-type(2)": "編集",
+  "app-navigation-bar a:nth-of-type(2) span:nth-of-type(2)": "テンプレート",
+  "app-navigation-bar a:nth-of-type(3) span:nth-of-type(2)": "パーソナライズ",
+  "app-navigation-bar a:nth-of-type(4) span:nth-of-type(2)": "アナリティクス",
   "app-publish-button div div button:nth-of-type(1)": "公開",
   "ng-spd-popover div ng-spd-list div span": "公開",
+  "app-workflow-bar span:nth-of-type(2) button": "アクション",
   "ng-spd-popover div ng-spd-list div div button": "公開を開始",
   "ng-spd-page-header app-top-bar div div:nth-of-type(3) button": "閉じる",
   "app-rendering-host-selector button div:nth-of-type(1)": "標準編集ホスト",
@@ -38,3 +43,4 @@
   "app-media-dialog ng-spd-dialog-panel ng-spd-dialog-actions button:nth-of-type(1)": "キャンセル",
   "app-media-dialog ng-spd-dialog-panel ng-spd-dialog-actions button:nth-of-type(2)": "選択したものを追加"
 }
+

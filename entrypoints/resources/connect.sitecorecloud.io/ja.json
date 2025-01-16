@@ -1,0 +1,21 @@
+{
+  "[data-targetid='dashboard_1']": "ダッシュボード",
+  "[data-targetid='projects_2']": "プロジェクト",
+  "[data-targetid='communitylibrary_3']": "コミュニティ ライブラリ",
+  "[data-testid='Tools'] span": "ツール",
+  "header div div:nth-of-type(2) div div button:nth-of-type(1)": "共通データモデル",
+  "header div div:nth-of-type(2) div div button:nth-of-type(2)": "コネクタSDK",
+  "header div div:nth-of-type(2) div div button:nth-of-type(3)": "カスタムOAuthプロファイル",
+  "header div div:nth-of-type(2) div div button:nth-of-type(4)": "環境プロパティ",
+  "header div div:nth-of-type(2) div div button:nth-of-type(5)": "ログ",
+  "header div div:nth-of-type(2) div div button:nth-of-type(6)": "ルックアップテーブル",
+  "header div div:nth-of-type(2) div div button:nth-of-type(7)": "メッセージテンプレート",
+  "header div div:nth-of-type(2) div div button:nth-of-type(8)": "オンプレグループ",
+  "header div div:nth-of-type(2) div div button:nth-of-type(9)": "タスク",
+  "header div div:nth-of-type(2) div div button:nth-of-type(11)": "レシピライフサイクル管理",
+  "header div div:nth-of-type(2) div div button:nth-of-type(12)": "ランタイム接続",
+  "header div div:nth-of-type(2) div div button:nth-of-type(13)": "ワークボット",
+  "header div div:nth-of-type(2) div div button:nth-of-type(14)": "接続",
+  "header div div:nth-of-type(3) div div button:nth-of-type(1)": "アカウント管理",
+  "header div div:nth-of-type(3) div div button:nth-of-type(2)": "ログアウト"
+}

@@ -1,14 +1,19 @@
 {
+  "xmc-pocket-nav div div div div:nth-of-type(1) div:nth-of-type(3) div": "Designbibliothek",
+  "xmc-pocket-nav div div div div:nth-of-type(1) div:nth-of-type(4) div": "Inhalt",
+  "xmc-pocket-nav div div div div:nth-of-type(1) div:nth-of-type(4) a:nth-of-type(1)  div span": "Inhaltseditor",
+  "xmc-pocket-nav div div div div:nth-of-type(1) div:nth-of-type(4) a:nth-of-type(2) div span": "Medienbibliothek",
   "ng-spd-popover div div ng-spd-list:nth-of-type(1) h4": "Umgebungen",
   "ng-spd-popover div div ng-spd-list:nth-of-type(2) h4": "Seiten",
   "ng-spd-list h4": "Sprachen",
   "app-layout-switch div span": "Geteiltes Layout",
-  "[data-testid='nav-editor'] span:nth-of-type(2)": "Editor",
-  "[data-testid='nav-templates'] span:nth-of-type(2)": "Vorlagen",
-  "[data-testid='nav-personalization'] span:nth-of-type(2)": "Personalisieren",
-  "[data-testid='nav-analytics'] span:nth-of-type(2)": "Analysieren",
+  "app-navigation-bar a:nth-of-type(1) span:nth-of-type(2)": "Editor",
+  "app-navigation-bar a:nth-of-type(2) span:nth-of-type(2)": "Vorlagen",
+  "app-navigation-bar a:nth-of-type(3) span:nth-of-type(2)": "Personalisieren",
+  "app-navigation-bar a:nth-of-type(4) span:nth-of-type(2)": "Analysieren",
   "app-publish-button div div button:nth-of-type(1)": "Veröffentlichen",
   "ng-spd-popover div ng-spd-list div span": "Veröffentlichen",
+  "app-workflow-bar span:nth-of-type(2) button": "Aktionen",
   "ng-spd-popover div ng-spd-list div div button": "Veröffentlichung starten",
   "ng-spd-page-header app-top-bar div div:nth-of-type(3) button": "Schließen",
   "app-rendering-host-selector button div:nth-of-type(1)": "Standard-Bearbeitungshost",
@@ -38,3 +43,4 @@
   "app-media-dialog ng-spd-dialog-panel ng-spd-dialog-actions button:nth-of-type(1)": "Abbrechen",
   "app-media-dialog ng-spd-dialog-panel ng-spd-dialog-actions button:nth-of-type(2)": "Ausgewählte hinzufügen"
 }
+

@@ -1,0 +1,21 @@
+{
+  "[data-targetid='dashboard_1']": "Tableau de bord",
+  "[data-targetid='projects_2']": "Projets",
+  "[data-targetid='communitylibrary_3']": "Bibliothèque communautaire",
+  "[data-testid='Tools'] span": "Outils",
+  "header div div:nth-of-type(2) div div button:nth-of-type(1)": "Modèles de données communs",
+  "header div div:nth-of-type(2) div div button:nth-of-type(2)": "SDK de connecteur",
+  "header div div:nth-of-type(2) div div button:nth-of-type(3)": "Profils OAuth personnalisés",
+  "header div div:nth-of-type(2) div div button:nth-of-type(4)": "Propriétés de l'environnement",
+  "header div div:nth-of-type(2) div div button:nth-of-type(5)": "Journaux",
+  "header div div:nth-of-type(2) div div button:nth-of-type(6)": "Tables de recherche",
+  "header div div:nth-of-type(2) div div button:nth-of-type(7)": "Modèles de messages",
+  "header div div:nth-of-type(2) div div button:nth-of-type(8)": "Groupes sur site",
+  "header div div:nth-of-type(2) div div button:nth-of-type(9)": "Tâche des personnes",
+  "header div div:nth-of-type(2) div div button:nth-of-type(11)": "Gestion du cycle de vie des recettes",
+  "header div div:nth-of-type(2) div div button:nth-of-type(12)": "Connexions d'exécution",
+  "header div div:nth-of-type(2) div div button:nth-of-type(13)": "Workbot",
+  "header div div:nth-of-type(2) div div button:nth-of-type(14)": "Connexions",
+  "header div div:nth-of-type(3) div div button:nth-of-type(1)": "Gérer le compte",
+  "header div div:nth-of-type(3) div div button:nth-of-type(2)": "Se déconnecter"
+}

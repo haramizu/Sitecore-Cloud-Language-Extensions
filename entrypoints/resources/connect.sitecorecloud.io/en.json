@@ -1,0 +1,21 @@
+{
+  "[data-targetid='dashboard_1']": "Dashboard",
+  "[data-targetid='projects_2']": "Projects",
+  "[data-targetid='communitylibrary_3']": "Community library",
+  "[data-testid='Tools'] span": "Tools",
+  "header div div:nth-of-type(2) div div button:nth-of-type(1)": "Common data models",
+  "header div div:nth-of-type(2) div div button:nth-of-type(2)": "Connector SDK",
+  "header div div:nth-of-type(2) div div button:nth-of-type(3)": "Custom OAuth profiles",
+  "header div div:nth-of-type(2) div div button:nth-of-type(4)": "Environment properties",
+  "header div div:nth-of-type(2) div div button:nth-of-type(5)": "Logs",
+  "header div div:nth-of-type(2) div div button:nth-of-type(6)": "Lookup tables",
+  "header div div:nth-of-type(2) div div button:nth-of-type(7)": "Message templates",
+  "header div div:nth-of-type(2) div div button:nth-of-type(8)": "On-prem groups",
+  "header div div:nth-of-type(2) div div button:nth-of-type(9)": "People task",
+  "header div div:nth-of-type(2) div div button:nth-of-type(11)": "Recipe lifecycle management",
+  "header div div:nth-of-type(2) div div button:nth-of-type(12)": "Runtime connections",
+  "header div div:nth-of-type(2) div div button:nth-of-type(13)": "Workbot",
+  "header div div:nth-of-type(2) div div button:nth-of-type(14)": "Connections",
+  "header div div:nth-of-type(3) div div button:nth-of-type(1)": "Manage account",
+  "header div div:nth-of-type(3) div div button:nth-of-type(2)": "Log out"
+}

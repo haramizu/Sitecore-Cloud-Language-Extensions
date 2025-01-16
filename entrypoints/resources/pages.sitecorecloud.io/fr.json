@@ -1,14 +1,19 @@
 {
+  "xmc-pocket-nav div div div div:nth-of-type(1) div:nth-of-type(3) div": "Bibliothèque de design",
+  "xmc-pocket-nav div div div div:nth-of-type(1) div:nth-of-type(4) div": "Contenu",
+  "xmc-pocket-nav div div div div:nth-of-type(1) div:nth-of-type(4) a:nth-of-type(1)  div span": "Éditeur de contenu",
+  "xmc-pocket-nav div div div div:nth-of-type(1) div:nth-of-type(4) a:nth-of-type(2) div span": "Bibliothèque de médias",
   "ng-spd-popover div div ng-spd-list:nth-of-type(1) h4": "Environnements",
   "ng-spd-popover div div ng-spd-list:nth-of-type(2) h4": "Sites",
   "ng-spd-list h4": "Langues",
   "app-layout-switch div span": "Disposition partagée",
-  "[data-testid='nav-editor'] span:nth-of-type(2)": "Éditeur",
-  "[data-testid='nav-templates'] span:nth-of-type(2)": "Modèles",
-  "[data-testid='nav-personalization'] span:nth-of-type(2)": "Personnaliser",
-  "[data-testid='nav-analytics'] span:nth-of-type(2)": "Analyser",
+  "app-navigation-bar a:nth-of-type(1) span:nth-of-type(2)": "Éditeur",
+  "app-navigation-bar a:nth-of-type(2) span:nth-of-type(2)": "Modèles",
+  "app-navigation-bar a:nth-of-type(3) span:nth-of-type(2)": "Personnaliser",
+  "app-navigation-bar a:nth-of-type(4) span:nth-of-type(2)": "Analyser",
   "app-publish-button div div button:nth-of-type(1)": "Publier",
   "ng-spd-popover div ng-spd-list div span": "Publier",
+  "app-workflow-bar span:nth-of-type(2) button": "Actions",
   "ng-spd-popover div ng-spd-list div div button": "Commencer la publication",
   "ng-spd-page-header app-top-bar div div:nth-of-type(3) button": "Fermer",
   "app-rendering-host-selector button div:nth-of-type(1)": "Hôte d'édition par défaut",
@@ -38,3 +43,4 @@
   "app-media-dialog ng-spd-dialog-panel ng-spd-dialog-actions button:nth-of-type(1)": "Annuler",
   "app-media-dialog ng-spd-dialog-panel ng-spd-dialog-actions button:nth-of-type(2)": "Ajouter la sélection"
 }
+

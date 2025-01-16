@@ -9,7 +9,7 @@ export default defineConfig({
     description:
       'By using the Sitecore Language Switcher, you can switch the administration screen to each language.',
     default_locale: 'en',
-    version: '0.3.0',
+    version: '0.3.1',
     permissions: ['storage'],
   },
 });
