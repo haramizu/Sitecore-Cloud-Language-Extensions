@@ -5,6 +5,8 @@
   "xmc-pocket-nav div div div div:nth-of-type(1) div:nth-of-type(4) a:nth-of-type(2) div span": "Media library",
   "header div:nth-of-type(1) button:nth-of-type(2)": "Forms",
   "header div:nth-of-type(1) button:nth-of-type(4)": "Styles",
+  "[data-testid='account-icon'] div div div a span:nth-of-type(2) p": "Manage account",
+  "[data-testid='account-icon'] div div div button span:nth-of-type(2)": "Log out",
   "[data-testid='button-create-new']": "Create form",
   "[data-testid='create-form-modal-header']": "Create form",
   "footer button:nth-of-type(1)": "Cancel",

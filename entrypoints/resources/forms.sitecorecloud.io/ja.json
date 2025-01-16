@@ -5,6 +5,8 @@
   "xmc-pocket-nav div div div div:nth-of-type(1) div:nth-of-type(4) a:nth-of-type(2) div span": "メディア ライブラリ",
   "header div:nth-of-type(1) button:nth-of-type(2)": "フォーム",
   "header div:nth-of-type(1) button:nth-of-type(4)": "スタイル",
+  "[data-testid='account-icon'] div div div a span:nth-of-type(2) p": "アカウントの管理",
+  "[data-testid='account-icon'] div div div button span:nth-of-type(2)": "ログアウト",
   "[data-testid='button-create-new']": "フォーム作成",
   "[data-testid='create-form-modal-header']": "フォーム作成",
   "footer button:nth-of-type(1)": "取り消し",
