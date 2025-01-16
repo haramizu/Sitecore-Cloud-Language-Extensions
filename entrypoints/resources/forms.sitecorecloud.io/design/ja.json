@@ -25,7 +25,22 @@
   "[data-testid='left-sidebar-menu'] div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(2) div div:nth-of-type(3) button": "保存したアイテム",
   "[data-testid='left-sidebar-menu'] div:nth-of-type(2) div:nth-of-type(1) button:nth-of-type(3)": "オプション",
   "[data-testid='left-sidebar-menu'] div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(3) h2": "全般設定",
+  "[data-testid='left-sidebar-menu'] div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(2) div:nth-of-type(1) label": "コンテンツ幅",
+  "[data-testid='left-sidebar-menu'] div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(2) div:nth-of-type(2) label": "ボーダー幅",
+  "[data-testid='left-sidebar-menu'] div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(2) div:nth-of-type(3) label": "ボーダー色",
+  "[data-testid='left-sidebar-menu'] div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(2) div:nth-of-type(4) label": "背景色",
+  "[title='Add background image']": "背景画像を追加",
+  "[data-testid='left-sidebar-menu'] div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(2) div:nth-of-type(6) div button": "Googleフォント",
+  "[data-testid='left-sidebar-menu'] div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(2) div:nth-of-type(7) div:nth-of-type(1) div button": "リンク設定",
+  "[data-testid='left-sidebar-menu'] div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(2) div:nth-of-type(7) div:nth-of-type(2) div button": "スロット",
+  "[data-testid='left-sidebar-menu'] div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(2) div:nth-of-type(7) div:nth-of-type(3) div button": "テキスト",
+  "[data-testid='left-sidebar-menu'] div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(2) div:nth-of-type(7) div:nth-of-type(4) div button": "確認メッセージ",
+  "[data-testid='left-sidebar-menu'] div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(2) div:nth-of-type(7) div:nth-of-type(5) div button": "スペーサー",
+  "[data-testid='left-sidebar-menu'] div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(2) div:nth-of-type(7) div:nth-of-type(6) div button": "画像",
+  "[data-testid='left-sidebar-menu'] div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(2) div:nth-of-type(7) div:nth-of-type(7) div button": "ボタン",
+  "[data-testid='left-sidebar-menu'] div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(2) div:nth-of-type(7) div:nth-of-type(8) div button": "ソーシャルメディア",
   "[data-testid='load-template'] button": "テンプレートを読み込む",
-  "[data-testid='clear-design-button']": "デザインをクリア"
+  "[data-testid='clear-design-button']": "デザインをクリア",
+  "[title='Add page']": "ページを追加"
 }
 

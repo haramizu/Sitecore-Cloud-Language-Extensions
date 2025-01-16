@@ -25,7 +25,22 @@
   "[data-testid='left-sidebar-menu'] div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(2) div div:nth-of-type(3) button": "Saved items",
   "[data-testid='left-sidebar-menu'] div:nth-of-type(2) div:nth-of-type(1) button:nth-of-type(3)": "Options",
   "[data-testid='left-sidebar-menu'] div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(3) h2": "General settings",
+  "[data-testid='left-sidebar-menu'] div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(2) div:nth-of-type(1) label": "Content width",
+  "[data-testid='left-sidebar-menu'] div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(2) div:nth-of-type(2) label": "Border width",
+  "[data-testid='left-sidebar-menu'] div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(2) div:nth-of-type(3) label": "Border color",
+  "[data-testid='left-sidebar-menu'] div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(2) div:nth-of-type(4) label": "Background color",
+  "[title='Add background image']": "Add background image",
+  "[data-testid='left-sidebar-menu'] div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(2) div:nth-of-type(6) div button": "Google Fonts",
+  "[data-testid='left-sidebar-menu'] div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(2) div:nth-of-type(7) div:nth-of-type(1) div button": "Link settings",
+  "[data-testid='left-sidebar-menu'] div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(2) div:nth-of-type(7) div:nth-of-type(2) div button": "Slot",
+  "[data-testid='left-sidebar-menu'] div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(2) div:nth-of-type(7) div:nth-of-type(3) div button": "Text",
+  "[data-testid='left-sidebar-menu'] div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(2) div:nth-of-type(7) div:nth-of-type(4) div button": "Validation messages",
+  "[data-testid='left-sidebar-menu'] div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(2) div:nth-of-type(7) div:nth-of-type(5) div button": "Spacer",
+  "[data-testid='left-sidebar-menu'] div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(2) div:nth-of-type(7) div:nth-of-type(6) div button": "Image",
+  "[data-testid='left-sidebar-menu'] div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(2) div:nth-of-type(7) div:nth-of-type(7) div button": "Button",
+  "[data-testid='left-sidebar-menu'] div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(2) div:nth-of-type(7) div:nth-of-type(8) div button": "Social media",
   "[data-testid='load-template'] button": "Load template",
-  "[data-testid='clear-design-button']": "Clear design"
+  "[data-testid='clear-design-button']": "Clear design",
+  "[title='Add page']": "Add page"
 }
 
