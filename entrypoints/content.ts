@@ -4,7 +4,8 @@ import { storage } from '@wxt-dev/storage';
 type TranslationKeys = keyof typeof String;
 
 export default defineContentScript({
-  matches: ['*://*.sitecorecloud.io/*'],
+  matches: ['*://*.sitecorecloud.io/*', '*://*.workato.com/*'],
+  allFrames: true,
   async main() {
     const browserLang = navigator.language.slice(0, 2);
     const storedLang = (await storage.getItem(`local:preferredLanguage`)) as string;
@@ -17,6 +18,11 @@ export default defineContentScript({
       domain = "stream.sitecorecloud.io";
     }
 
+    // Sitecore Analytics on xmapps
+    if (domain.startsWith('analytics') && domain.endsWith('sitecorecloud.io')) {
+      domain = "analytics.sitecorecloud.io";
+    }
+
     // Sitecore CDP
     // if (domain.startsWith('app-cdp') && domain.endsWith('sitecorecloud.io')) {
     //   domain = "app-cdp.sitecorecloud.io";
@@ -26,6 +32,12 @@ export default defineContentScript({
     // if (domain.startsWith('app-personalize') && domain.endsWith('sitecorecloud.io')) {
     //   domain = "app-personalize.sitecorecloud.io";
     // }
+
+    // Sitecore Connect
+    if (domain.endsWith('workato.com')) {
+      domain = "workato.com";
+    }
+
 
     console.log('domain: ' + domain);
 
