@@ -1,8 +1,4 @@
 {
-  "[data-testid='save-and-exit'] button": "Save and exit",
-  "[data-testid='top-menu-button'] div div div button:nth-of-type(1)": "Save and activate",
-  "[data-testid='top-menu-button'] div div div button:nth-of-type(2)": "Save a version",
-  "[data-testid='top-menu-button'] div div div button:nth-of-type(3)": "Save as template",
   "[data-testid='left-sidebar-menu'] div:nth-of-type(2) div:nth-of-type(1) button:nth-of-type(1)": "Layouts",
   "[data-testid='left-sidebar-menu'] div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(1) div div:nth-of-type(1) button": "Basic",
   "[data-testid='left-sidebar-menu'] div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(1) div div:nth-of-type(2) button": "Saved layouts",

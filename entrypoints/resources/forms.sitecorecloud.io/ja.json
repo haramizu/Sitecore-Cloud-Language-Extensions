@@ -39,6 +39,10 @@
   "[data-testid='webhook-action-delete']": "削除",
   "body div:nth-of-type(2) div div div:nth-of-type(1) button": "スタイル作成",
   "[data-testid='edit-menu_item']": "編集",
-  "[data-testid='rename-menu_item']": "名前の変更"
+  "[data-testid='rename-menu_item']": "名前の変更",
+  "[data-testid='save-and-exit'] button": "保存して閉じる",
+  "[data-testid='top-menu-button'] div div div button:nth-of-type(1)": "保存して有効にする",
+  "[data-testid='top-menu-button'] div div div button:nth-of-type(2)": "バージョンを保存する",
+  "[data-testid='top-menu-button'] div div div button:nth-of-type(3)": "テンプレートとして保存"
 }
 

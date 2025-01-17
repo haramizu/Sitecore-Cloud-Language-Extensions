@@ -39,6 +39,10 @@
   "[data-testid='webhook-action-delete']": "Delete",
   "body div:nth-of-type(2) div div div:nth-of-type(1) button": "Create style",
   "[data-testid='edit-menu_item']": "Edit",
-  "[data-testid='rename-menu_item']": "Rename"
+  "[data-testid='rename-menu_item']": "Rename",
+  "[data-testid='save-and-exit'] button": "Save and exit",
+  "[data-testid='top-menu-button'] div div div button:nth-of-type(1)": "Save and activate",
+  "[data-testid='top-menu-button'] div div div button:nth-of-type(2)": "Save a version",
+  "[data-testid='top-menu-button'] div div div button:nth-of-type(3)": "Save as template"
 }
 

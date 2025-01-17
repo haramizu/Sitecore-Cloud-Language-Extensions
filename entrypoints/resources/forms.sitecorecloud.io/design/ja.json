@@ -1,8 +1,4 @@
 {
-  "[data-testid='save-and-exit'] button": "保存して閉じる",
-  "[data-testid='top-menu-button'] div div div button:nth-of-type(1)": "保存して有効にする",
-  "[data-testid='top-menu-button'] div div div button:nth-of-type(2)": "バージョンを保存する",
-  "[data-testid='top-menu-button'] div div div button:nth-of-type(3)": "テンプレートとして保存",
   "[data-testid='left-sidebar-menu'] div:nth-of-type(2) div:nth-of-type(1) button:nth-of-type(1)": "レイアウト",
   "[data-testid='left-sidebar-menu'] div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(1) div div:nth-of-type(1) button": "基本",
   "[data-testid='left-sidebar-menu'] div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(1) div div:nth-of-type(2) button": "保存されたレイアウト",
