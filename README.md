@@ -34,12 +34,13 @@ The current version supports the following Sitecore Cloud tools
   - Pages ( Analytics not yet )
   - Explorer
   - Components
+  - Forms
 - Sitecore Connect
 
 The following tools are planned.
 
-- Sitecore XM Cloud
-  - Forms
+- Sitecore CDP
+- Sitecore Personalize
 
 ## Extension Configuration
 
