@@ -1,0 +1,13 @@
+{
+  "main div div:nth-of-type(1) h1": "Brand Kits",
+  "main div div:nth-of-type(2) div div:nth-of-type(1) div div:nth-of-type(2) button": "Opret Brand Kit",
+  "body div:nth-of-type(3) div h2": "Nyt brand kit",
+  "body div:nth-of-type(3) form div:nth-of-type(1) label": "Brandnavn",
+  "body div:nth-of-type(3) form div:nth-of-type(2) label": "Firmanavn (hvis forskelligt)",
+  "body div:nth-of-type(3) form div:nth-of-type(3) label": "Industri",
+  "body div:nth-of-type(3) form div:nth-of-type(4) button": "Upload logo",
+  "body div:nth-of-type(3) form div:nth-of-type(4) p": "Logoet vil kun blive brugt til in-app listings. Venligst upload en gennemsigtig PNG",
+  "body div:nth-of-type(3) form div:nth-of-type(5) button:nth-of-type(1)": "Annuller",
+  "body div:nth-of-type(3) form div:nth-of-type(5) button:nth-of-type(2)": "Opret"
+}
+

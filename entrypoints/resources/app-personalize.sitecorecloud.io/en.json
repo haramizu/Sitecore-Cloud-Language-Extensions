@@ -1,3 +1,4 @@
 {
-  "#react-content header div.css-1bivrd3 a:nth-child(7) button": "Forms"
+  "[data-test='nav-data-experiments-menu-link']": "Experiences"
 }
+

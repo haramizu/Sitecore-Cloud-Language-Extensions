@@ -10,7 +10,23 @@ export default defineContentScript({
     const storedLang = (await storage.getItem(`local:preferredLanguage`)) as string;
     const lang = storedLang || browserLang;
 
-    const domain = window.location.hostname;
+    let domain = window.location.hostname;
+
+    // Sitecore Stream
+    if (domain.startsWith('stream') && domain.endsWith('sitecorecloud.io')) {
+      domain = "stream.sitecorecloud.io";
+    }
+
+    // Sitecore CDP
+    // if (domain.startsWith('app-cdp') && domain.endsWith('sitecorecloud.io')) {
+    //   domain = "app-cdp.sitecorecloud.io";
+    // }
+
+    // Sitecore Personalize
+    // if (domain.startsWith('app-personalize') && domain.endsWith('sitecorecloud.io')) {
+    //   domain = "app-personalize.sitecorecloud.io";
+    // }
+
     console.log('domain: ' + domain);
 
     // If the language is 'en', do not execute

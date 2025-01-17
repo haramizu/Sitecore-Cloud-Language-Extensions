@@ -1,0 +1,25 @@
+{
+  "header div:nth-of-type(1) nav div:nth-of-type(1) a:nth-of-type(1) button": "Mein Tag",
+  "header div:nth-of-type(1) nav div:nth-of-type(1) a:nth-of-type(2) button": "Projekte",
+  "header div:nth-of-type(1) nav div:nth-of-type(1) a:nth-of-type(3) button": "Chat",
+  "header div:nth-of-type(1) nav div:nth-of-type(1) a:nth-of-type(4) button": "Marken-Kits",
+  "body div:nth-of-type(2) div div:nth-of-type(2) a": "Konto verwalten",
+  "body div:nth-of-type(2) div div:nth-of-type(4) a": "Abmelden",
+  "body div div div div:nth-of-type(2) div div:nth-of-type(1) button:nth-of-type(1)": "Liste",
+  "body div div div div:nth-of-type(2) div div:nth-of-type(1) button:nth-of-type(2)": "Kanban",
+  "body div div div div:nth-of-type(2) div div:nth-of-type(1) button:nth-of-type(3)": "Zeitstrahl",
+  "body div div div div:nth-of-type(2) div div:nth-of-type(1) button:nth-of-type(4)": "Trichter",
+  "body div div div div:nth-of-type(2) div div:nth-of-type(1) button:nth-of-type(5)": "Anhänge",
+  "body div div div div:nth-of-type(1) div:nth-of-type(1) div div a button": "Übersicht",
+  "body div div div div:nth-of-type(1) div:nth-of-type(1) div div div:nth-of-type(1) a button": "Quellen",
+  "body div div div div:nth-of-type(1) div:nth-of-type(1) div div h4": "Abschnitte",
+  "body div div div div:nth-of-type(1) div:nth-of-type(1) div div div:nth-of-type(2) a:nth-of-type(1) button": "Globale Ziele",
+  "body div div div div:nth-of-type(1) div:nth-of-type(1) div div div:nth-of-type(2) a:nth-of-type(2) button": "Markenkontext",
+  "body div div div div:nth-of-type(1) div:nth-of-type(1) div div div:nth-of-type(2) a:nth-of-type(3) button": "Dos und Don'ts",
+  "body div div div div:nth-of-type(1) div:nth-of-type(1) div div div:nth-of-type(2) a:nth-of-type(4) button": "Tonfall",
+  "body div div div div:nth-of-type(1) div:nth-of-type(1) div div div:nth-of-type(2) a:nth-of-type(5) button": "Checkliste",
+  "body div div div div:nth-of-type(1) div:nth-of-type(1) div div div:nth-of-type(2) a:nth-of-type(6) button": "Grammatikrichtlinien",
+  "body div div div div:nth-of-type(1) div:nth-of-type(1) div div div:nth-of-type(2) a:nth-of-type(7) button": "Visuelle Richtlinien",
+  "body div div div div:nth-of-type(1) div:nth-of-type(1) div div div:nth-of-type(2) a:nth-of-type(8) button": "Bildstil"
+}
+

@@ -36,6 +36,7 @@ The current version supports the following Sitecore Cloud tools
   - Components
   - Forms
 - Sitecore Connect
+- Sitecore Stream
 
 The following tools are planned.
 
@@ -54,5 +55,6 @@ This extension is developed using the following tools:
 
 ## History
 
+- 2025.01.17 0.4.0 release ( Added support for servers in each region )
 - 2025.01.15 initial release 0.3.0
 
