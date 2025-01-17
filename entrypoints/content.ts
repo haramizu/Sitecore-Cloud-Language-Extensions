@@ -18,14 +18,14 @@ export default defineContentScript({
     }
 
     // Sitecore CDP
-    if (domain.startsWith('app-cdp') && domain.endsWith('sitecorecloud.io')) {
-      domain = "app-cdp.sitecorecloud.io";
-    }
+    // if (domain.startsWith('app-cdp') && domain.endsWith('sitecorecloud.io')) {
+    //   domain = "app-cdp.sitecorecloud.io";
+    // }
 
     // Sitecore Personalize
-    if (domain.startsWith('app-personalize') && domain.endsWith('sitecorecloud.io')) {
-      domain = "app-personalize.sitecorecloud.io";
-    }
+    // if (domain.startsWith('app-personalize') && domain.endsWith('sitecorecloud.io')) {
+    //   domain = "app-personalize.sitecorecloud.io";
+    // }
 
     console.log('domain: ' + domain);
 

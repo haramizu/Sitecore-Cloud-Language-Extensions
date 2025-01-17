@@ -1,0 +1,9 @@
+{
+  "main div div:nth-of-type(1) h1": "Projets",
+  "main div div:nth-of-type(1) button": "Créer un projet",
+  "table thead tr th:nth-of-type(2)": "Nom du projet",
+  "table thead tr th:nth-of-type(3)": "Statut",
+  "table thead tr th:nth-of-type(4)": "Étiquettes",
+  "table thead tr th:nth-of-type(5)": "Membres de l'équipe"
+}
+

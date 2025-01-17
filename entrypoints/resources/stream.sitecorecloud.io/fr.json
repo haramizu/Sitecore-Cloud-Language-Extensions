@@ -1,0 +1,25 @@
+{
+  "header div:nth-of-type(1) nav div:nth-of-type(1) a:nth-of-type(1) button": "Ma journée",
+  "header div:nth-of-type(1) nav div:nth-of-type(1) a:nth-of-type(2) button": "Projets",
+  "header div:nth-of-type(1) nav div:nth-of-type(1) a:nth-of-type(3) button": "Chat",
+  "header div:nth-of-type(1) nav div:nth-of-type(1) a:nth-of-type(4) button": "Kits de marque",
+  "body div:nth-of-type(2) div div:nth-of-type(2) a": "Gérer le compte",
+  "body div:nth-of-type(2) div div:nth-of-type(4) a": "Se déconnecter",
+  "body div div div div:nth-of-type(2) div div:nth-of-type(1) button:nth-of-type(1)": "Liste",
+  "body div div div div:nth-of-type(2) div div:nth-of-type(1) button:nth-of-type(2)": "Kanban",
+  "body div div div div:nth-of-type(2) div div:nth-of-type(1) button:nth-of-type(3)": "Chronologie",
+  "body div div div div:nth-of-type(2) div div:nth-of-type(1) button:nth-of-type(4)": "Entonnoir",
+  "body div div div div:nth-of-type(2) div div:nth-of-type(1) button:nth-of-type(5)": "Pièces jointes",
+  "body div div div div:nth-of-type(1) div:nth-of-type(1) div div a button": "Vue d'ensemble",
+  "body div div div div:nth-of-type(1) div:nth-of-type(1) div div div:nth-of-type(1) a button": "Sources",
+  "body div div div div:nth-of-type(1) div:nth-of-type(1) div div h4": "Sections",
+  "body div div div div:nth-of-type(1) div:nth-of-type(1) div div div:nth-of-type(2) a:nth-of-type(1) button": "Objectifs mondiaux",
+  "body div div div div:nth-of-type(1) div:nth-of-type(1) div div div:nth-of-type(2) a:nth-of-type(2) button": "Contexte de la marque",
+  "body div div div div:nth-of-type(1) div:nth-of-type(1) div div div:nth-of-type(2) a:nth-of-type(3) button": "À faire et à ne pas faire",
+  "body div div div div:nth-of-type(1) div:nth-of-type(1) div div div:nth-of-type(2) a:nth-of-type(4) button": "Ton de la voix",
+  "body div div div div:nth-of-type(1) div:nth-of-type(1) div div div:nth-of-type(2) a:nth-of-type(5) button": "Liste de contrôle",
+  "body div div div div:nth-of-type(1) div:nth-of-type(1) div div div:nth-of-type(2) a:nth-of-type(6) button": "Directives grammaticales",
+  "body div div div div:nth-of-type(1) div:nth-of-type(1) div div div:nth-of-type(2) a:nth-of-type(7) button": "Directives visuelles",
+  "body div div div div:nth-of-type(1) div:nth-of-type(1) div div div:nth-of-type(2) a:nth-of-type(8) button": "Style d'image"
+}
+

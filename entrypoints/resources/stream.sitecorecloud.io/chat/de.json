@@ -1,0 +1,13 @@
+{
+  "[data-test-id='brandkit-picker'] span:nth-of-type(2)": "Wählen Sie ein Brandkit",
+  "body div:nth-of-type(2) div span:nth-of-type(1)": "Neueste Marke",
+  "body div:nth-of-type(2) div span:nth-of-type(2)": "Alle Marken",
+  "[id='artifactsPortalPlaceholder'] div div:nth-of-type(1) div div:nth-of-type(1) div h2": "Wie kann ich helfen?",
+  "[id='artifactsPortalPlaceholder'] div div:nth-of-type(1) div div:nth-of-type(1) div div button:nth-of-type(1) p": "Wer ist unser Zielkunde?",
+  "[id='artifactsPortalPlaceholder'] div div:nth-of-type(1) div div:nth-of-type(1) div div button:nth-of-type(2) p": "Können Sie mir unseren Markenton beschreiben?",
+  "[id='artifactsPortalPlaceholder'] div div:nth-of-type(1) div div:nth-of-type(1) div div button:nth-of-type(3) p": "Was ist unsere große Markenidee?",
+  "[id='artifactsPortalPlaceholder'] div div:nth-of-type(1) div div:nth-of-type(1) div div button:nth-of-type(4) p": "Brainstormen Sie einige Schlagzeilenideen für meine neue Kampagne",
+  "[id='artifactsPortalPlaceholder'] div div:nth-of-type(1) div div:nth-of-type(1) div div button:nth-of-type(5) p": "Erstellen Sie ein Briefing für meine neue Kampagne, die auf meine Kunden abzielt",
+  "[id='artifactsPortalPlaceholder'] div div:nth-of-type(2) div form p": "Stream AI kann Fehler machen. Überprüfen Sie wichtige Informationen."
+}
+

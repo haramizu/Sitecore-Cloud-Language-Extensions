@@ -4,6 +4,22 @@
   "header div:nth-of-type(1) nav div:nth-of-type(1) a:nth-of-type(3) button": "チャット",
   "header div:nth-of-type(1) nav div:nth-of-type(1) a:nth-of-type(4) button": "ブランド キット",
   "body div:nth-of-type(2) div div:nth-of-type(2) a": "アカウント管理",
-  "body div:nth-of-type(2) div div:nth-of-type(4) a": "ログアウト"
+  "body div:nth-of-type(2) div div:nth-of-type(4) a": "ログアウト",
+  "body div div div div:nth-of-type(2) div div:nth-of-type(1) button:nth-of-type(1)": "リスト",
+  "body div div div div:nth-of-type(2) div div:nth-of-type(1) button:nth-of-type(2)": "カンバン",
+  "body div div div div:nth-of-type(2) div div:nth-of-type(1) button:nth-of-type(3)": "タイムライン",
+  "body div div div div:nth-of-type(2) div div:nth-of-type(1) button:nth-of-type(4)": "ファネル",
+  "body div div div div:nth-of-type(2) div div:nth-of-type(1) button:nth-of-type(5)": "添付",
+  "body div div div div:nth-of-type(1) div:nth-of-type(1) div div a button": "概要",
+  "body div div div div:nth-of-type(1) div:nth-of-type(1) div div div:nth-of-type(1) a button": "ソース",
+  "body div div div div:nth-of-type(1) div:nth-of-type(1) div div h4": "セクション",
+  "body div div div div:nth-of-type(1) div:nth-of-type(1) div div div:nth-of-type(2) a:nth-of-type(1) button": "グローバル目標",
+  "body div div div div:nth-of-type(1) div:nth-of-type(1) div div div:nth-of-type(2) a:nth-of-type(2) button": "ブランドコンテキスト",
+  "body div div div div:nth-of-type(1) div:nth-of-type(1) div div div:nth-of-type(2) a:nth-of-type(3) button": "やることとやらないこと",
+  "body div div div div:nth-of-type(1) div:nth-of-type(1) div div div:nth-of-type(2) a:nth-of-type(4) button": "トーン・オブ・ボイス",
+  "body div div div div:nth-of-type(1) div:nth-of-type(1) div div div:nth-of-type(2) a:nth-of-type(5) button": "チェックリスト",
+  "body div div div div:nth-of-type(1) div:nth-of-type(1) div div div:nth-of-type(2) a:nth-of-type(6) button": "文法ガイドライン",
+  "body div div div div:nth-of-type(1) div:nth-of-type(1) div div div:nth-of-type(2) a:nth-of-type(7) button": "ビジュアルガイドライン",
+  "body div div div div:nth-of-type(1) div:nth-of-type(1) div div div:nth-of-type(2) a:nth-of-type(8) button": "画像スタイル"
 }
 
