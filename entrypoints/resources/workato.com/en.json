@@ -7,6 +7,9 @@
   "w-assets-page div div div:nth-of-type(1) div w-folders div div div:nth-of-type(1) w-folder div w-folder:nth-of-type(2) div w-folder:nth-of-type(1) div div div w-trimmed-text span span": "Connected",
   "w-assets-page div div div:nth-of-type(1) div w-folders div div div:nth-of-type(1) w-folder div w-folder:nth-of-type(2) div w-folder:nth-of-type(2) div div div w-trimmed-text span span": "Disconnected",
   "w-assets-page div div div:nth-of-type(1) div w-folders div div div:nth-of-type(1) w-folder div w-folder:nth-of-type(3) div div div w-trimmed-text span span": "Trash",
-  "w-assets-page div div div:nth-of-type(1) div w-folders div div div:nth-of-type(2) w-folder div div div w-trimmed-text span span": "Projects"
+  "w-assets-page div div div:nth-of-type(1) div w-folders div div div:nth-of-type(2) w-folder div div div w-trimmed-text span span": "Projects",
+  "w-assets-page div div div:nth-of-type(2) div w-project-folder div div w-assets-create-button w-dropdown-menu-trigger div w-button button span span": "Create",
+  "w-assets-page div div div:nth-of-type(2) div w-project-folder div w-horizontal-tab-navigation div div div a:nth-of-type(1) div span": "Assets",
+  "w-assets-page div div div:nth-of-type(2) div w-project-folder div w-horizontal-tab-navigation div div div a:nth-of-type(2) div span": "Settings"
 }
 
