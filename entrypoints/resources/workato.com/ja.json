@@ -26,12 +26,22 @@
   "w-assets-page div div div:nth-of-type(1) div w-folders div div div:nth-of-type(2) w-folder div div div w-trimmed-text span span": "プロジェクト",
   "w-assets-page div div div:nth-of-type(2) div w-projects-folder div div:nth-of-type(1) h1": "プロジェクト",
   "w-assets-page div div div:nth-of-type(2) div w-projects-folder div div:nth-of-type(1) w-button a span span": "プロジェクトを作成",
+  "w-assets-page div div div:nth-of-type(2) div w-project-folder div div w-assets-create-button w-dropdown-menu-trigger div w-button button span span": "作成",
+  "w-dropdown-menu div div div w-dropdown-menu-item:nth-of-type(1) a div:nth-of-type(2) div:nth-of-type(1)": "レシピ",
+  "w-dropdown-menu div div div w-dropdown-menu-item:nth-of-type(2) a div:nth-of-type(2) div:nth-of-type(1)": "接続",
+  "w-dropdown-menu div div div w-dropdown-menu-item:nth-of-type(3) div div:nth-of-type(2) div:nth-of-type(1)": "フォルダー",
+  "w-assets-page div div div:nth-of-type(2) div w-project-folder div w-horizontal-tab-navigation div div div a:nth-of-type(1) div span": "アセット",
+  "w-assets-page div div div:nth-of-type(2) div w-project-folder div w-horizontal-tab-navigation div div div a:nth-of-type(2) div span": "設定",
+  "w-assets-page div div div:nth-of-type(2) div w-project-folder div w-project-settings div w-tabbed-router-outlet div div w-project-general-settings div div:nth-of-type(1) div div": "プロジェクトの説明",
+  "w-assets-page div div div:nth-of-type(2) div w-project-folder div w-project-settings div w-tabbed-router-outlet div div w-project-general-settings div div:nth-of-type(2) div div div": "プロジェクトアクセス",
   "w-create-project-wizard div div div h1": "新しいプロジェクトを設定",
   "w-create-project-wizard div div div form div:nth-of-type(1) w-form-field-container:nth-of-type(1) div div w-form-field-simple-label label": "プロジェクト名",
   "w-create-project-wizard div div div form div:nth-of-type(1) w-form-field-container:nth-of-type(2) div div w-form-field-simple-label label": "プロジェクトの説明",
   "w-create-project-wizard div div div form div:nth-of-type(1) w-form-field-container:nth-of-type(2) div w-form-field-simple-hint div div w-template-or-text": "このプロジェクトに関する情報や同僚への有用なメモを追加します。",
   "w-create-project-wizard div div div form div:nth-of-type(2) w-button:nth-of-type(1) button span span": "プロジェクトを作成",
   "w-create-project-wizard div div div form div:nth-of-type(2) w-button:nth-of-type(2) a span span": "取り消し",
-  "w-browse-page main header div div h1": "コミュニティライブラリ"
+  "w-browse-page main header div div h1": "コミュニティライブラリ",
+  "w-browse-page main w-horizontal-tab-navigation div div div a:nth-of-type(1) div span": "レシピ",
+  "w-browse-page main w-horizontal-tab-navigation div div div a:nth-of-type(2) div span": "カスタムコネクタ"
 }
 
