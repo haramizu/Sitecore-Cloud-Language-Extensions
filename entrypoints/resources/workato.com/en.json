@@ -10,6 +10,13 @@
   "w-assets-page div div div:nth-of-type(1) div w-folders div div div:nth-of-type(2) w-folder div div div w-trimmed-text span span": "Projects",
   "w-assets-page div div div:nth-of-type(2) div w-project-folder div div w-assets-create-button w-dropdown-menu-trigger div w-button button span span": "Create",
   "w-assets-page div div div:nth-of-type(2) div w-project-folder div w-horizontal-tab-navigation div div div a:nth-of-type(1) div span": "Assets",
-  "w-assets-page div div div:nth-of-type(2) div w-project-folder div w-horizontal-tab-navigation div div div a:nth-of-type(2) div span": "Settings"
+  "w-assets-page div div div:nth-of-type(2) div w-project-folder div w-horizontal-tab-navigation div div div a:nth-of-type(2) div span": "Settings",
+  "w-recipe-page-wrapper div w-recipe-page article w-owner-recipe-header section div div:nth-of-type(3) div w-button button span span": "Edit",
+  "w-recipe-page-wrapper div w-recipe-page article w-recipe-page-tabs w-horizontal-tab-navigation div div div a:nth-of-type(1) div span": "Recipe",
+  "w-recipe-page-wrapper div w-recipe-page article w-recipe-page-tabs w-horizontal-tab-navigation div div div a:nth-of-type(2) div span": "Jobs",
+  "w-recipe-page-wrapper div w-recipe-page article w-recipe-page-tabs w-horizontal-tab-navigation div div div a:nth-of-type(3) div span": "Connections",
+  "w-recipe-page-wrapper div w-recipe-page article w-recipe-page-tabs w-horizontal-tab-navigation div div div a:nth-of-type(4) div span": "Versions",
+  "w-recipe-page-wrapper div w-recipe-page article w-recipe-page-tabs w-horizontal-tab-navigation div div div a:nth-of-type(5) div span": "Test cases",
+  "w-recipe-page-wrapper div w-recipe-page article w-recipe-page-tabs w-horizontal-tab-navigation div div div a:nth-of-type(6) div span": "Settings"
 }
 
