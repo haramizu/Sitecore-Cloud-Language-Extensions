@@ -1,5 +1,22 @@
 {
-  "h2": "接続構成",
-  "#chakra-modal--header-add-sso-connection-drawer": "SSO 接続の追加",
-  "#chakra-modal--body-add-sso-connection-drawer div div.css-qs6jbc div button:nth-child(1)": "接続構成"
+  "[data-testid='add-sso-connection-drawer'] header": "SSO接続を追加",
+  "[data-testid='add-sso-connection-drawer'] div div div:nth-of-type(1) div button:nth-of-type(1)": "接続設定",
+  "[data-testid='add-sso-connection-drawer'] div div div:nth-of-type(1) div button:nth-of-type(2)": "クレームマッピング",
+  "[id='connection-configuration']": "接続構成",
+  "[data-testid='label-emailDomains']": "メールドメイン",
+  "[data-testid='add-sso-connection-drawer'] div div div:nth-of-type(2) form div div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(3)": "接続には最大50のメールドメインを含めることができます。接続が作成されると、その関連ドメインを追加、削除、または変更することはできません。",
+  "[data-testid='label-options.oidc.type']": "接続タイプ",
+  "[data-testid='label-options.oidc.discoveryUrl']": "発行者URL",
+  "[data-testid='add-sso-connection-drawer'] div div div:nth-of-type(2) form div div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(3)": "接続したいOpenID ConnectプロバイダーのディスカバリードキュメントのURL。",
+  "[data-testid='label-options.oidc.scope']": "スコープ",
+  "[data-testid='add-sso-connection-drawer'] div div div:nth-of-type(2) form div div:nth-of-type(2) div:nth-of-type(4) div:nth-of-type(3)": "認証中に要求されるスコープ。",
+  "[data-testid='label-options.oidc.clientId']": "クライアントID",
+  "[data-testid='add-sso-connection-drawer'] div div div:nth-of-type(2) form div div:nth-of-type(2) div:nth-of-type(6) div label": "",
+  "[data-testid='add-sso-connection-drawer'] div div div:nth-of-type(2) form div div:nth-of-type(2) div:nth-of-type(6) div div": "アイデンティティプロバイダーにSitecore Cloud Portalを登録する際に、このURL（プロバイダーによってはリダイレクトURIと呼ばれることもあります）を追加する必要がある場合があります。",
+  "[id='claims-mapping'] ": "クレームマッピング",
+  "[data-testid='add-sso-connection-drawer'] div div div:nth-of-type(2) form div div:nth-of-type(3) div p:nth-of-type(1)": "接続のためのクレームマッピング構成を追加します。クレーム名とクレーム値に一致する正規表現を入力して、複数のソースクレームを追加し、次に名前と値を追加して複数のターゲットクレームを追加します。",
+  "[data-testid='add-sso-connection-drawer'] div div div:nth-of-type(2) form div div:nth-of-type(3) div button": "クレームマッピングを追加",
+  "[data-testid='ssoConnectionForm-cancelButton']": "取り消し",
+  "[data-testid='ssoConnectionForm-submitButton']": "保存"
 }
+

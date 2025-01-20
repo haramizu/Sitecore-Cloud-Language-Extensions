@@ -1,6 +1,6 @@
 {
   "h1": "Forbindelser",
-  "#root div div div main div div main p": "Opret og se dine autoriserede Git-baserede kildekontrolforbindelser. På fanen Hosting kan du administrere dine hostingudbydere.",
+  "main p": "Opret og se dine autoriserede Git-baserede kildekontrolforbindelser. På fanen Hosting kan du administrere dine hostingudbydere.",
   "[data-testid='tab-sourceControl']": "Kildekontrol",
   "[data-testid='tab-hosting']": "Hosting",
   "[data-testid='sc-connection-menubutton'] span": "Opret forbindelse",

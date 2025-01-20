@@ -73,6 +73,8 @@
   "[data-testid='hostname-creation-modal-header']": "Opret brugerdefineret værtsnavn",
   "[data-testid='label-hostname']": "Værtsnavn",
   "[data-testid='hostname-creation-cancelButton']": "Annuller",
-  "[data-testid='hostname-creation-submitButton']": "Opret"
+  "[data-testid='hostname-creation-submitButton']": "Opret",
+  "[data-behavior-analytics-feature='member details page'] h2": "Organisationsadgang",
+  "[data-behavior-analytics-feature='member details page'] div:nth-of-type(4) h2": "App adgang"
 }
 

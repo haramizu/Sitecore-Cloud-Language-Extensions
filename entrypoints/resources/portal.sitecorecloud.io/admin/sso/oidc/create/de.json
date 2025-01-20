@@ -1,0 +1,22 @@
+{
+  "[data-testid='add-sso-connection-drawer'] header": "SSO-Verbindung hinzufügen",
+  "[data-testid='add-sso-connection-drawer'] div div div:nth-of-type(1) div button:nth-of-type(1)": "Verbindungskonfiguration",
+  "[data-testid='add-sso-connection-drawer'] div div div:nth-of-type(1) div button:nth-of-type(2)": "Anspruchszuordnung",
+  "[id='connection-configuration']": "Verbindungskonfiguration",
+  "[data-testid='label-emailDomains']": "E-Mail-Domänen",
+  "[data-testid='add-sso-connection-drawer'] div div div:nth-of-type(2) form div div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(3)": "Eine Verbindung kann bis zu 50 E-Mail-Domänen enthalten. Nach dem Erstellen einer Verbindung können die zugehörigen Domänen nicht hinzugefügt, gelöscht oder geändert werden.",
+  "[data-testid='label-options.oidc.type']": "Verbindungstyp",
+  "[data-testid='label-options.oidc.discoveryUrl']": "Issuer-URL",
+  "[data-testid='add-sso-connection-drawer'] div div div:nth-of-type(2) form div div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(3)": "Die URL des Discovery-Dokuments des OpenID Connect-Anbieters, mit dem Sie eine Verbindung herstellen möchten.",
+  "[data-testid='label-options.oidc.scope']": "Scopes",
+  "[data-testid='add-sso-connection-drawer'] div div div:nth-of-type(2) form div div:nth-of-type(2) div:nth-of-type(4) div:nth-of-type(3)": "Scopes, die während der Authentifizierung angefordert werden.",
+  "[data-testid='label-options.oidc.clientId']": "Client-ID",
+  "[data-testid='add-sso-connection-drawer'] div div div:nth-of-type(2) form div div:nth-of-type(2) div:nth-of-type(6) div label": "",
+  "[data-testid='add-sso-connection-drawer'] div div div:nth-of-type(2) form div div:nth-of-type(2) div:nth-of-type(6) div div": "Möglicherweise müssen Sie diese URL (einige Anbieter nennen sie eine Redirect-URI) hinzufügen, wenn Sie das Sitecore Cloud-Portal bei Ihrem Identitätsanbieter registrieren:",
+  "[id='claims-mapping']": "Anspruchszuordnung",
+  "[data-testid='add-sso-connection-drawer'] div div div:nth-of-type(2) form div div:nth-of-type(3) div p:nth-of-type(1)": "Fügen Sie Anspruchszuordnungskonfigurationen für Ihre Verbindungen hinzu. Fügen Sie eine Anzahl von Quellansprüchen hinzu, indem Sie den Namen des Anspruchs und einen regulären Ausdruck zum Abgleichen des Anspruchswerts ausfüllen, und fügen Sie dann eine Anzahl von Zielansprüchen hinzu, indem Sie den Namen und einen Wert hinzufügen.",
+  "[data-testid='add-sso-connection-drawer'] div div div:nth-of-type(2) form div div:nth-of-type(3) div button": "Anspruchszuordnung hinzufügen",
+  "[data-testid='ssoConnectionForm-cancelButton']": "Abbrechen",
+  "[data-testid='ssoConnectionForm-submitButton']": "Speichern"
+}
+

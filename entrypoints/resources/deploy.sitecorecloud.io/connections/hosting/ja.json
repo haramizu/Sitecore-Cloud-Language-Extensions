@@ -1,6 +1,6 @@
 {
   "h1": "接続",
-  "#root div div div main div div main p": "認可されたGitベースのソース管理接続を作成し、表示します。 ホスティングタブでは、ホスティングプロバイダを管理することができます。",
+  "main p": "認可されたGitベースのソース管理接続を作成し、表示します。 ホスティングタブでは、ホスティングプロバイダを管理することができます。",
   "[data-testid='tab-sourceControl']": "ソース管理",
   "[data-testid='tab-hosting']": "ホスティング",
   "[data-testid='hosting-connection-menubutton'] span": "コネクションの作成",

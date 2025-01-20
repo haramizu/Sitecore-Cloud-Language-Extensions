@@ -73,6 +73,8 @@
   "[data-testid='hostname-creation-modal-header']": "カスタムホスト名の作成",
   "[data-testid='label-hostname']": "ホスト名",
   "[data-testid='hostname-creation-cancelButton']": "取り消し",
-  "[data-testid='hostname-creation-submitButton']": "作成"
+  "[data-testid='hostname-creation-submitButton']": "作成",
+  "[data-behavior-analytics-feature='member details page'] h2": "組織のアクセス権",
+  "[data-behavior-analytics-feature='member details page'] div:nth-of-type(4) h2": "アプリアクセス"
 }
 

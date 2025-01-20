@@ -1,0 +1,22 @@
+{
+  "[data-testid='add-sso-connection-drawer'] header": "Ajouter une connexion SSO",
+  "[data-testid='add-sso-connection-drawer'] div div div:nth-of-type(1) div button:nth-of-type(1)": "Configuration de la connexion",
+  "[data-testid='add-sso-connection-drawer'] div div div:nth-of-type(1) div button:nth-of-type(2)": "Mappage des revendications",
+  "[id='connection-configuration']": "Configuration de la connexion",
+  "[data-testid='label-emailDomains']": "Domaines de messagerie",
+  "[data-testid='add-sso-connection-drawer'] div div div:nth-of-type(2) form div div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(3)": "Une connexion peut inclure jusqu'à 50 domaines de messagerie. Une fois la connexion créée, vous ne pouvez pas ajouter, supprimer ou modifier ses domaines associés.",
+  "[data-testid='label-options.oidc.type']": "Type de connexion",
+  "[data-testid='label-options.oidc.discoveryUrl']": "URL de l'émetteur",
+  "[data-testid='add-sso-connection-drawer'] div div div:nth-of-type(2) form div div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(3)": "L'URL du document de découverte du fournisseur OpenID Connect avec lequel vous souhaitez vous connecter.",
+  "[data-testid='label-options.oidc.scope']": "Scopes",
+  "[data-testid='add-sso-connection-drawer'] div div div:nth-of-type(2) form div div:nth-of-type(2) div:nth-of-type(4) div:nth-of-type(3)": "Scopes à demander lors de l'authentification.",
+  "[data-testid='label-options.oidc.clientId']": "ID client",
+  "[data-testid='add-sso-connection-drawer'] div div div:nth-of-type(2) form div div:nth-of-type(2) div:nth-of-type(6) div label": "",
+  "[data-testid='add-sso-connection-drawer'] div div div:nth-of-type(2) form div div:nth-of-type(2) div:nth-of-type(6) div div": "Vous devrez peut-être ajouter cette URL (certains fournisseurs l'appellent une URI de redirection) lorsque vous enregistrez le portail Sitecore Cloud auprès de votre fournisseur d'identité :",
+  "[id='claims-mapping']": "Mappage des revendications",
+  "[data-testid='add-sso-connection-drawer'] div div div:nth-of-type(2) form div div:nth-of-type(3) div p:nth-of-type(1)": "Ajoutez des configurations de mappage des revendications pour vos connexions. Ajoutez un certain nombre de revendications sources en remplissant le nom de la revendication et une expression régulière pour correspondre à la valeur de la revendication, puis ajoutez un certain nombre de revendications cibles en ajoutant le nom et une valeur.",
+  "[data-testid='add-sso-connection-drawer'] div div div:nth-of-type(2) form div div:nth-of-type(3) div button": "Ajouter un mappage des revendications",
+  "[data-testid='ssoConnectionForm-cancelButton']": "Annuler",
+  "[data-testid='ssoConnectionForm-submitButton']": "Enregistrer"
+}
+
