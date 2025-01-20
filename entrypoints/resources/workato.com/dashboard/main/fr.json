@@ -1,0 +1,15 @@
+{
+  "w-dashboard-page w-horizontal-tab-navigation div div div a:nth-of-type(1) div span": "Tableau de bord",
+  "w-dashboard-page w-dashboard-tab div div div:nth-of-type(1) div div w-dashboard-stats section w-dashboard-summary div div:nth-of-type(1) div:nth-of-type(2) div": "Recettes",
+  "w-dashboard-page w-dashboard-tab div div div:nth-of-type(1) div div w-dashboard-stats section w-dashboard-summary div div:nth-of-type(2) div:nth-of-type(2) div": "Travaux réussis",
+  "w-dashboard-page w-dashboard-tab div div div:nth-of-type(1) div div w-dashboard-stats section w-dashboard-summary div div:nth-of-type(3) div:nth-of-type(2) div": "Travaux échoués",
+  "w-dashboard-page w-dashboard-tab div div div:nth-of-type(1) div div w-dashboard-stats section w-dashboard-summary div div:nth-of-type(4) div:nth-of-type(2) div": "Tâches utilisées",
+  "w-dashboard-page w-dashboard-tab div div div:nth-of-type(1) div div w-dashboard-recipes section div:nth-of-type(1) h2": "Que s'est-il passé dans toutes mes recettes au cours des 7 derniers jours?",
+  "w-dashboard-page w-dashboard-tab div w-dashboard-filters div div:nth-of-type(2) span": "Tableau de bord mis à jour pour la dernière fois",
+  "w-dashboard-page w-dashboard-tab div div div:nth-of-type(2) w-dashboard-connections div div:nth-of-type(1)": "Connexions",
+  "w-dashboard-page w-dashboard-tab div div div:nth-of-type(2) w-dashboard-connections div div:nth-of-type(3) div div:nth-of-type(1) div:nth-of-type(2) w-external-link a": "Connexions d'application",
+  "w-dashboard-page w-horizontal-tab-navigation div div div a:nth-of-type(2) div span": "Graphique de dépendance",
+  "w-dashboard-page w-horizontal-tab-navigation div div div a:nth-of-type(3) div span": "Audit d'activité",
+  "w-dashboard-page w-dashboard-tab div div div:nth-of-type(1) div div w-dashboard-recipes section div:nth-of-type(1) div w-sorting w-aside-select-filter div w-select div div span span": "Trier par :"
+}
+

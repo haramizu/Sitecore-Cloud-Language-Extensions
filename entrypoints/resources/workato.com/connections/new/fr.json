@@ -1,0 +1,7 @@
+{
+  "w-connection-new-page div div:nth-of-type(1) div div h1": "Nouvelle connexion",
+  "form w-form-field-container div div w-form-field-simple-label label": "Nom de la connexion",
+  "form w-folder-select div w-form-field-container div div w-form-field-simple-label label": "Emplacement",
+  "w-branded-button w-button button span span": "Connecter"
+}
+

@@ -1,0 +1,7 @@
+{
+  "w-connection-new-page div div:nth-of-type(1) div div h1": "Ny forbindelse",
+  "form w-form-field-container div div w-form-field-simple-label label": "Forbindelsesnavn",
+  "form w-folder-select div w-form-field-container div div w-form-field-simple-label label": "Placering",
+  "w-branded-button w-button button span span": "Forbind"
+}
+

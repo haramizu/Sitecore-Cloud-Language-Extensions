@@ -1,0 +1,14 @@
+{
+  "w-dashboard-page w-horizontal-tab-navigation div div div a:nth-of-type(1) div span": "Armaturenbrett",
+  "w-dashboard-page w-horizontal-tab-navigation div div div a:nth-of-type(2) div span": "Abhängigkeitsdiagramm",
+  "w-dashboard-page w-horizontal-tab-navigation div div div a:nth-of-type(3) div span": "Aktivitätsprüfung",
+  "w-dashboard-page w-dashboard-audit-log-tab div div div:nth-of-type(2) div h2:nth-of-type(1)": "Überprüfen Sie die Aktivitäten Ihres Teams",
+  "w-dashboard-page w-dashboard-audit-log-tab div div div:nth-of-type(2) div div:nth-of-type(1)": "Dies ist eine Zeitleiste aller Aktivitäten, die in Ihrem Arbeitsbereich stattgefunden haben.",
+  "w-dashboard-page w-dashboard-audit-log-tab div div div:nth-of-type(2) div h2:nth-of-type(2)": "Dokumentation",
+  "w-dashboard-page w-dashboard-audit-log-tab div div div:nth-of-type(2) div div:nth-of-type(2)": "Lesen Sie unsere Dokumentation für die unterstützten Arten der Aktivitätsprüfung.",
+  "w-dashboard-page w-dashboard-audit-log-tab div div div:nth-of-type(2) div w-external-link a": "Erfahren Sie mehr",
+  "w-dashboard-page w-dashboard-audit-log-tab div w-dashboard-audit-log-filter div div div:nth-of-type(1) w-date-range-filter w-date-range-select div w-select div div span:nth-of-type(1)": "Zeitraum:",
+  "w-dashboard-page w-dashboard-audit-log-tab div w-dashboard-audit-log-filter div div div:nth-of-type(2) w-multiselect-filter w-select div div": "Alle Mitarbeiter/Kunden",
+  "w-dashboard-page w-dashboard-audit-log-tab div w-dashboard-audit-log-filter div div div:nth-of-type(3) w-select-filter w-select div div": "Alle Vermögenswerte"
+}
+
