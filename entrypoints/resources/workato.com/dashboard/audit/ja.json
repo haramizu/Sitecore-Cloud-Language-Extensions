@@ -6,6 +6,9 @@
   "w-dashboard-page w-dashboard-audit-log-tab div div div:nth-of-type(2) div div:nth-of-type(1)": "これはワークスペース内で行われたすべてのアクティビティのタイムラインです。",
   "w-dashboard-page w-dashboard-audit-log-tab div div div:nth-of-type(2) div h2:nth-of-type(2)": "ドキュメント",
   "w-dashboard-page w-dashboard-audit-log-tab div div div:nth-of-type(2) div div:nth-of-type(2)": "サポートされているアクティビティ監査の種類については、ドキュメントを参照してください。",
-  "w-dashboard-page w-dashboard-audit-log-tab div div div:nth-of-type(2) div w-external-link a": "詳細はこちら"
+  "w-dashboard-page w-dashboard-audit-log-tab div div div:nth-of-type(2) div w-external-link a": "詳細はこちら",
+  "w-dashboard-page w-dashboard-audit-log-tab div w-dashboard-audit-log-filter div div div:nth-of-type(1) w-date-range-filter w-date-range-select div w-select div div span:nth-of-type(1)": "期間:",
+  "w-dashboard-page w-dashboard-audit-log-tab div w-dashboard-audit-log-filter div div div:nth-of-type(2) w-multiselect-filter w-select div div": "全ての共同作成者クライアント",
+  "w-dashboard-page w-dashboard-audit-log-tab div w-dashboard-audit-log-filter div div div:nth-of-type(3) w-select-filter w-select div div": "全てのアセット"
 }
 

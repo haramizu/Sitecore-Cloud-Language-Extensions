@@ -17,5 +17,7 @@
   "header div div:nth-of-type(2) div div button:nth-of-type(13)": "ワークボット",
   "header div div:nth-of-type(2) div div button:nth-of-type(14)": "接続",
   "header div div:nth-of-type(3) div div button:nth-of-type(1)": "アカウント管理",
-  "header div div:nth-of-type(3) div div button:nth-of-type(2)": "ログアウト"
+  "header div div:nth-of-type(3) div div button:nth-of-type(2)": "ログアウト",
+  "header div div:nth-of-type(2) button:nth-of-type(5) span:nth-of-type(1)": "その他"
 }
+

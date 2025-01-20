@@ -9,6 +9,15 @@
   "w-assets-page div div div:nth-of-type(1) div w-folders div div div:nth-of-type(1) w-folder div w-folder:nth-of-type(3) div div div w-trimmed-text span span": "Trash",
   "w-assets-page div div div:nth-of-type(1) div w-folders div div div:nth-of-type(2) w-folder div div div w-trimmed-text span span": "Projects",
   "w-assets-page div div div:nth-of-type(2) div w-project-folder div div w-assets-create-button w-dropdown-menu-trigger div w-button button span span": "Create",
+  "w-dropdown-menu div div div w-dropdown-menu-item:nth-of-type(1) a div:nth-of-type(2) div:nth-of-type(1)": "Recipe",
+  "w-dropdown-menu div div div w-dropdown-menu-item:nth-of-type(2) a div:nth-of-type(2) div:nth-of-type(1)": "Connection",
+  "w-dropdown-menu div div div w-dropdown-menu-item:nth-of-type(3) div div:nth-of-type(2) div:nth-of-type(1)": "Folder",
+  "w-create-folder-dialog w-popup form div:nth-of-type(1) div:nth-of-type(2) h2": "New folder",
+  "w-create-folder-dialog w-popup form div:nth-of-type(2) w-form-field div div w-form-field-controls div w-form-field-label w-form-field-simple-label label w-searchable": "Folder name",
+  "w-create-folder-dialog w-popup form div:nth-of-type(2) w-form-field div div w-form-field-hint div span w-form-field-html-template div": "Folder name must be unique at the same hierarchy level within its parent folder.",
+  "w-create-folder-dialog w-popup form div:nth-of-type(2) w-folder-select div w-form-field-container div div w-form-field-simple-label label": "Location",
+  "w-create-folder-dialog w-popup form div:nth-of-type(3) div w-button:nth-of-type(1) button span span": "Cancel",
+  "w-create-folder-dialog w-popup form div:nth-of-type(3) div w-button:nth-of-type(2) button span span": "Create folder",
   "w-assets-page div div div:nth-of-type(2) div w-project-folder div w-horizontal-tab-navigation div div div a:nth-of-type(1) div span": "Assets",
   "w-assets-page div div div:nth-of-type(2) div w-project-folder div w-horizontal-tab-navigation div div div a:nth-of-type(2) div span": "Settings",
   "w-recipe-page-wrapper div w-recipe-page article w-owner-recipe-header section div div:nth-of-type(3) div w-button button span span": "Edit",
@@ -17,6 +26,13 @@
   "w-recipe-page-wrapper div w-recipe-page article w-recipe-page-tabs w-horizontal-tab-navigation div div div a:nth-of-type(3) div span": "Connections",
   "w-recipe-page-wrapper div w-recipe-page article w-recipe-page-tabs w-horizontal-tab-navigation div div div a:nth-of-type(4) div span": "Versions",
   "w-recipe-page-wrapper div w-recipe-page article w-recipe-page-tabs w-horizontal-tab-navigation div div div a:nth-of-type(5) div span": "Test cases",
-  "w-recipe-page-wrapper div w-recipe-page article w-recipe-page-tabs w-horizontal-tab-navigation div div div a:nth-of-type(6) div span": "Settings"
+  "w-recipe-page-wrapper div w-recipe-page article w-recipe-page-tabs w-horizontal-tab-navigation div div div a:nth-of-type(6) div span": "Settings",
+  "w-dropdown-menu div div div w-dropdown-menu-item:nth-of-type(1) div div:nth-of-type(2) div:nth-of-type(1)": "Rename",
+  "w-dropdown-menu div div div w-dropdown-menu-item:nth-of-type(2) div div:nth-of-type(2) div:nth-of-type(1)": "Apply tags",
+  "w-dropdown-menu div div div w-dropdown-menu-item:nth-of-type(4) div div:nth-of-type(2) div:nth-of-type(1)": "Move",
+  "w-dropdown-menu div div div w-dropdown-menu-item:nth-of-type(5) div div:nth-of-type(2) div:nth-of-type(1)": "Edit recipe",
+  "w-dropdown-menu div div div w-dropdown-menu-item:nth-of-type(6) div div:nth-of-type(2) div:nth-of-type(1)": "Start recipe",
+  "w-dropdown-menu div div div w-dropdown-menu-item div div:nth-of-type(2) div:nth-of-type(1)": "Clone",
+  "w-dropdown-menu div div div w-dropdown-menu-confirmation-item w-dropdown-menu-item div": "Delete"
 }
 
