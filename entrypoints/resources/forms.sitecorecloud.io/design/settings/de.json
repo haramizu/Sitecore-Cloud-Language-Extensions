@@ -1,0 +1,15 @@
+{
+  "body div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(2) div div div:nth-of-type(1) label": "Formular-ID",
+  "body div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(2) div div div:nth-of-type(2) p": "Name",
+  "body div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(2) div div div:nth-of-type(3) div p": "Stil",
+  "body div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(2) div div div:nth-of-type(3) div button": "Stil auf Formular anwenden",
+  "body div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(2) div div div:nth-of-type(4) p:nth-of-type(1)": "Webhook auswählen",
+  "body div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(2) div div div:nth-of-type(4) p:nth-of-type(2)": "Keine Webhooks verfügbar",
+  "body div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(2) div div div:nth-of-type(4) div button:nth-of-type(1)": "Webhook testen",
+  "body div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(2) div div div:nth-of-type(4) div button:nth-of-type(2)": "Webhooks verwalten",
+  "body div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(2) div div div:nth-of-type(6) p": "Absendeaktion auswählen",
+  "[data-testid='submit-actions-success-message'] p": "Erfolgsmeldung",
+  "[data-testid='submit-actions-fail-message'] p": "Fehlermeldung",
+  "[data-testid='close-webhooks-drawer']": "Schließen"
+}
+

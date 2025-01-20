@@ -43,6 +43,13 @@
   "[data-testid='save-and-exit'] button": "保存して閉じる",
   "[data-testid='top-menu-button'] div div div button:nth-of-type(1)": "保存して有効にする",
   "[data-testid='top-menu-button'] div div div button:nth-of-type(2)": "バージョンを保存する",
-  "[data-testid='top-menu-button'] div div div button:nth-of-type(3)": "テンプレートとして保存"
+  "[data-testid='top-menu-button'] div div div button:nth-of-type(3)": "テンプレートとして保存",
+  "[data-testid='editor-top-menu'] div:nth-of-type(2) div:nth-of-type(1) button p": "デザイン",
+  "[data-testid='editor-top-menu'] div:nth-of-type(2) div:nth-of-type(2) button p": "コメント",
+  "[data-testid='editor-top-menu'] div:nth-of-type(2) div:nth-of-type(3) button p": "プレビュー",
+  "[data-testid='editor-top-menu'] div:nth-of-type(2) div:nth-of-type(4) button p": "バージョン",
+  "[data-testid='editor-top-menu'] div:nth-of-type(2) div:nth-of-type(5) button p": "ロジック",
+  "[data-testid='editor-top-menu'] div:nth-of-type(2) div:nth-of-type(6) button p": "設定",
+  "[data-testid='dont_ask_again-checkbox'] span:nth-of-type(2)": "今後表示しない"
 }
 
