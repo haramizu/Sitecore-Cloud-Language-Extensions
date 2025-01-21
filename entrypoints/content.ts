@@ -15,29 +15,28 @@ export default defineContentScript({
 
     // Sitecore Stream
     if (domain.startsWith('stream') && domain.endsWith('sitecorecloud.io')) {
-      domain = "stream.sitecorecloud.io";
+      domain = 'stream.sitecorecloud.io';
     }
 
     // Sitecore Analytics on xmapps
     if (domain.startsWith('analytics') && domain.endsWith('sitecorecloud.io')) {
-      domain = "analytics.sitecorecloud.io";
+      domain = 'analytics.sitecorecloud.io';
     }
 
     // Sitecore CDP
-    // if (domain.startsWith('app-cdp') && domain.endsWith('sitecorecloud.io')) {
-    //   domain = "app-cdp.sitecorecloud.io";
-    // }
+    if (domain.startsWith('app-cdp') && domain.endsWith('sitecorecloud.io')) {
+      domain = 'app-cdp.sitecorecloud.io';
+    }
 
     // Sitecore Personalize
-    // if (domain.startsWith('app-personalize') && domain.endsWith('sitecorecloud.io')) {
-    //   domain = "app-personalize.sitecorecloud.io";
-    // }
+    if (domain.startsWith('app-personalize') && domain.endsWith('sitecorecloud.io')) {
+      domain = 'app-personalize.sitecorecloud.io';
+    }
 
     // Sitecore Connect
     if (domain.endsWith('workato.com')) {
-      domain = "workato.com";
+      domain = 'workato.com';
     }
-
 
     console.log('domain: ' + domain);
 
