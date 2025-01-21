@@ -67,5 +67,8 @@
   "section div div div:nth-of-type(2) form div div:nth-of-type(2) div:nth-of-type(1) label": "Description",
   "section div div div:nth-of-type(2) form div div:nth-of-type(3) div:nth-of-type(1) label": "Languages",
   "section div div div:nth-of-type(2) form div div:nth-of-type(3) div:nth-of-type(3) div div": "The languages this site will support. You can change your selection later from the site settings.",
-  "section div div div:nth-of-type(2) form div div:nth-of-type(4) div:nth-of-type(1) label": "Default language"
+  "section div div div:nth-of-type(2) form div div:nth-of-type(4) div:nth-of-type(1) label": "Default language",
+  "[data-testid='cancel-btn']": "Cancel",
+  "[data-testid='submit-btn']": "Create",
+  "[data-testid='portfolio'] div:nth-of-type(1) button": "Go to collection"
 }

@@ -67,5 +67,6 @@
   "section div div div:nth-of-type(2) form div div:nth-of-type(2) div:nth-of-type(1) label": "Beskrivelse",
   "section div div div:nth-of-type(2) form div div:nth-of-type(3) div:nth-of-type(1) label": "Sprog",
   "section div div div:nth-of-type(2) form div div:nth-of-type(3) div:nth-of-type(3) div div": "De sprog, som dette websted understøtter. Du kan ændre dit valg senere fra webstedsindstillingerne.",
-  "section div div div:nth-of-type(2) form div div:nth-of-type(4) div:nth-of-type(1) label": "Standardsprog"
+  "section div div div:ｓｓnth-of-type(2) form div div:nth-of-type(4) div:nth-of-type(1) label": "Standardsprog",
+  "[data-testid='portfolio'] div:nth-of-type(1) button": "Gå til samling"
 }
