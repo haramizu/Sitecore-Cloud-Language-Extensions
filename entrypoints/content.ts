@@ -10,7 +10,6 @@ export default defineContentScript({
     const browserLang = navigator.language.slice(0, 2);
     const storedLang = (await storage.getItem(`local:preferredLanguage`)) as string;
     const lang = storedLang || browserLang;
-
     let domain = window.location.hostname;
 
     // Sitecore Stream
@@ -24,9 +23,9 @@ export default defineContentScript({
     }
 
     // Sitecore CDP
-    if (domain.startsWith('app-cdp') && domain.endsWith('sitecorecloud.io')) {
-      domain = 'app-cdp.sitecorecloud.io';
-    }
+    // if (domain.startsWith('app-cdp') && domain.endsWith('sitecorecloud.io')) {
+    //   domain = 'app-cdp.sitecorecloud.io';
+    // }
 
     // Sitecore Personalize
     if (domain.startsWith('app-personalize') && domain.endsWith('sitecorecloud.io')) {
@@ -63,7 +62,13 @@ async function replaceTextInSelector(lang: string, domain: string) {
   let selectors: TranslationKeys[] = [];
   let en: Record<string, string>;
 
-  const path = window.location.pathname;
+  let path = window.location.pathname;
+  const hashValue = window.location.hash;
+
+  // Sitecore CDP + Personalize remove hash value
+  if (hashValue.startsWith('#')) {
+    path = hashValue.slice(1).split('?')[0];
+  }
   console.log('path: ' + path);
 
   try {
