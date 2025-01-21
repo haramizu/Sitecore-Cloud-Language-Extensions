@@ -29,9 +29,9 @@ export default defineContentScript({
     // }
 
     // Sitecore Personalize
-    if (domain.startsWith('app-personalize') && domain.endsWith('sitecorecloud.io')) {
-      domain = 'app-personalize.sitecorecloud.io';
-    }
+    // if (domain.startsWith('app-personalize') && domain.endsWith('sitecorecloud.io')) {
+    //   domain = 'app-personalize.sitecorecloud.io';
+    // }
 
     // Sitecore Connect
     if (domain.endsWith('workato.com')) {
