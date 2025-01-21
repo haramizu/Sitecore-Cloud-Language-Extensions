@@ -54,5 +54,8 @@
   "[data-testid='old-jss-version-toggle']": "JSS 21.5 以前",
   "[data-testid='contextid-preview-button']": "プレビュー",
   "[data-testid='contextid-live-button']": "公開",
-  "[data-testid='btn-Generate API key']": "API キー生成"
+  "[data-testid='btn-Generate API key']": "API キー生成",
+  "[data-testid='Create-confirm-button']": "作成",
+  "[data-testid='btn-Edit']": "編集",
+  "[data-testid='Save-confirm-button']": "保存"
 }

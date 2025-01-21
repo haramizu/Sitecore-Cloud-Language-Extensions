@@ -54,5 +54,8 @@
   "[data-testid='old-jss-version-toggle']": "JSS 21.5 oder früher",
   "[data-testid='contextid-preview-button']": "Vorschau",
   "[data-testid='contextid-live-button']": "Live",
-  "[data-testid='btn-Generate API key']": "API-Schlüssel generieren"
+  "[data-testid='btn-Generate API key']": "API-Schlüssel generieren",
+  "[data-testid='Create-confirm-button']": "Erstellen",
+  "[data-testid='btn-Edit']": "Bearbeiten",
+  "[data-testid='Save-confirm-button']": "Speichern"
 }

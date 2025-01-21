@@ -1,4 +1,5 @@
 import languages from './resources/languages.json';
+import pathMappings from './resources/pathMappings.json';
 import { storage } from '@wxt-dev/storage';
 
 type TranslationKeys = keyof typeof String;
@@ -10,34 +11,32 @@ export default defineContentScript({
     const browserLang = navigator.language.slice(0, 2);
     const storedLang = (await storage.getItem(`local:preferredLanguage`)) as string;
     const lang = storedLang || browserLang;
-
     let domain = window.location.hostname;
 
     // Sitecore Stream
     if (domain.startsWith('stream') && domain.endsWith('sitecorecloud.io')) {
-      domain = "stream.sitecorecloud.io";
+      domain = 'stream.sitecorecloud.io';
     }
 
     // Sitecore Analytics on xmapps
     if (domain.startsWith('analytics') && domain.endsWith('sitecorecloud.io')) {
-      domain = "analytics.sitecorecloud.io";
+      domain = 'analytics.sitecorecloud.io';
     }
 
     // Sitecore CDP
     // if (domain.startsWith('app-cdp') && domain.endsWith('sitecorecloud.io')) {
-    //   domain = "app-cdp.sitecorecloud.io";
+    //   domain = 'app-cdp.sitecorecloud.io';
     // }
 
     // Sitecore Personalize
-    // if (domain.startsWith('app-personalize') && domain.endsWith('sitecorecloud.io')) {
-    //   domain = "app-personalize.sitecorecloud.io";
-    // }
+    if (domain.startsWith('app-personalize') && domain.endsWith('sitecorecloud.io')) {
+      domain = 'app-personalize.sitecorecloud.io';
+    }
 
     // Sitecore Connect
     if (domain.endsWith('workato.com')) {
-      domain = "workato.com";
+      domain = 'workato.com';
     }
-
 
     console.log('domain: ' + domain);
 
@@ -64,7 +63,24 @@ async function replaceTextInSelector(lang: string, domain: string) {
   let selectors: TranslationKeys[] = [];
   let en: Record<string, string>;
 
-  const path = window.location.pathname;
+  let path = window.location.pathname;
+
+  // Sitecore CDP + Personalize remove hash value
+  if (domain === `app-personalize.sitecorecloud.io` || domain === `app-cdp.sitecorecloud.io`) {
+    const hashValue = window.location.hash;
+
+    if (hashValue.startsWith('#')) {
+      path = hashValue.slice(1).split('?')[0];
+    }
+
+    // Load path mappings from JSON file
+    for (const [key, value] of Object.entries(pathMappings)) {
+      if (path.startsWith(key as string) && !path.startsWith((value + '/list') as string)) {
+        path = value as string;
+        break;
+      }
+    }
+  }
   console.log('path: ' + path);
 
   try {
