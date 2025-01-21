@@ -64,21 +64,23 @@ async function replaceTextInSelector(lang: string, domain: string) {
   let en: Record<string, string>;
 
   let path = window.location.pathname;
-  const hashValue = window.location.hash;
 
   // Sitecore CDP + Personalize remove hash value
-  if (hashValue.startsWith('#')) {
-    path = hashValue.slice(1).split('?')[0];
-  }
+  if (domain === `app-personalize.sitecorecloud.io` || domain === `app-cdp.sitecorecloud.io`) {
+    const hashValue = window.location.hash;
 
-  // Load path mappings from JSON file
-  for (const [key, value] of Object.entries(pathMappings)) {
-    if (path.startsWith(key as string) && !path.startsWith((value + '/list') as string)) {
-      path = value as string;
-      break;
+    if (hashValue.startsWith('#')) {
+      path = hashValue.slice(1).split('?')[0];
+    }
+
+    // Load path mappings from JSON file
+    for (const [key, value] of Object.entries(pathMappings)) {
+      if (path.startsWith(key as string) && !path.startsWith((value + '/list') as string)) {
+        path = value as string;
+        break;
+      }
     }
   }
-
   console.log('path: ' + path);
 
   try {
