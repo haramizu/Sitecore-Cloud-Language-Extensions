@@ -32,6 +32,9 @@
   "app-component-gallery div:nth-of-type(1)": "コンポーネント",
   "app-component-filter-context div div:nth-of-type(1)": "データソース",
   "app-component-filter-context div span": "*データソースフィルタは Sitecore Components のみに適用されます。",
-  "app-component-gallery div:nth-of-type(4) button": "Components を開く"
+  "app-component-gallery div:nth-of-type(4) button": "Components を開く",
+  "app-create-experiment-dialog ng-spd-dialog-panel ng-spd-dialog-header": "A/B/n テストの作成",
+  "app-create-experiment-dialog ng-spd-dialog-panel div div div:nth-of-type(1) label": "A/B/n テスト名",
+  "app-create-experiment-dialog ng-spd-dialog-panel ng-spd-dialog-actions button:nth-of-type(1)": "取り消し",
+  "app-create-experiment-dialog ng-spd-dialog-panel ng-spd-dialog-actions button:nth-of-type(2)": "保存"
 }
-

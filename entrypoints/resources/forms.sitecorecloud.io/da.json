@@ -43,6 +43,13 @@
   "[data-testid='save-and-exit'] button": "Gem og afslut",
   "[data-testid='top-menu-button'] div div div button:nth-of-type(1)": "Gem og aktiver",
   "[data-testid='top-menu-button'] div div div button:nth-of-type(2)": "Gem en version",
-  "[data-testid='top-menu-button'] div div div button:nth-of-type(3)": "Gem som skabelon"
+  "[data-testid='top-menu-button'] div div div button:nth-of-type(3)": "Gem som skabelon",
+  "[data-testid='editor-top-menu'] div:nth-of-type(2) div:nth-of-type(1) button p": "Design",
+  "[data-testid='editor-top-menu'] div:nth-of-type(2) div:nth-of-type(2) button p": "Kommentarer",
+  "[data-testid='editor-top-menu'] div:nth-of-type(2) div:nth-of-type(3) button p": "Forhåndsvisning",
+  "[data-testid='editor-top-menu'] div:nth-of-type(2) div:nth-of-type(4) button p": "Versioner",
+  "[data-testid='editor-top-menu'] div:nth-of-type(2) div:nth-of-type(5) button p": "Logik",
+  "[data-testid='editor-top-menu'] div:nth-of-type(2) div:nth-of-type(6) button p": "Indstillinger",
+  "[data-testid='dont_ask_again-checkbox'] span:nth-of-type(2)": "Vis ikke dette igen"
 }
 

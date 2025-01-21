@@ -1,5 +1,22 @@
 {
-  "h2": "Connection configuration",
-  "#chakra-modal--header-add-sso-connection-drawer": "Add SSO connection",
-  "#chakra-modal--body-add-sso-connection-drawer div div.css-qs6jbc div button:nth-child(1)": "Connection configuration"
+  "[data-testid='add-sso-connection-drawer'] header": "Add SSO connection",
+  "[data-testid='add-sso-connection-drawer'] div div div:nth-of-type(1) div button:nth-of-type(1)": "Connection configuration",
+  "[data-testid='add-sso-connection-drawer'] div div div:nth-of-type(1) div button:nth-of-type(2)": "Claims mapping",
+  "[id='connection-configuration']": "Connection configuration",
+  "[data-testid='label-emailDomains']": "Email domains",
+  "[data-testid='add-sso-connection-drawer'] div div div:nth-of-type(2) form div div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(3)": "A connection can include up to 50 email domains. When a connection is created, you can't add, delete, or modify its associated domains.",
+  "[data-testid='label-options.oidc.type']": "Connection type",
+  "[data-testid='label-options.oidc.discoveryUrl']": "Issuer URL",
+  "[data-testid='add-sso-connection-drawer'] div div div:nth-of-type(2) form div div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(3)": "The URL of the discovery document of the OpenID Connect provider you want to connect with.",
+  "[data-testid='label-options.oidc.scope']": "Scopes",
+  "[data-testid='add-sso-connection-drawer'] div div div:nth-of-type(2) form div div:nth-of-type(2) div:nth-of-type(4) div:nth-of-type(3)": "Scopes to be requested during authentication.",
+  "[data-testid='label-options.oidc.clientId']": "Client ID",
+  "[data-testid='add-sso-connection-drawer'] div div div:nth-of-type(2) form div div:nth-of-type(2) div:nth-of-type(6) div label": "",
+  "[data-testid='add-sso-connection-drawer'] div div div:nth-of-type(2) form div div:nth-of-type(2) div:nth-of-type(6) div div": "You may need to add this URL (some providers call it a redirect URI) when you register the Sitecore Cloud Portal with your identity provider:",
+  "[id='claims-mapping']": "Claims Mapping",
+  "[data-testid='add-sso-connection-drawer'] div div div:nth-of-type(2) form div div:nth-of-type(3) div p:nth-of-type(1)": "Add claims mapping configurations for your connections. Add a number of source claims by filling the name of the claim and a regular expression to match the claim value, then add a number of target claims by adding the name and a value.",
+  "[data-testid='add-sso-connection-drawer'] div div div:nth-of-type(2) form div div:nth-of-type(3) div button": "Add claims mapping",
+  "[data-testid='ssoConnectionForm-cancelButton']": "Cancel",
+  "[data-testid='ssoConnectionForm-submitButton']": "Save"
 }
+

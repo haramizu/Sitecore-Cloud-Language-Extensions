@@ -1,0 +1,10 @@
+{
+  "body div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(2) div div div div:nth-of-type(1) button": "Tilføj logik",
+  "[data-testid='empty-page'] h2": "Ingen logik endnu",
+  "[data-testid='conditions-logic-toggle'] div:nth-of-type(1) h2": "Logik",
+  "[data-testid='add-condition-button']": "Tilføj betingelse",
+  "[data-testid='add-condition_group-1']": "Tilføj betingelse",
+  "[data-testid='add-group-button']": "Tilføj gruppe",
+  "[data-testid='action-create-btn']": "Tilføj handling"
+}
+

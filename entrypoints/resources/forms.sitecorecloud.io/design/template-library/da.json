@@ -1,0 +1,11 @@
+{
+  "body div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(1) h2": "Skabeloner",
+  "body div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(2) div div:nth-of-type(1) div div button": "Alle kategorier",
+  "body div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(2) div div:nth-of-type(2) div:nth-of-type(1) div button:nth-of-type(1) div": "Alle skabeloner",
+  "body div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(2) div div:nth-of-type(2) div:nth-of-type(1) div button:nth-of-type(2) div": "Favoritter",
+  "body div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(2) div div:nth-of-type(2) div:nth-of-type(1) div button:nth-of-type(3) div": "Gemt",
+  "body div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(2) div div:nth-of-type(2) div:nth-of-type(1) div button:nth-of-type(4) div": "Offentlig",
+  "body div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(2) div div:nth-of-type(2) div:nth-of-type(1) div button:nth-of-type(5) div": "Delt",
+  "[data-testid='use-your-feedback']": "Brug"
+}
+

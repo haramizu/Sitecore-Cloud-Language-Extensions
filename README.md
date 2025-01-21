@@ -31,7 +31,7 @@ The current version supports the following Sitecore Cloud tools
 - Sitecore XM Cloud
   - XM Cloud Deploy
   - Sites
-  - Pages ( Analytics not yet )
+  - Pages
   - Explorer
   - Components
   - Forms
@@ -55,6 +55,6 @@ This extension is developed using the following tools:
 
 ## History
 
-- 2025.01.17 0.4.0 release ( Added support for servers in each region )
+- 2025.01.21 0.5.0
+- 2025.01.17 0.4.0
 - 2025.01.15 initial release 0.3.0
-

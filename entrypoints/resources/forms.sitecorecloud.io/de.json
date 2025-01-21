@@ -43,6 +43,13 @@
   "[data-testid='save-and-exit'] button": "Speichern und beenden",
   "[data-testid='top-menu-button'] div div div button:nth-of-type(1)": "Speichern und aktivieren",
   "[data-testid='top-menu-button'] div div div button:nth-of-type(2)": "Eine Version speichern",
-  "[data-testid='top-menu-button'] div div div button:nth-of-type(3)": "Als Vorlage speichern"
+  "[data-testid='top-menu-button'] div div div button:nth-of-type(3)": "Als Vorlage speichern",
+  "[data-testid='editor-top-menu'] div:nth-of-type(2) div:nth-of-type(1) button p": "Design",
+  "[data-testid='editor-top-menu'] div:nth-of-type(2) div:nth-of-type(2) button p": "Kommentare",
+  "[data-testid='editor-top-menu'] div:nth-of-type(2) div:nth-of-type(3) button p": "Vorschau",
+  "[data-testid='editor-top-menu'] div:nth-of-type(2) div:nth-of-type(4) button p": "Versionen",
+  "[data-testid='editor-top-menu'] div:nth-of-type(2) div:nth-of-type(5) button p": "Logik",
+  "[data-testid='editor-top-menu'] div:nth-of-type(2) div:nth-of-type(6) button p": "Einstellungen",
+  "[data-testid='dont_ask_again-checkbox'] span:nth-of-type(2)": "Nicht mehr anzeigen"
 }
 

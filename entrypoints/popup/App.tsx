@@ -1,8 +1,8 @@
-import { useState, useEffect } from "react";
-import languages from "../resources/languages.json";
-import { storage } from "@wxt-dev/storage";
-import { i18n } from "#i18n";
-import "./App.css";
+import { useState, useEffect } from 'react';
+import languages from '../resources/languages.json';
+import { storage } from '@wxt-dev/storage';
+import { i18n } from '#i18n';
+import './App.css';
 
 function App() {
   const browserLocale = navigator.language.slice(0, 2);
@@ -25,9 +25,7 @@ function App() {
     initLanguage();
   }, []);
 
-  const handleLanguageChange = (
-    event: React.ChangeEvent<HTMLSelectElement>
-  ) => {
+  const handleLanguageChange = (event: React.ChangeEvent<HTMLSelectElement>) => {
     const newLang = event.target.value;
     setSelectedLanguage(newLang);
     setLanguageStorage(newLang).then(() => {
@@ -56,8 +54,10 @@ function App() {
         </select>
       </div>
       <div>{i18n.t('selectLanguage')}</div>
+      <div>Version: 0.5.0</div>
     </>
   );
 }
 
 export default App;
+

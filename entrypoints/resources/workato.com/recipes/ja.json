@@ -1,0 +1,16 @@
+{
+  "w-assets-page div div div:nth-of-type(1) div w-folders div div div:nth-of-type(1) w-folder div div div w-trimmed-text span span": "アセット",
+  "w-assets-page div div div:nth-of-type(1) div w-folders div div div:nth-of-type(1) w-folder div w-folder:nth-of-type(1) div div div w-trimmed-text span span": "レシピ",
+  "w-assets-page div div div:nth-of-type(1) div w-folders div div div:nth-of-type(1) w-folder div w-folder:nth-of-type(1) div w-folder:nth-of-type(1) div div div w-trimmed-text span span": "アクティブ",
+  "w-assets-page div div div:nth-of-type(1) div w-folders div div div:nth-of-type(1) w-folder div w-folder:nth-of-type(1) div w-folder:nth-of-type(2) div div div w-trimmed-text span span": "非アクティブ",
+  "w-assets-page div div div:nth-of-type(1) div w-folders div div div:nth-of-type(1) w-folder div w-folder:nth-of-type(2) div div div w-trimmed-text span span": "接続",
+  "w-assets-page div div div:nth-of-type(1) div w-folders div div div:nth-of-type(1) w-folder div w-folder:nth-of-type(2) div w-folder:nth-of-type(1) div div div w-trimmed-text span span": "接続済み",
+  "w-assets-page div div div:nth-of-type(1) div w-folders div div div:nth-of-type(1) w-folder div w-folder:nth-of-type(2) div w-folder:nth-of-type(2) div div div w-trimmed-text span span": "未接続",
+  "w-assets-page div div div:nth-of-type(1) div w-folders div div div:nth-of-type(1) w-folder div w-folder:nth-of-type(3) div div div w-trimmed-text span span": "ゴミ箱",
+  "w-assets-page div div div:nth-of-type(1) div w-folders div div div:nth-of-type(2) w-folder div div div w-trimmed-text span span": "プロジェクト",
+  "w-dropdown-menu div div div w-dropdown-menu-item:nth-of-type(1) div div:nth-of-type(2) div:nth-of-type(1)": "名前変更",
+  "w-dropdown-menu div div div w-dropdown-menu-item:nth-of-type(2) div div:nth-of-type(2) div:nth-of-type(1)": "削除",
+  "w-assets-page div div div:nth-of-type(2) div w-projects-folder div div:nth-of-type(1) w-button a span span": "プロジェクトを作成",
+  "w-assets-page div div div:nth-of-type(2) div w-projects-folder div w-assets-filters div div:nth-of-type(2) w-sorting w-aside-select-filter div w-select div div span span": "並び順:"
+}
+

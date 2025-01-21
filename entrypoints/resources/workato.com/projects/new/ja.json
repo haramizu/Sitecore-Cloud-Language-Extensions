@@ -1,0 +1,9 @@
+{
+  "w-create-project-wizard div div div h1": "新しいプロジェクトを設定",
+  "w-create-project-wizard div div div form div:nth-of-type(1) w-form-field-container:nth-of-type(1) div div w-form-field-simple-label label": "プロジェクト名",
+  "w-create-project-wizard div div div form div:nth-of-type(1) w-form-field-container:nth-of-type(2) div div w-form-field-simple-label label": "プロジェクトの説明",
+  "w-create-project-wizard div div div form div:nth-of-type(1) w-form-field-container:nth-of-type(2) div w-form-field-simple-hint div div w-template-or-text": "このプロジェクトに関する情報や同僚への有用なメモを追加します。",
+  "w-create-project-wizard div div div form div:nth-of-type(2) w-button:nth-of-type(1) button span span": "プロジェクトを作成",
+  "w-create-project-wizard div div div form div:nth-of-type(2) w-button:nth-of-type(2) a span span": "取り消し"
+}
+

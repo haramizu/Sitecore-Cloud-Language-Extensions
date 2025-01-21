@@ -73,6 +73,8 @@
   "[data-testid='hostname-creation-modal-header']": "Créer un nom d'hôte personnalisé",
   "[data-testid='label-hostname']": "Nom d'hôte",
   "[data-testid='hostname-creation-cancelButton']": "Annuler",
-  "[data-testid='hostname-creation-submitButton']": "Créer"
+  "[data-testid='hostname-creation-submitButton']": "Créer",
+  "[data-behavior-analytics-feature='member details page'] h2": "Accès à l'organisation",
+  "[data-behavior-analytics-feature='member details page'] div:nth-of-type(4) h2": "Accès à l'application"
 }
 

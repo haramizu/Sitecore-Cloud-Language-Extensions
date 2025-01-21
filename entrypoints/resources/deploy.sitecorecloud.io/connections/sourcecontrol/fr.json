@@ -1,6 +1,6 @@
 {
   "h1": "Connexions",
-  "#root div div div main div div main p": "Créez et visualisez vos connexions de contrôle de source basées sur Git autorisées. Dans l'onglet Hébergement, vous pouvez gérer vos fournisseurs d'hébergement.",
+  "main p": "Créez et visualisez vos connexions de contrôle de source basées sur Git autorisées. Dans l'onglet Hébergement, vous pouvez gérer vos fournisseurs d'hébergement.",
   "[data-testid='tab-sourceControl']": "Contrôle de source",
   "[data-testid='tab-hosting']": "Hébergement",
   "[data-testid='sc-connection-menubutton'] span": "Créer une connexion",

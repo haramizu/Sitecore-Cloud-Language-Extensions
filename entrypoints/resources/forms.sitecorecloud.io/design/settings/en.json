@@ -1,4 +1,15 @@
 {
-  "body div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(2) div div div:nth-of-type(1) label": "Form ID"
+  "body div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(2) div div div:nth-of-type(1) label": "Form ID",
+  "body div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(2) div div div:nth-of-type(2) p": "Name",
+  "body div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(2) div div div:nth-of-type(3) div p": "Style",
+  "body div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(2) div div div:nth-of-type(3) div button": "Apply style to form",
+  "body div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(2) div div div:nth-of-type(4) p:nth-of-type(1)": "Choose webhook",
+  "body div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(2) div div div:nth-of-type(4) p:nth-of-type(2)": "No webhooks available",
+  "body div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(2) div div div:nth-of-type(4) div button:nth-of-type(1)": "Test webhook",
+  "body div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(2) div div div:nth-of-type(4) div button:nth-of-type(2)": "Manage webhooks",
+  "body div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(2) div div div:nth-of-type(6) p": "Choose submit action",
+  "[data-testid='submit-actions-success-message'] p": "Success message",
+  "[data-testid='submit-actions-fail-message'] p": "Fail message",
+  "[data-testid='close-webhooks-drawer']": "Close"
 }
 

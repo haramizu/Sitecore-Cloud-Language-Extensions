@@ -1,0 +1,16 @@
+{
+  "w-assets-page div div div:nth-of-type(1) div w-folders div div div:nth-of-type(1) w-folder div div div w-trimmed-text span span": "Assets",
+  "w-assets-page div div div:nth-of-type(1) div w-folders div div div:nth-of-type(1) w-folder div w-folder:nth-of-type(1) div div div w-trimmed-text span span": "Recipes",
+  "w-assets-page div div div:nth-of-type(1) div w-folders div div div:nth-of-type(1) w-folder div w-folder:nth-of-type(1) div w-folder:nth-of-type(1) div div div w-trimmed-text span span": "Active",
+  "w-assets-page div div div:nth-of-type(1) div w-folders div div div:nth-of-type(1) w-folder div w-folder:nth-of-type(1) div w-folder:nth-of-type(2) div div div w-trimmed-text span span": "Inactive",
+  "w-assets-page div div div:nth-of-type(1) div w-folders div div div:nth-of-type(1) w-folder div w-folder:nth-of-type(2) div div div w-trimmed-text span span": "Connections",
+  "w-assets-page div div div:nth-of-type(1) div w-folders div div div:nth-of-type(1) w-folder div w-folder:nth-of-type(2) div w-folder:nth-of-type(1) div div div w-trimmed-text span span": "Connected",
+  "w-assets-page div div div:nth-of-type(1) div w-folders div div div:nth-of-type(1) w-folder div w-folder:nth-of-type(2) div w-folder:nth-of-type(2) div div div w-trimmed-text span span": "Disconnected",
+  "w-assets-page div div div:nth-of-type(1) div w-folders div div div:nth-of-type(1) w-folder div w-folder:nth-of-type(3) div div div w-trimmed-text span span": "Trash",
+  "w-assets-page div div div:nth-of-type(1) div w-folders div div div:nth-of-type(2) w-folder div div div w-trimmed-text span span": "Projects",
+  "w-dropdown-menu div div div w-dropdown-menu-item:nth-of-type(1) div div:nth-of-type(2) div:nth-of-type(1)": "Rename",
+  "w-dropdown-menu div div div w-dropdown-menu-item:nth-of-type(2) div div:nth-of-type(2) div:nth-of-type(1)": "Delete",
+  "w-assets-page div div div:nth-of-type(2) div w-projects-folder div div:nth-of-type(1) w-button a span span": "Create project",
+  "w-assets-page div div div:nth-of-type(2) div w-projects-folder div w-assets-filters div div:nth-of-type(2) w-sorting w-aside-select-filter div w-select div div span span": "Sort by:"
+}
+

@@ -1,0 +1,9 @@
+{
+  "w-browse-page main header div div h1": "コミュニティライブラリ",
+  "w-browse-page main w-horizontal-tab-navigation div div div a:nth-of-type(1) div span": "レシピ",
+  "w-browse-page main w-horizontal-tab-navigation div div div a:nth-of-type(2) div span": "カスタムコネクタ",
+  "w-browse-page main w-browse-adapters-tab div div:nth-of-type(2) w-browse-categories div div h2": "カテゴリー",
+  "w-browse-page main w-browse-recipes div w-browse-page-apps article div:nth-of-type(1) h2": "アプリを選択してそのレシピを探索する",
+  "w-browse-page main w-browse-adapters-tab div div:nth-of-type(1) div h2": "コミュニティによって作成および維持されているコネクタ"
+}
+

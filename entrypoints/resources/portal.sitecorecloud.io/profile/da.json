@@ -1,0 +1,7 @@
+{
+  "ul li:nth-of-type(1) div div div h2": "Detaljer",
+  "ul li:nth-of-type(2) div div div div:nth-of-type(1) h2": "Organisationsadgang",
+  "ul li:nth-of-type(2) div div div div:nth-of-type(2) h2": "App-adgang",
+  "ul li:nth-of-type(2) div div div div:nth-of-type(2) div span": "Du har adgang til alle tilgængelige apps."
+}
+

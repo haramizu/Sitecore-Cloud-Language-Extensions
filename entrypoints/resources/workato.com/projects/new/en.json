@@ -1,0 +1,9 @@
+{
+  "w-create-project-wizard div div div h1": "Set up a new project",
+  "w-create-project-wizard div div div form div:nth-of-type(1) w-form-field-container:nth-of-type(1) div div w-form-field-simple-label label": "Project name",
+  "w-create-project-wizard div div div form div:nth-of-type(1) w-form-field-container:nth-of-type(2) div div w-form-field-simple-label label": "Project description",
+  "w-create-project-wizard div div div form div:nth-of-type(1) w-form-field-container:nth-of-type(2) div w-form-field-simple-hint div div w-template-or-text": "Add information about this project and useful notes for your colleagues.",
+  "w-create-project-wizard div div div form div:nth-of-type(2) w-button:nth-of-type(1) button span span": "Create project",
+  "w-create-project-wizard div div div form div:nth-of-type(2) w-button:nth-of-type(2) a span span": "Cancel"
+}
+

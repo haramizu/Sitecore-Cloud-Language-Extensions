@@ -73,6 +73,8 @@
   "[data-testid='hostname-creation-modal-header']": "Create custom hostname",
   "[data-testid='label-hostname']": "Hostname",
   "[data-testid='hostname-creation-cancelButton']": "Cancel",
-  "[data-testid='hostname-creation-submitButton']": "Create"
+  "[data-testid='hostname-creation-submitButton']": "Create",
+  "[data-behavior-analytics-feature='member details page'] h2": "Organization access",
+  "[data-behavior-analytics-feature='member details page'] div:nth-of-type(4) h2": "App access"
 }
 

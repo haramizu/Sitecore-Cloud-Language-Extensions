@@ -1,0 +1,14 @@
+{
+  "w-dashboard-page w-horizontal-tab-navigation div div div a:nth-of-type(1) div span": "Tableau de bord",
+  "w-dashboard-page w-horizontal-tab-navigation div div div a:nth-of-type(2) div span": "Graphe de dépendance",
+  "w-dashboard-page w-horizontal-tab-navigation div div div a:nth-of-type(3) div span": "Audit d'activité",
+  "w-dashboard-page w-dashboard-audit-log-tab div div div:nth-of-type(2) div h2:nth-of-type(1)": "Passez en revue l'activité de votre équipe",
+  "w-dashboard-page w-dashboard-audit-log-tab div div div:nth-of-type(2) div div:nth-of-type(1)": "Ceci est une chronologie de toutes les activités qui ont eu lieu dans votre espace de travail.",
+  "w-dashboard-page w-dashboard-audit-log-tab div div div:nth-of-type(2) div h2:nth-of-type(2)": "Documentation",
+  "w-dashboard-page w-dashboard-audit-log-tab div div div:nth-of-type(2) div div:nth-of-type(2)": "Consultez notre documentation pour les types d'audit d'activité pris en charge.",
+  "w-dashboard-page w-dashboard-audit-log-tab div div div:nth-of-type(2) div w-external-link a": "En savoir plus",
+  "w-dashboard-page w-dashboard-audit-log-tab div w-dashboard-audit-log-filter div div div:nth-of-type(1) w-date-range-filter w-date-range-select div w-select div div span:nth-of-type(1)": "Période :",
+  "w-dashboard-page w-dashboard-audit-log-tab div w-dashboard-audit-log-filter div div div:nth-of-type(2) w-multiselect-filter w-select div div": "Tous les collaborateurs/clients",
+  "w-dashboard-page w-dashboard-audit-log-tab div w-dashboard-audit-log-filter div div div:nth-of-type(3) w-select-filter w-select div div": "Tous les actifs"
+}
+

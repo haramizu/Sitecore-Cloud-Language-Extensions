@@ -1,0 +1,15 @@
+{
+  "w-dashboard-page w-horizontal-tab-navigation div div div a:nth-of-type(1) div span": "Armaturenbrett",
+  "w-dashboard-page w-dashboard-tab div div div:nth-of-type(1) div div w-dashboard-stats section w-dashboard-summary div div:nth-of-type(1) div:nth-of-type(2) div": "Rezepte",
+  "w-dashboard-page w-dashboard-tab div div div:nth-of-type(1) div div w-dashboard-stats section w-dashboard-summary div div:nth-of-type(2) div:nth-of-type(2) div": "Erfolgreiche Jobs",
+  "w-dashboard-page w-dashboard-tab div div div:nth-of-type(1) div div w-dashboard-stats section w-dashboard-summary div div:nth-of-type(3) div:nth-of-type(2) div": "Fehlgeschlagene Jobs",
+  "w-dashboard-page w-dashboard-tab div div div:nth-of-type(1) div div w-dashboard-stats section w-dashboard-summary div div:nth-of-type(4) div:nth-of-type(2) div": "Verwendete Aufgaben",
+  "w-dashboard-page w-dashboard-tab div div div:nth-of-type(1) div div w-dashboard-recipes section div:nth-of-type(1) h2": "Was ist in den letzten 7 Tagen in all meinen Rezepten passiert?",
+  "w-dashboard-page w-dashboard-tab div w-dashboard-filters div div:nth-of-type(2) span": "Armaturenbrett zuletzt aktualisiert",
+  "w-dashboard-page w-dashboard-tab div div div:nth-of-type(2) w-dashboard-connections div div:nth-of-type(1)": "Verbindungen",
+  "w-dashboard-page w-dashboard-tab div div div:nth-of-type(2) w-dashboard-connections div div:nth-of-type(3) div div:nth-of-type(1) div:nth-of-type(2) w-external-link a": "App-Verbindungen",
+  "w-dashboard-page w-horizontal-tab-navigation div div div a:nth-of-type(2) div span": "Abhängigkeitsdiagramm",
+  "w-dashboard-page w-horizontal-tab-navigation div div div a:nth-of-type(3) div span": "Aktivitätsprotokoll",
+  "w-dashboard-page w-dashboard-tab div div div:nth-of-type(1) div div w-dashboard-recipes section div:nth-of-type(1) div w-sorting w-aside-select-filter div w-select div div span span": "Sortieren nach:"
+}
+

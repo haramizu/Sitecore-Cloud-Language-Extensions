@@ -1,0 +1,9 @@
+{
+  "w-create-recipe-wizard div div div h1": "Opsæt din opskrift",
+  "w-create-recipe-wizard div div div form div w-form-field-container div div w-form-field-simple-label label": "Navn",
+  "w-create-recipe-wizard div div div form div w-folder-select div w-form-field-container div div w-form-field-simple-label label": "Placering",
+  "w-create-recipe-wizard div div div form w-recipe-templates div w-form-field-label w-form-field-simple-label label w-searchable": "Vælg et udgangspunkt",
+  "w-create-recipe-wizard div div div form w-button button span span": "Begynd at bygge",
+  "w-create-recipe-wizard div w-header-toolbar div div:nth-of-type(2) w-header-toolbar-button w-button a span span": "Afslut"
+}
+

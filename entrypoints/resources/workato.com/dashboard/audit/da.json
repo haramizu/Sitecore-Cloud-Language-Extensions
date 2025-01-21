@@ -1,0 +1,14 @@
+{
+  "w-dashboard-page w-horizontal-tab-navigation div div div a:nth-of-type(1) div span": "Dashboard",
+  "w-dashboard-page w-horizontal-tab-navigation div div div a:nth-of-type(2) div span": "Afhængighedsgraf",
+  "w-dashboard-page w-horizontal-tab-navigation div div div a:nth-of-type(3) div span": "Aktivitetsrevision",
+  "w-dashboard-page w-dashboard-audit-log-tab div div div:nth-of-type(2) div h2:nth-of-type(1)": "Gennemgå dit teams aktivitet",
+  "w-dashboard-page w-dashboard-audit-log-tab div div div:nth-of-type(2) div div:nth-of-type(1)": "Dette er en tidslinje over al aktivitet, der har fundet sted i dit arbejdsområde.",
+  "w-dashboard-page w-dashboard-audit-log-tab div div div:nth-of-type(2) div h2:nth-of-type(2)": "Dokumentation",
+  "w-dashboard-page w-dashboard-audit-log-tab div div div:nth-of-type(2) div div:nth-of-type(2)": "Se vores dokumentation for de typer af aktivitetsrevision, der understøttes.",
+  "w-dashboard-page w-dashboard-audit-log-tab div div div:nth-of-type(2) div w-external-link a": "Lær mere",
+  "w-dashboard-page w-dashboard-audit-log-tab div w-dashboard-audit-log-filter div div div:nth-of-type(1) w-date-range-filter w-date-range-select div w-select div div span:nth-of-type(1)": "Periode:",
+  "w-dashboard-page w-dashboard-audit-log-tab div w-dashboard-audit-log-filter div div div:nth-of-type(2) w-multiselect-filter w-select div div": "Alle samarbejdspartnere/klienter",
+  "w-dashboard-page w-dashboard-audit-log-tab div w-dashboard-audit-log-filter div div div:nth-of-type(3) w-select-filter w-select div div": "Alle aktiver"
+}
+

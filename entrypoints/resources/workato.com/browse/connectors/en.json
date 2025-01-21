@@ -1,0 +1,9 @@
+{
+  "w-browse-page main header div div h1": "Community library",
+  "w-browse-page main w-horizontal-tab-navigation div div div a:nth-of-type(1) div span": "Recipes",
+  "w-browse-page main w-horizontal-tab-navigation div div div a:nth-of-type(2) div span": "Custom connectors",
+  "w-browse-page main w-browse-adapters-tab div div:nth-of-type(2) w-browse-categories div div h2": "Categories",
+  "w-browse-page main w-browse-recipes div w-browse-page-apps article div:nth-of-type(1) h2": "Choose an app to explore its recipes",
+  "w-browse-page main w-browse-adapters-tab div div:nth-of-type(1) div h2": "Connectors created and maintained by our community"
+}
+

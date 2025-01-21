@@ -1,0 +1,14 @@
+{
+  "w-dashboard-page w-horizontal-tab-navigation div div div a:nth-of-type(1) div span": "Dashboard",
+  "w-dashboard-page w-horizontal-tab-navigation div div div a:nth-of-type(2) div span": "Dependency graph",
+  "w-dashboard-page w-horizontal-tab-navigation div div div a:nth-of-type(3) div span": "Activity audit",
+  "w-dashboard-page w-dashboard-audit-log-tab div div div:nth-of-type(2) div h2:nth-of-type(1)": "Review your team’s activity",
+  "w-dashboard-page w-dashboard-audit-log-tab div div div:nth-of-type(2) div div:nth-of-type(1)": "This is a timeline of all the activity that has taken place in your workspace.",
+  "w-dashboard-page w-dashboard-audit-log-tab div div div:nth-of-type(2) div h2:nth-of-type(2)": "Documentation",
+  "w-dashboard-page w-dashboard-audit-log-tab div div div:nth-of-type(2) div div:nth-of-type(2)": "Refer to our documentation for the types of activity audit supported.",
+  "w-dashboard-page w-dashboard-audit-log-tab div div div:nth-of-type(2) div w-external-link a": "Learn more",
+  "w-dashboard-page w-dashboard-audit-log-tab div w-dashboard-audit-log-filter div div div:nth-of-type(1) w-date-range-filter w-date-range-select div w-select div div span:nth-of-type(1)": "Period:",
+  "w-dashboard-page w-dashboard-audit-log-tab div w-dashboard-audit-log-filter div div div:nth-of-type(2) w-multiselect-filter w-select div div": "All collaborators/clients",
+  "w-dashboard-page w-dashboard-audit-log-tab div w-dashboard-audit-log-filter div div div:nth-of-type(3) w-select-filter w-select div div": "All assets"
+}
+
