@@ -32,5 +32,9 @@
   "app-component-gallery div:nth-of-type(1)": "Komponenten",
   "app-component-filter-context div div:nth-of-type(1)": "Datenquelle",
   "app-component-filter-context div span": "*Datenquellenfilter gilt nur für Sitecore-Komponenten",
-  "app-component-gallery div:nth-of-type(4) button": "Komponenten öffnen"
+  "app-component-gallery div:nth-of-type(4) button": "Komponenten öffnen",
+  "app-create-experiment-dialog ng-spd-dialog-panel ng-spd-dialog-header": "Ein A/B/n-Test erstellen",
+  "app-create-experiment-dialog ng-spd-dialog-panel div div div:nth-of-type(1) label": "A/B/n-Testname",
+  "app-create-experiment-dialog ng-spd-dialog-panel ng-spd-dialog-actions button:nth-of-type(1)": "Abbrechen",
+  "app-create-experiment-dialog ng-spd-dialog-panel ng-spd-dialog-actions button:nth-of-type(2)": "Speichern"
 }
