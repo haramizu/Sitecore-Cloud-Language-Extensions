@@ -69,6 +69,42 @@ async function replaceTextInSelector(lang: string, domain: string) {
   if (hashValue.startsWith('#')) {
     path = hashValue.slice(1).split('?')[0];
   }
+
+  if (path.startsWith('/experiences') && !path.startsWith('/experiences/list')) {
+    path = '/experiences';
+  }
+  if (path.startsWith('/experiments') && !path.startsWith('/experiments/list')) {
+    path = '/experiments';
+  }
+  if (path.startsWith('/decision-models') && !path.startsWith('/decision-models/list')) {
+    path = '/decision-models';
+  }
+  if (path.startsWith('/offer-templates') && !path.startsWith('/offer-templates/list')) {
+    path = '/offer-templates';
+  }
+  if (path.startsWith('/offers') && !path.startsWith('/offers/list')) {
+    path = '/offers';
+  }
+  if (path.startsWith('/templates/conditions') && !path.startsWith('/templates/conditions/list')) {
+    path = '/templates/conditions';
+  }
+  if (
+    path.startsWith('/templates/connections') &&
+    !path.startsWith('/templates/connections/list')
+  ) {
+    path = '/templates/connections';
+  }
+
+  if (path.startsWith('/templates/decision') && !path.startsWith('/templates/decision/list')) {
+    path = '/templates/decision';
+  }
+  if (path.startsWith('/templates/js-modules') && !path.startsWith('/templates/js-modules/list')) {
+    path = '/templates/js-modules';
+  }
+  if (path.startsWith('/templates/web') && !path.startsWith('/templates/web/list')) {
+    path = '/templates/web';
+  }
+
   console.log('path: ' + path);
 
   try {
