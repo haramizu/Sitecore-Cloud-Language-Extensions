@@ -1,5 +1,7 @@
 {
   "[data-test='experience-title']": "Experiences",
+  "st-section-header div div div div:nth-of-type(1) div span span": "Add Experiences to your website and monitor performance.",
+  "st-section-header div div div div:nth-of-type(1) div span a": "Learn more",
   "[data-test='create-experience-dropdown-btn'] div button div": "Create",
   "app-experience-list div div:nth-of-type(2) div:nth-of-type(1) ul li:nth-of-type(1) a": "All",
   "app-experience-list div div:nth-of-type(2) div:nth-of-type(1) ul li:nth-of-type(2) a": "Live",
