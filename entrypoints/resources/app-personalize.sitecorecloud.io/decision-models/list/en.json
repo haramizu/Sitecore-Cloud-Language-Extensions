@@ -1,4 +1,6 @@
 {
-  "[data-test='nav-data-experiments-menu-link']": "Experiences"
+  "[data-test='decision-models-title']": "Decision Models",
+  "st-section-header div div div div:nth-of-type(1) div span span": "Recommend offers and apply sophisticated personalization based on your business logic and multiple data sources",
+  "st-section-header div div div div:nth-of-type(1) div span a": "Learn more",
+  "[data-test='create-decision-model-button']": "Create"
 }
-

@@ -1,6 +1,5 @@
 {
   "[data-test='experience-title']": "実験",
-  "st-section-header div div div div:nth-of-type(1) div h3": "実験",
   "st-section-header div div div div:nth-of-type(1) div span span": "視聴者について複数のバリエーションを検討し、どのバリエーションがビジネス目標に最も適しているかを見極めましょう。",
   "st-section-header div div div div:nth-of-type(1) div span a": "さらに詳しく",
   "[data-test='create-experience-dropdown-btn'] div button div": "作成",
