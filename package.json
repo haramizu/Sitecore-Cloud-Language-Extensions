@@ -2,7 +2,7 @@
   "name": "sitecore-cloud-language-extensions",
   "description": "Browser extension to switch the display language of Sitecore Cloud",
   "private": true,
-  "version": "0.5.1",
+  "version": "0.5.2",
   "type": "module",
   "scripts": {
     "dev": "wxt",

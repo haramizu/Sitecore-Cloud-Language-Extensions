@@ -10,6 +10,8 @@
   "[data-test='web-tab-link']": "ウェブ",
   "[data-test='interactive-tab-link']": "インタラクティブ",
   "[data-test='triggered-tab-link']": "トリガー",
+  "st-tags-filter div button strong": "タグ:",
+  "st-user-filter div button strong": "最終更新者:",
   "app-experience-list div div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(1) div div table thead tr th:nth-of-type(1)": "名前",
   "app-experience-list div div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(1) div div table thead tr th:nth-of-type(2)": "ステータス",
   "app-experience-list div div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(1) div div table thead tr th:nth-of-type(3)": "タグ",
@@ -41,5 +43,6 @@
   "[data-test='create-experience-dropdown-triggered'] div:nth-of-type(1) h6": "特定のイベントに対して自動メールやテキストをトリガー",
   "[data-test='flow-new-type-modal-title']": "新しいエクスペリエンス",
   "form label": "エクスペリエンスの名前",
+  "st-friendly-id-form div div:nth-of-type(2) span": "名前を空欄にすることはできません",
   "[data-test='accept-button']": "作成"
 }
