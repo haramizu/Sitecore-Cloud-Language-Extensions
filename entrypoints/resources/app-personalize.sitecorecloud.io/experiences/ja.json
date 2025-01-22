@@ -41,8 +41,8 @@
   "[data-test='experience-goals-nav-switch'] li:nth-of-type(1) a": "パフォーマンスを追跡",
   "[data-test='experience-goals-nav-switch'] li:nth-of-type(2) a": "追跡しない",
   "st-experience-goals div mat-expansion-panel div div div div div div div div h6": "第一の目標は、このエクスペリエンスの成功を定義することです",
-  "st-experience-notifications-card st-notifications mat-expansion-panel mat-expansion-panel-header span mat-panel-title h5": "通知",
-  "st-experience-notifications-card st-notifications mat-expansion-panel mat-expansion-panel-header span mat-panel-description div:nth-of-type(1)": "通知設定を行う",
+  "st-notifications mat-expansion-panel mat-expansion-panel-header span mat-panel-title h5": "通知",
+  "st-notifications mat-expansion-panel mat-expansion-panel-header span mat-panel-description div:nth-of-type(1)": "通知設定を行う",
   "st-details-overview div h5": "詳細",
   "st-experience-variant-sidebar st-sidebar div div:nth-of-type(2) div div div:nth-of-type(1) div h3": "テンプレートの選択",
   "st-experience-variant-sidebar st-sidebar div div:nth-of-type(2) div div div:nth-of-type(1) div div": "テンプレートを使うか、ゼロから始めるか",
@@ -50,5 +50,6 @@
   "st-full-screen-header div div:nth-of-type(2) button:nth-of-type(2) st-inline-loader div div": "保存",
   "st-experience-variant-sidebar st-sidebar div div:nth-of-type(2) div div div div:nth-of-type(2) div:nth-of-type(1) ul li:nth-of-type(1) a": "デザイン",
   "st-experience-variant-sidebar st-sidebar div div:nth-of-type(2) div div div div:nth-of-type(2) div:nth-of-type(1) ul li:nth-of-type(2) a": "プレビュー",
-  "st-experience-preview div div div:nth-of-type(1) h5": "ウェブサイトのパーソナライズをプレビューする"
+  "st-experience-preview div div div:nth-of-type(1) h5": "ウェブサイトのパーソナライズをプレビューする",
+  "[data-test='save-target-button'] st-inline-loader div div": "Save"
 }
