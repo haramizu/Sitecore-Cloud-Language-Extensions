@@ -1,0 +1,8 @@
+{
+  "div div div div ul li:nth-of-type(1) div": "マイ アカウント",
+  "div div div div ul li:nth-of-type(2) div": "スタートガイド",
+  "div div div div ul li:nth-of-type(3) div": "技術サポート",
+  "div div div div ul li:nth-of-type(4) div": "バージョン",
+  "div div div div div:nth-of-type(4) button": "ログアウト",
+  "[data-testid='components/Button']": "閉じる"
+}

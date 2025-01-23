@@ -1,0 +1,8 @@
+{
+  "div div div div ul li:nth-of-type(1) div": "My account",
+  "div div div div ul li:nth-of-type(2) div": "Getting started",
+  "div div div div ul li:nth-of-type(3) div": "Technical support",
+  "div div div div ul li:nth-of-type(4) div": "About",
+  "div div div div div:nth-of-type(4) button": "Log Out",
+  "[data-testid='components/Button']": "Close"
+}
