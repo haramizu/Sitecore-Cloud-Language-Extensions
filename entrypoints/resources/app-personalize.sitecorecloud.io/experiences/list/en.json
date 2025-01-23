@@ -1,5 +1,7 @@
 {
   "[data-test='experience-title']": "Experiences",
+  "st-section-header div div div div:nth-of-type(1) div span span": "Add Experiences to your website and monitor performance.",
+  "st-section-header div div div div:nth-of-type(1) div span a": "Learn more",
   "[data-test='create-experience-dropdown-btn'] div button div": "Create",
   "app-experience-list div div:nth-of-type(2) div:nth-of-type(1) ul li:nth-of-type(1) a": "All",
   "app-experience-list div div:nth-of-type(2) div:nth-of-type(1) ul li:nth-of-type(2) a": "Live",
@@ -10,6 +12,8 @@
   "[data-test='web-tab-link']": "Web",
   "[data-test='interactive-tab-link']": "Interactive",
   "[data-test='triggered-tab-link']": "Triggered",
+  "st-tags-filter div button strong": "Tags:",
+  "st-user-filter div button strong": "Last Updated By:",
   "app-experience-list div div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(1) div div table thead tr th:nth-of-type(1)": "Name",
   "app-experience-list div div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(1) div div table thead tr th:nth-of-type(2)": "Status",
   "app-experience-list div div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(1) div div table thead tr th:nth-of-type(3)": "Tags",
@@ -41,5 +45,6 @@
   "[data-test='create-experience-dropdown-triggered'] div:nth-of-type(1) h6": "Trigger automated emails or texts for specific events",
   "[data-test='flow-new-type-modal-title']": "New experience",
   "form label": "Name your experience",
+  "st-friendly-id-form div div:nth-of-type(2) span": "Name can not be empty",
   "[data-test='accept-button']": "Create"
 }

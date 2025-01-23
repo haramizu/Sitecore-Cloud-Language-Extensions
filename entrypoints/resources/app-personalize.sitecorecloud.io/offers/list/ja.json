@@ -1,4 +1,6 @@
 {
-  "[data-test='nav-data-experiments-menu-link']": "エクスペリエンス"
+  "[data-test='offer-list-title']": "オファー",
+  "st-section-header div div div div:nth-of-type(1) div span span": "複数のチャネルでゲストに提示できるオファーコンテンツを作成する。",
+  "st-section-header div div div div:nth-of-type(1) div span a": "さらに詳しく",
+  "[data-test='create-offer-button']": "作成"
 }
-
