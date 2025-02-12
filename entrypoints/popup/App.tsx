@@ -54,10 +54,9 @@ function App() {
         </select>
       </div>
       <div>{i18n.t('selectLanguage')}</div>
-      <div>Version: 0.5.2</div>
+      <div>Version: 0.5.4</div>
     </>
   );
 }
 
 export default App;
-
