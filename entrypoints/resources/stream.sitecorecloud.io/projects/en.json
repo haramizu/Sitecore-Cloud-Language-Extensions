@@ -4,6 +4,9 @@
   "table thead tr th:nth-of-type(2)": "Project name",
   "table thead tr th:nth-of-type(3)": "Status",
   "table thead tr th:nth-of-type(4)": "Labels",
-  "table thead tr th:nth-of-type(5)": "Team members"
+  "table thead tr th:nth-of-type(5)": "Team members",
+  "main div div:nth-of-type(2) div div div div:nth-of-type(1) div:nth-of-type(1) h3": "Orchestrate your work",
+  "main div div:nth-of-type(2) div div div div:nth-of-type(1) p": "Projects streamline the organization of deliverables and tasks for your marketing initiatives across teams and Sitecore products.",
+  "main div div:nth-of-type(2) div div div div:nth-of-type(1) div:nth-of-type(2) button": "Create first project"
 }
 

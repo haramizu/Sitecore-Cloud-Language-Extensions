@@ -4,6 +4,9 @@
   "table thead tr th:nth-of-type(2)": "Projektnavn",
   "table thead tr th:nth-of-type(3)": "Status",
   "table thead tr th:nth-of-type(4)": "Mærkater",
-  "table thead tr th:nth-of-type(5)": "Teammedlemmer"
+  "table thead tr th:nth-of-type(5)": "Teammedlemmer",
+  "main div div:nth-of-type(2) div div div div:nth-of-type(1) div:nth-of-type(1) h3": "Orkestrer dit arbejde",
+  "main div div:nth-of-type(2) div div div div:nth-of-type(1) p": "Projekter strømliner organiseringen af leverancer og opgaver for dine marketinginitiativer på tværs af teams og Sitecore-produkter.",
+  "main div div:nth-of-type(2) div div div div:nth-of-type(1) div:nth-of-type(2) button": "Opret første projekt"
 }
 

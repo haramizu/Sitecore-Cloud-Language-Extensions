@@ -4,6 +4,9 @@
   "table thead tr th:nth-of-type(2)": "プロジェクト名",
   "table thead tr th:nth-of-type(3)": "ステータス",
   "table thead tr th:nth-of-type(4)": "ラベル",
-  "table thead tr th:nth-of-type(5)": "チームメンバー"
+  "table thead tr th:nth-of-type(5)": "チームメンバー",
+  "main div div:nth-of-type(2) div div div div:nth-of-type(1) div:nth-of-type(1) h3": "あなたの仕事をコーディネート",
+  "main div div:nth-of-type(2) div div div div:nth-of-type(1) p": "プロジェクトは、チームやSitecore製品全体でのマーケティングイニシアチブの成果物とタスクの整理を合理化します。",
+  "main div div:nth-of-type(2) div div div div:nth-of-type(1) div:nth-of-type(2) button": "最初のプロジェクトを作成"
 }
 

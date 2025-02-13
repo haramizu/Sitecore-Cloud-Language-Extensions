@@ -27,6 +27,14 @@
   "[id='tour-project-analytics'] div:nth-of-type(2) div:nth-of-type(4) div:nth-of-type(2) div div:nth-of-type(1) label": "Sans échéance",
   "[id='tour-project-analytics'] div:nth-of-type(2) div:nth-of-type(4) div:nth-of-type(2) div div:nth-of-type(2) label": "Tâches non assignées",
   "[id='tour-project-analytics'] div:nth-of-type(2) div:nth-of-type(4) div:nth-of-type(2) div div:nth-of-type(3) label": "Non commencé",
-  "[id='tour-project-analytics'] div:nth-of-type(2) div:nth-of-type(4) div:nth-of-type(2) div div:nth-of-type(4) label": "Tâches en retard"
+  "[id='tour-project-analytics'] div:nth-of-type(2) div:nth-of-type(4) div:nth-of-type(2) div div:nth-of-type(4) label": "Tâches en retard",
+  "[id='tour-project-analytics'] div:nth-of-type(2) div:nth-of-type(1) div h2": "Statut total du projet",
+  "[id='tour-project-analytics'] div:nth-of-type(2) div:nth-of-type(1) div p": "Aucune donnée à afficher pour le moment",
+  "[id='tour-project-analytics'] div:nth-of-type(2) div:nth-of-type(2) div h2": "Progression totale du projet",
+  "[id='tour-project-analytics'] div:nth-of-type(2) div:nth-of-type(2) div p": "Aucune donnée à afficher pour le moment",
+  "[id='tour-project-analytics'] div:nth-of-type(2) div:nth-of-type(3) div h2": "Gestion des délais",
+  "[id='tour-project-analytics'] div:nth-of-type(2) div:nth-of-type(3) div p": "Aucune donnée à afficher pour le moment",
+  "[id='tour-project-analytics'] div:nth-of-type(2) div:nth-of-type(4) div h2": "Évaluation des risques",
+  "[id='tour-project-analytics'] div:nth-of-type(2) div:nth-of-type(4) div p": "Aucune donnée à afficher pour le moment"
 }
 

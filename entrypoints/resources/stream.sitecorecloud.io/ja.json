@@ -3,8 +3,8 @@
   "header div:nth-of-type(1) nav div:nth-of-type(1) a:nth-of-type(2) button": "プロジェクト",
   "header div:nth-of-type(1) nav div:nth-of-type(1) a:nth-of-type(3) button": "チャット",
   "header div:nth-of-type(1) nav div:nth-of-type(1) a:nth-of-type(4) button": "ブランド キット",
-  "body div:nth-of-type(2) div div:nth-of-type(2) a": "アカウント管理",
-  "body div:nth-of-type(2) div div:nth-of-type(4) a": "ログアウト",
+  "body div:nth-of-type(6) div div:nth-of-type(2) a": "アカウント管理",
+  "body div:nth-of-type(6) div div:nth-of-type(4) a": "ログアウト",
   "body div div div div:nth-of-type(2) div div:nth-of-type(1) button:nth-of-type(1)": "リスト",
   "body div div div div:nth-of-type(2) div div:nth-of-type(1) button:nth-of-type(2)": "カンバン",
   "body div div div div:nth-of-type(2) div div:nth-of-type(1) button:nth-of-type(3)": "タイムライン",
@@ -20,6 +20,18 @@
   "body div div div div:nth-of-type(1) div:nth-of-type(1) div div div:nth-of-type(2) a:nth-of-type(5) button": "チェックリスト",
   "body div div div div:nth-of-type(1) div:nth-of-type(1) div div div:nth-of-type(2) a:nth-of-type(6) button": "文法ガイドライン",
   "body div div div div:nth-of-type(1) div:nth-of-type(1) div div div:nth-of-type(2) a:nth-of-type(7) button": "ビジュアルガイドライン",
-  "body div div div div:nth-of-type(1) div:nth-of-type(1) div div div:nth-of-type(2) a:nth-of-type(8) button": "画像スタイル"
+  "body div div div div:nth-of-type(1) div:nth-of-type(1) div div div:nth-of-type(2) a:nth-of-type(8) button": "画像スタイル",
+  "[title='Logo'] span": "ロゴ",
+  "main div div:nth-of-type(2) div div div div:nth-of-type(1) div:nth-of-type(3) a span": "ビジュアルガイドライン",
+  "[title='Visual Guidelines'] span": "ビジュアルガイドライン",
+  "[title='Global Goals'] span": "グローバル目標",
+  "[title='Brand Context'] span": "ブランドコンテキスト",
+  "[title='Tone of Voice'] span": "トーン・オブ・ボイス",
+  "[title='Checklist'] span": "チェックリスト",
+  "[title='Grammar Guidelines'] span": "文法ガイドライン",
+  "[title='Image Style'] span": "画像スタイル",
+  "body div:nth-of-type(6) div button": "ブランドキットを削除",
+  "[type='button']": "編集",
+  "[id='tour-brand-kit-section-card'] div:nth-of-type(1) h3": "デジタル必須項目"
 }
 
