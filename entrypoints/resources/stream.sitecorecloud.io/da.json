@@ -32,6 +32,18 @@
   "[title='Image Style'] span": "Billedstil",
   "body div:nth-of-type(6) div button": "Slet brand kit",
   "[type='button']": "Rediger",
-  "[id='tour-brand-kit-section-card'] div:nth-of-type(1) h3": "Digitale obligatoriske"
+  "main div div:nth-of-type(2) div div:nth-of-type(1) div p button": "Behandl alle ændringer",
+  "main div div:nth-of-type(2) div div:nth-of-type(2) div:nth-of-type(1) div div:nth-of-type(3) div button:nth-of-type(1) span": "Tilføj kilde",
+  "table thead tr th:nth-of-type(1) div": "Kilde",
+  "table thead tr th:nth-of-type(2) div": "Status",
+  "table thead tr th:nth-of-type(3)": "Type",
+  "table thead tr th:nth-of-type(4)": "Sektion Tags",
+  "body div:nth-of-type(6) div button:nth-of-type(1)": "Rediger tags",
+  "body div:nth-of-type(6) div div span": "Rediger sideområde",
+  "body div:nth-of-type(6) div button:nth-of-type(2)": "Slet",
+  "body div:nth-of-type(6) div div:nth-of-type(1) span": "Notifikationer",
+  "body div:nth-of-type(6) div div:nth-of-type(1) div button": "Slet alle",
+  "body div:nth-of-type(6) div div:nth-of-type(2)": "Der er ingen notifikationer endnu.",
+  "body div:nth-of-type(6) div div:nth-of-type(1) div div": "Genstart side rundvisning"
 }
 

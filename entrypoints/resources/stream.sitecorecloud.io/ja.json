@@ -32,6 +32,18 @@
   "[title='Image Style'] span": "画像スタイル",
   "body div:nth-of-type(6) div button": "ブランドキットを削除",
   "[type='button']": "編集",
-  "[id='tour-brand-kit-section-card'] div:nth-of-type(1) h3": "デジタル必須項目"
+  "main div div:nth-of-type(2) div div:nth-of-type(1) div p button": "すべての変更を反映",
+  "main div div:nth-of-type(2) div div:nth-of-type(2) div:nth-of-type(1) div div:nth-of-type(3) div button:nth-of-type(1) span": "ソースの追加",
+  "table thead tr th:nth-of-type(1) div": "ソース",
+  "table thead tr th:nth-of-type(2) div": "状態",
+  "table thead tr th:nth-of-type(3)": "タイプ",
+  "table thead tr th:nth-of-type(4)": "セクションタグ",
+  "body div:nth-of-type(6) div button:nth-of-type(1)": "タグを編集",
+  "body div:nth-of-type(6) div div span": "ページ範囲を編集",
+  "body div:nth-of-type(6) div button:nth-of-type(2)": "削除",
+  "body div:nth-of-type(6) div div:nth-of-type(1) span": "通知",
+  "body div:nth-of-type(6) div div:nth-of-type(1) div button": "すべて削除",
+  "body div:nth-of-type(6) div div:nth-of-type(2)": "まだ通知はありません。",
+  "body div:nth-of-type(6) div div:nth-of-type(1) div div": "ページツアーを再開"
 }
 

@@ -32,6 +32,18 @@
   "[title='Image Style'] span": "Bildstil",
   "body div:nth-of-type(6) div button": "Marken-Kit löschen",
   "[type='button']": "Bearbeiten",
-  "[id='tour-brand-kit-section-card'] div:nth-of-type(1) h3": "Digitale Vorgaben"
+  "main div div:nth-of-type(2) div div:nth-of-type(1) div p button": "Alle Änderungen verarbeiten",
+  "main div div:nth-of-type(2) div div:nth-of-type(2) div:nth-of-type(1) div div:nth-of-type(3) div button:nth-of-type(1) span": "Quelle hinzufügen",
+  "table thead tr th:nth-of-type(1) div": "Quelle",
+  "table thead tr th:nth-of-type(2) div": "Status",
+  "table thead tr th:nth-of-type(3)": "Typ",
+  "table thead tr th:nth-of-type(4)": "Abschnittstags",
+  "body div:nth-of-type(6) div button:nth-of-type(1)": "Tags bearbeiten",
+  "body div:nth-of-type(6) div div span": "Seitenbereich bearbeiten",
+  "body div:nth-of-type(6) div button:nth-of-type(2)": "Löschen",
+  "body div:nth-of-type(6) div div:nth-of-type(1) span": "Benachrichtigungen",
+  "body div:nth-of-type(6) div div:nth-of-type(1) div button": "Alle löschen",
+  "body div:nth-of-type(6) div div:nth-of-type(2)": "Es gibt noch keine Benachrichtigungen.",
+  "body div:nth-of-type(6) div div:nth-of-type(1) div div": "Seiten-Tour neu starten"
 }
 

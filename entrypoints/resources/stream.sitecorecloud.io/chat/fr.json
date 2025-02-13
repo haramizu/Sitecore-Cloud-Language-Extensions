@@ -3,6 +3,7 @@
   "body div:nth-of-type(6) div span:nth-of-type(1)": "Marque récente",
   "body div:nth-of-type(6) div span:nth-of-type(2)": "Toutes les marques",
   "body div:nth-of-type(5) div div aside div div:nth-of-type(2) h3": "Sujet récent",
+  "body div:nth-of-type(5) div div aside div div:nth-of-type(2) div div p": "Aucun historique de chat",
   "[data-testid='scroll-contain-base-chat'] div:nth-of-type(1) div h2": "Comment puis-je vous aider?",
   "[data-testid='scroll-contain-base-chat'] div:nth-of-type(1) div div button:nth-of-type(1) p": "Qui est notre consommateur cible?",
   "[data-testid='scroll-contain-base-chat'] div:nth-of-type(1) div div button:nth-of-type(2) p": "Pouvez-vous me décrire notre ton de voix de marque?",

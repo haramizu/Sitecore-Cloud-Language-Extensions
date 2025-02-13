@@ -7,6 +7,17 @@
   "table thead tr th:nth-of-type(5)": "Team members",
   "main div div:nth-of-type(2) div div div div:nth-of-type(1) div:nth-of-type(1) h3": "Orchestrate your work",
   "main div div:nth-of-type(2) div div div div:nth-of-type(1) p": "Projects streamline the organization of deliverables and tasks for your marketing initiatives across teams and Sitecore products.",
-  "main div div:nth-of-type(2) div div div div:nth-of-type(1) div:nth-of-type(2) button": "Create first project"
+  "main div div:nth-of-type(2) div div div div:nth-of-type(1) div:nth-of-type(2) button": "Create first project",
+  "form div:nth-of-type(1) h2": "Project details",
+  "form div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(1) div:nth-of-type(1) label": "Project name",
+  "form div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(1) div:nth-of-type(2) label": "Project description",
+  "form div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(1) div:nth-of-type(3) label span span": "Include Brand kit (optional)",
+  "form div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(1) div:nth-of-type(4) label": "Labels",
+  "form div:nth-of-type(2) div:nth-of-type(2) h6": "Set a thumbnail for the project",
+  "form div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(2) div div:nth-of-type(1) label": "Start date",
+  "form div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(2) div div:nth-of-type(2) label": "End date",
+  "form div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(2) div div:nth-of-type(3) label": "Total days:",
+  "form div:nth-of-type(3) div:nth-of-type(2) button:nth-of-type(1)": "Cancel",
+  "form div:nth-of-type(3) div:nth-of-type(2) button:nth-of-type(2)": "Save"
 }
 

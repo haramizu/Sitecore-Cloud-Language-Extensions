@@ -3,6 +3,7 @@
   "body div:nth-of-type(6) div span:nth-of-type(1)": "Seneste Brand",
   "body div:nth-of-type(6) div span:nth-of-type(2)": "Alle Brands",
   "body div:nth-of-type(5) div div aside div div:nth-of-type(2) h3": "Seneste emne",
+  "body div:nth-of-type(5) div div aside div div:nth-of-type(2) div div p": "Ingen chathistorik",
   "[data-testid='scroll-contain-base-chat'] div:nth-of-type(1) div h2": "Hvordan kan jeg hjælpe?",
   "[data-testid='scroll-contain-base-chat'] div:nth-of-type(1) div div button:nth-of-type(1) p": "Hvem er vores målgruppe?",
   "[data-testid='scroll-contain-base-chat'] div:nth-of-type(1) div div button:nth-of-type(2) p": "Kan du beskrive vores brand tone of voice?",

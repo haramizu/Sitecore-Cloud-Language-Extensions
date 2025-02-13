@@ -31,7 +31,16 @@
   "[title='Grammar Guidelines'] span": "Directives grammaticales",
   "[title='Image Style'] span": "Style d'image",
   "body div:nth-of-type(6) div button": "Supprimer le kit de marque",
-  "[type='button']": "Modifier",
-  "[id='tour-brand-kit-section-card'] div:nth-of-type(1) h3": "Obligations numériques"
+  "[type='button']": "Éditer",
+  "main div div:nth-of-type(2) div div:nth-of-type(1) div p button": "Traiter tous les changements",
+  "main div div:nth-of-type(2) div div:nth-of-type(2) div:nth-of-type(1) div div:nth-of-type(3) div button:nth-of-type(1) span": "Ajouter une source",
+  "table thead tr th:nth-of-type(1) div": "Source",
+  "table thead tr th:nth-of-type(2) div": "État",
+  "table thead tr th:nth-of-type(3)": "Type",
+  "table thead tr th:nth-of-type(4)": "Tags de section",
+  "body div:nth-of-type(6) div button:nth-of-type(1)": "Éditer les tags",
+  "body div:nth-of-type(6) div div span": "Éditer la plage de pages",
+  "body div:nth-of-type(6) div button:nth-of-type(2)": "Supprimer",
+  "body div:nth-of-type(6) div div:nth-of-type(1) div div": "Redémarrer la visite de la page"
 }
 

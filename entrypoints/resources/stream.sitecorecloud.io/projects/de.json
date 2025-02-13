@@ -7,6 +7,17 @@
   "table thead tr th:nth-of-type(5)": "Teammitglieder",
   "main div div:nth-of-type(2) div div div div:nth-of-type(1) div:nth-of-type(1) h3": "Orchestrieren Sie Ihre Arbeit",
   "main div div:nth-of-type(2) div div div div:nth-of-type(1) p": "Projekte rationalisieren die Organisation von Lieferungen und Aufgaben für Ihre Marketinginitiativen über Teams und Sitecore-Produkte hinweg.",
-  "main div div:nth-of-type(2) div div div div:nth-of-type(1) div:nth-of-type(2) button": "Erstes Projekt erstellen"
+  "main div div:nth-of-type(2) div div div div:nth-of-type(1) div:nth-of-type(2) button": "Erstes Projekt erstellen",
+  "form div:nth-of-type(1) h2": "Projektdetails",
+  "form div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(1) div:nth-of-type(1) label": "Projektname",
+  "form div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(1) div:nth-of-type(2) label": "Projektbeschreibung",
+  "form div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(1) div:nth-of-type(3) label span span": "Markenkit einbeziehen (optional)",
+  "form div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(1) div:nth-of-type(4) label": "Labels",
+  "form div:nth-of-type(2) div:nth-of-type(2) h6": "Legen Sie ein Thumbnail für das Projekt fest",
+  "form div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(2) div div:nth-of-type(1) label": "Startdatum",
+  "form div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(2) div div:nth-of-type(2) label": "Enddatum",
+  "form div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(2) div div:nth-of-type(3) label": "Gesamttage:",
+  "form div:nth-of-type(3) div:nth-of-type(2) button:nth-of-type(1)": "Abbrechen",
+  "form div:nth-of-type(3) div:nth-of-type(2) button:nth-of-type(2)": "Speichern"
 }
 
