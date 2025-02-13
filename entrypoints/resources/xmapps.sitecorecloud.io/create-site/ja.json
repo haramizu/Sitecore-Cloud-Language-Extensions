@@ -1,0 +1,19 @@
+{
+  "header h2": "サイト作成",
+  "section div div div:nth-of-type(1) div:nth-of-type(1) div:nth-of-type(2) h3": "サイトテンプレート",
+  "section div div div:nth-of-type(1) div:nth-of-type(2) div:nth-of-type(2) h3": "サイト詳細",
+  "section div div div:nth-of-type(2) div div:nth-of-type(2) div div:nth-of-type(2) h2": "このテンプレートに含まれています",
+  "section div div div:nth-of-type(2) div div:nth-of-type(2) div div:nth-of-type(3) div:nth-of-type(1) p": "作成者",
+  "section div div div:nth-of-type(2) div div:nth-of-type(2) div div:nth-of-type(3) div:nth-of-type(2) p": "最終更新日",
+  "[data-testid='next-step-button']": "次のステップ",
+  "[data-testid='previous-step-button']": "前のステップ",
+  "section div div div:nth-of-type(2) form div div:nth-of-type(1) div:nth-of-type(1) label": "名前",
+  "section div div div:nth-of-type(2) form div div:nth-of-type(1) div:nth-of-type(2) div:nth-of-type(1) div": "XM Cloud 内のサイト名",
+  "section div div div:nth-of-type(2) form div div:nth-of-type(2) div:nth-of-type(1) label": "説明",
+  "section div div div:nth-of-type(2) form div div:nth-of-type(3) div:nth-of-type(1) label": "コレクション",
+  "section div div div:nth-of-type(2) form div div:nth-of-type(3) div:nth-of-type(3) div div": "コンテンツ、テンプレート、レイアウト、設定を共有するために、関連サイトをコレクションに整理します。",
+  "section div div div:nth-of-type(2) form div div:nth-of-type(4) div:nth-of-type(1) label": "言語",
+  "section div div div:nth-of-type(2) form div div:nth-of-type(4) div:nth-of-type(3) div div": "このサイトがサポートする言語。後でサイト設定から選択を変更できます。",
+  "section div div div:nth-of-type(2) form div div:nth-of-type(5) div:nth-of-type(1) label": "デフォルト言語"
+}
+

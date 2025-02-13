@@ -1,0 +1,19 @@
+{
+  "header h2": "Créer un site",
+  "section div div div:nth-of-type(1) div:nth-of-type(1) div:nth-of-type(2) h3": "Modèle de site",
+  "section div div div:nth-of-type(1) div:nth-of-type(2) div:nth-of-type(2) h3": "Détails du site",
+  "section div div div:nth-of-type(2) div div:nth-of-type(2) div div:nth-of-type(2) h2": "Inclus dans ce modèle",
+  "section div div div:nth-of-type(2) div div:nth-of-type(2) div div:nth-of-type(3) div:nth-of-type(1) p": "Créé par",
+  "section div div div:nth-of-type(2) div div:nth-of-type(2) div div:nth-of-type(3) div:nth-of-type(2) p": "Dernière mise à jour",
+  "[data-testid='next-step-button']": "Étape suivante",
+  "[data-testid='previous-step-button']": "Étape précédente",
+  "section div div div:nth-of-type(2) form div div:nth-of-type(1) div:nth-of-type(1) label": "Nom",
+  "section div div div:nth-of-type(2) form div div:nth-of-type(1) div:nth-of-type(2) div:nth-of-type(1) div": "Le nom du site dans XM Cloud",
+  "section div div div:nth-of-type(2) form div div:nth-of-type(2) div:nth-of-type(1) label": "Description",
+  "section div div div:nth-of-type(2) form div div:nth-of-type(3) div:nth-of-type(1) label": "Collection",
+  "section div div div:nth-of-type(2) form div div:nth-of-type(3) div:nth-of-type(3) div div": "Organisez les sites connexes dans une collection pour partager du contenu, des modèles, des mises en page et des paramètres",
+  "section div div div:nth-of-type(2) form div div:nth-of-type(4) div:nth-of-type(1) label": "Langues",
+  "section div div div:nth-of-type(2) form div div:nth-of-type(4) div:nth-of-type(3) div div": "Les langues que ce site prendra en charge. Vous pouvez modifier votre sélection plus tard dans les paramètres du site.",
+  "section div div div:nth-of-type(2) form div div:nth-of-type(5) div:nth-of-type(1) label": "Langue par défaut"
+}
+
