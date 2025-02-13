@@ -1,13 +1,15 @@
 {
   "[data-test-id='brandkit-picker'] span:nth-of-type(2)": "Select a brandkit",
-  "body div:nth-of-type(2) div span:nth-of-type(1)": "Recent Brand",
-  "body div:nth-of-type(2) div span:nth-of-type(2)": "All Brands",
-  "[id='artifactsPortalPlaceholder'] div div:nth-of-type(1) div div:nth-of-type(1) div h2": "How can I help?",
-  "[id='artifactsPortalPlaceholder'] div div:nth-of-type(1) div div:nth-of-type(1) div div button:nth-of-type(1) p": "Who is our target consumer?",
-  "[id='artifactsPortalPlaceholder'] div div:nth-of-type(1) div div:nth-of-type(1) div div button:nth-of-type(2) p": "Can you describe to me our brand tone of voice?",
-  "[id='artifactsPortalPlaceholder'] div div:nth-of-type(1) div div:nth-of-type(1) div div button:nth-of-type(3) p": "What is our brand big idea?",
-  "[id='artifactsPortalPlaceholder'] div div:nth-of-type(1) div div:nth-of-type(1) div div button:nth-of-type(4) p": "Brainstorm some headline ideas for my new campaign",
-  "[id='artifactsPortalPlaceholder'] div div:nth-of-type(1) div div:nth-of-type(1) div div button:nth-of-type(5) p": "Create a brief for my new campaign targeting my consumers",
-  "[id='artifactsPortalPlaceholder'] div div:nth-of-type(2) div form p": "Stream AI can make mistakes. Check important info."
+  "body div:nth-of-type(6) div span:nth-of-type(1)": "Recent Brand",
+  "body div:nth-of-type(6) div span:nth-of-type(2)": "All Brands",
+  "body div:nth-of-type(5) div div aside div div:nth-of-type(2) h3": "Recent topic",
+  "body div:nth-of-type(5) div div aside div div:nth-of-type(2) div div p": "No chat history",
+  "[data-testid='scroll-contain-base-chat'] div:nth-of-type(1) div h2": "How can I help?",
+  "[data-testid='scroll-contain-base-chat'] div:nth-of-type(1) div div button:nth-of-type(1) p": "Who is our target consumer?",
+  "[data-testid='scroll-contain-base-chat'] div:nth-of-type(1) div div button:nth-of-type(2) p": "Can you describe to me our brand tone of voice?",
+  "[data-testid='scroll-contain-base-chat'] div:nth-of-type(1) div div button:nth-of-type(3) p": "What is our brand big idea?",
+  "[data-testid='scroll-contain-base-chat'] div:nth-of-type(1) div div button:nth-of-type(4) p": "Brainstorm some headline ideas for my new campaign",
+  "[data-testid='scroll-contain-base-chat'] div:nth-of-type(1) div div button:nth-of-type(5) p": "Create a brief for my new campaign targeting my consumers",
+  "body div:nth-of-type(5) div div div div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(2) div form p": "Stream AI can make mistakes. Check important info."
 }
 

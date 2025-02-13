@@ -8,6 +8,16 @@
   "body div:nth-of-type(3) form div:nth-of-type(4) button": "Upload logo",
   "body div:nth-of-type(3) form div:nth-of-type(4) p": "The logo will just be used for in-app listings. Please upload a transparent PNG",
   "body div:nth-of-type(3) form div:nth-of-type(5) button:nth-of-type(1)": "Cancel",
-  "body div:nth-of-type(3) form div:nth-of-type(5) button:nth-of-type(2)": "Create"
+  "body div:nth-of-type(3) form div:nth-of-type(5) button:nth-of-type(2)": "Create",
+  "body div:nth-of-type(7) div h2": "New brand kit",
+  "body div:nth-of-type(7) form div:nth-of-type(1) label": "Brand name",
+  "body div:nth-of-type(7) form div:nth-of-type(2) label": "Company name (if different)",
+  "body div:nth-of-type(7) form div:nth-of-type(3) label": "Industry",
+  "body div:nth-of-type(7) form div:nth-of-type(4) button": "Upload logo",
+  "body div:nth-of-type(7) form div:nth-of-type(4) p": "The logo will just be used for in-app listings. Please upload a transparent PNG",
+  "body div:nth-of-type(7) form div:nth-of-type(5) button:nth-of-type(1)": "Cancel",
+  "body div:nth-of-type(7) form div:nth-of-type(5) button:nth-of-type(2)": "Create",
+  "main div div:nth-of-type(2) div div:nth-of-type(2) div:nth-of-type(1) div h2": "No search results",
+  "main div div:nth-of-type(2) div div:nth-of-type(2) div:nth-of-type(1) div p": "Try a different search query."
 }
 

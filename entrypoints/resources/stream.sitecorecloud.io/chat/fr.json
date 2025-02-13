@@ -1,13 +1,15 @@
 {
   "[data-test-id='brandkit-picker'] span:nth-of-type(2)": "Sélectionnez un brandkit",
-  "body div:nth-of-type(2) div span:nth-of-type(1)": "Marque récente",
-  "body div:nth-of-type(2) div span:nth-of-type(2)": "Toutes les marques",
-  "[id='artifactsPortalPlaceholder'] div div:nth-of-type(1) div div:nth-of-type(1) div h2": "Comment puis-je vous aider?",
-  "[id='artifactsPortalPlaceholder'] div div:nth-of-type(1) div div:nth-of-type(1) div div button:nth-of-type(1) p": "Qui est notre consommateur cible?",
-  "[id='artifactsPortalPlaceholder'] div div:nth-of-type(1) div div:nth-of-type(1) div div button:nth-of-type(2) p": "Pouvez-vous me décrire notre ton de voix de marque?",
-  "[id='artifactsPortalPlaceholder'] div div:nth-of-type(1) div div:nth-of-type(1) div div button:nth-of-type(3) p": "Quelle est notre grande idée de marque?",
-  "[id='artifactsPortalPlaceholder'] div div:nth-of-type(1) div div:nth-of-type(1) div div button:nth-of-type(4) p": "Brainstormez quelques idées de titres pour ma nouvelle campagne",
-  "[id='artifactsPortalPlaceholder'] div div:nth-of-type(1) div div:nth-of-type(1) div div button:nth-of-type(5) p": "Créez un brief pour ma nouvelle campagne ciblant mes consommateurs",
-  "[id='artifactsPortalPlaceholder'] div div:nth-of-type(2) div form p": "Stream AI peut faire des erreurs. Vérifiez les informations importantes."
+  "body div:nth-of-type(6) div span:nth-of-type(1)": "Marque récente",
+  "body div:nth-of-type(6) div span:nth-of-type(2)": "Toutes les marques",
+  "body div:nth-of-type(5) div div aside div div:nth-of-type(2) h3": "Sujet récent",
+  "body div:nth-of-type(5) div div aside div div:nth-of-type(2) div div p": "Aucun historique de chat",
+  "[data-testid='scroll-contain-base-chat'] div:nth-of-type(1) div h2": "Comment puis-je vous aider?",
+  "[data-testid='scroll-contain-base-chat'] div:nth-of-type(1) div div button:nth-of-type(1) p": "Qui est notre consommateur cible?",
+  "[data-testid='scroll-contain-base-chat'] div:nth-of-type(1) div div button:nth-of-type(2) p": "Pouvez-vous me décrire notre ton de voix de marque?",
+  "[data-testid='scroll-contain-base-chat'] div:nth-of-type(1) div div button:nth-of-type(3) p": "Quelle est notre grande idée de marque?",
+  "[data-testid='scroll-contain-base-chat'] div:nth-of-type(1) div div button:nth-of-type(4) p": "Brainstormez quelques idées de titres pour ma nouvelle campagne",
+  "[data-testid='scroll-contain-base-chat'] div:nth-of-type(1) div div button:nth-of-type(5) p": "Créez un brief pour ma nouvelle campagne ciblant mes consommateurs",
+  "body div:nth-of-type(5) div div div div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(2) div form p": "Stream AI peut faire des erreurs. Vérifiez les informations importantes."
 }
 

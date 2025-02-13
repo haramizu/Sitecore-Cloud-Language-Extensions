@@ -27,6 +27,14 @@
   "[id='tour-project-analytics'] div:nth-of-type(2) div:nth-of-type(4) div:nth-of-type(2) div div:nth-of-type(1) label": "期限なし",
   "[id='tour-project-analytics'] div:nth-of-type(2) div:nth-of-type(4) div:nth-of-type(2) div div:nth-of-type(2) label": "未割り当てタスク",
   "[id='tour-project-analytics'] div:nth-of-type(2) div:nth-of-type(4) div:nth-of-type(2) div div:nth-of-type(3) label": "未開始",
-  "[id='tour-project-analytics'] div:nth-of-type(2) div:nth-of-type(4) div:nth-of-type(2) div div:nth-of-type(4) label": "期限切れのタスク"
+  "[id='tour-project-analytics'] div:nth-of-type(2) div:nth-of-type(4) div:nth-of-type(2) div div:nth-of-type(4) label": "期限切れのタスク",
+  "[id='tour-project-analytics'] div:nth-of-type(2) div:nth-of-type(1) div h2": "プロジェクトの進捗状況",
+  "[id='tour-project-analytics'] div:nth-of-type(2) div:nth-of-type(1) div p": "まだ表示するデータがありません",
+  "[id='tour-project-analytics'] div:nth-of-type(2) div:nth-of-type(2) div h2": "総プロジェクト進捗",
+  "[id='tour-project-analytics'] div:nth-of-type(2) div:nth-of-type(2) div p": "まだ表示するデータがありません",
+  "[id='tour-project-analytics'] div:nth-of-type(2) div:nth-of-type(3) div h2": "期限管理",
+  "[id='tour-project-analytics'] div:nth-of-type(2) div:nth-of-type(3) div p": "まだ表示するデータがありません",
+  "[id='tour-project-analytics'] div:nth-of-type(2) div:nth-of-type(4) div h2": "リスク評価",
+  "[id='tour-project-analytics'] div:nth-of-type(2) div:nth-of-type(4) div p": "まだ表示するデータがありません"
 }
 
