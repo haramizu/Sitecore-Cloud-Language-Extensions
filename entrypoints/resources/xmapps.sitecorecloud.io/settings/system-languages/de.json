@@ -15,5 +15,11 @@
   "table thead tr th:nth-of-type(2)": "Fallback-Sprache",
   "table thead tr th:nth-of-type(3)": "Sprachcode",
   "table tbody tr:nth-of-type(2) td:nth-of-type(4) div div div button:nth-of-type(1) span:nth-of-type(2)": "Bearbeiten",
-  "table tbody tr:nth-of-type(2) td:nth-of-type(4) div div div button:nth-of-type(2) span:nth-of-type(2)": "Löschen"
+  "table tbody tr:nth-of-type(2) td:nth-of-type(4) div div div button:nth-of-type(2) span:nth-of-type(2)": "Löschen",
+  "section header": "Sprache bearbeiten",
+  "section form div div:nth-of-type(1) div:nth-of-type(1) label": "Sprache",
+  "section form div div:nth-of-type(2) div:nth-of-type(1) label div": "Fallback-Sprache",
+  "section form div div:nth-of-type(3) label": "Sprachcode",
+  "section form footer div button:nth-of-type(1)": "Abbrechen",
+  "section form footer div button:nth-of-type(2)": "Speichern"
 }
