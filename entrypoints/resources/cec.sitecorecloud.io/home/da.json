@@ -1,0 +1,28 @@
+{
+  "body div:nth-of-type(1) div div:nth-of-type(2) div div:nth-of-type(1) div:nth-of-type(1) div:nth-of-type(2) div span": "Webstedsydelse",
+  "body div:nth-of-type(6) div div div div:nth-of-type(1) button span": "I går",
+  "body div:nth-of-type(6) div div div div:nth-of-type(2) button span": "Sidste 7 dage",
+  "body div:nth-of-type(6) div div div div:nth-of-type(3) button span": "Sidste 14 dage",
+  "body div:nth-of-type(6) div div div div:nth-of-type(4) button span": "Sidste 30 dage",
+  "body div:nth-of-type(6) div div div div:nth-of-type(5) button span": "Sidste 90 dage",
+  "body div:nth-of-type(6) div div div div:nth-of-type(6) button span": "Tilpasset interval",
+  "[id='rfk-analytics-top-bar'] div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(1) div div div:nth-of-type(1)": "Enheder:",
+  "[id='rfk-analytics-top-bar'] div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(2) div div div div:nth-of-type(1)": "App-type:",
+  "[id='rfk-analytics-top-bar'] div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(3) div div div div:nth-of-type(1)": "Lokalitet:",
+  "[id='rfk-analytics-top-bar'] div:nth-of-type(2) div:nth-of-type(2) button": "Gendan standard",
+  "[id='rfk-analytics-top-bar'] div:nth-of-type(2) div:nth-of-type(2) span:nth-of-type(2) div button": "Gem",
+  "[id='RFK-Analytics-Site-Performance'] div:nth-of-type(1) div div:nth-of-type(1) div:nth-of-type(2) div:nth-of-type(1) div div div div div:nth-of-type(3) div": "Besøg",
+  "[id='RFK-Analytics-Site-Performance'] div:nth-of-type(1) div div:nth-of-type(1) div:nth-of-type(2) div:nth-of-type(2) div div div div div:nth-of-type(2) div": "Sidevisninger",
+  "[id='RFK-Analytics-Site-Performance'] div:nth-of-type(1) div div:nth-of-type(1) div:nth-of-type(2) div:nth-of-type(3) div div div div div:nth-of-type(2) div": "Unikke sidevisninger",
+  "[id='RFK-Analytics-Site-Performance'] div:nth-of-type(1) div div:nth-of-type(1) div:nth-of-type(2) div:nth-of-type(4) div div div div div:nth-of-type(2) div": "Anmodninger",
+  "[id='RFK-Analytics-Site-Performance'] div:nth-of-type(1) div div:nth-of-type(1) div:nth-of-type(2) div:nth-of-type(5) div div div div div:nth-of-type(2) div": "Widget-visninger",
+  "[id='RFK-Analytics-Site-Performance'] div:nth-of-type(1) div div:nth-of-type(1) div:nth-of-type(2) div:nth-of-type(6) div div div div div:nth-of-type(2) div": "Widget-klik",
+  "[id='RFK-Analytics-Site-Performance'] div:nth-of-type(1) div div:nth-of-type(1) div:nth-of-type(2) div:nth-of-type(7) div div div div div:nth-of-type(2) div": "Klikkonverteringer",
+  "[id='RFK-Analytics-Site-Performance'] div:nth-of-type(1) div div:nth-of-type(1) div:nth-of-type(2) div:nth-of-type(9) div div div div div:nth-of-type(2) div": "Konverteringer",
+  "[id='RFK-Analytics-Site-Performance'] div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(1) div div span": "Samlet engagement",
+  "[id='RFK-Analytics-Site-Performance'] div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(1) div div span": "Forhåndsvis søgeengagement",
+  "[id='RFK-Analytics-Site-Performance'] div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(1) div div span": "Søgeside engagement",
+  "[id='RFK-Analytics-Site-Performance'] div:nth-of-type(2) div:nth-of-type(4) div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(1) div div span": "Anbefaling engagement",
+  "body div:nth-of-type(6) div ul li": "Eksporter data"
+}
+

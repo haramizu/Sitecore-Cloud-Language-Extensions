@@ -4,5 +4,9 @@
   "div div div div ul li:nth-of-type(3) div": "技術サポート",
   "div div div div ul li:nth-of-type(4) div": "バージョン",
   "div div div div div:nth-of-type(4) button": "ログアウト",
-  "[data-testid='components/Button']": "閉じる"
+  "[data-testid='components/Button']": "閉じる",
+  "[id='app'] div div:nth-of-type(2) div div:nth-of-type(2) div:nth-of-type(1) div div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(2)": "サイト",
+  "[id='app'] div div:nth-of-type(2) div div:nth-of-type(2) div:nth-of-type(1) div div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(1) div:nth-of-type(1)": "ウィジェット",
+  "[id='app'] div div:nth-of-type(2) div div:nth-of-type(2) div:nth-of-type(1) div div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(2) a:nth-of-type(1)": "概要"
 }
+

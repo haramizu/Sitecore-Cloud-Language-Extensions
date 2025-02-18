@@ -1,0 +1,28 @@
+{
+  "body div:nth-of-type(1) div div:nth-of-type(2) div div:nth-of-type(1) div:nth-of-type(1) div:nth-of-type(2) div span": "Seitenleistung",
+  "body div:nth-of-type(6) div div div div:nth-of-type(1) button span": "Gestern",
+  "body div:nth-of-type(6) div div div div:nth-of-type(2) button span": "Letzte 7 Tage",
+  "body div:nth-of-type(6) div div div div:nth-of-type(3) button span": "Letzte 14 Tage",
+  "body div:nth-of-type(6) div div div div:nth-of-type(4) button span": "Letzte 30 Tage",
+  "body div:nth-of-type(6) div div div div:nth-of-type(5) button span": "Letzte 90 Tage",
+  "body div:nth-of-type(6) div div div div:nth-of-type(6) button span": "Benutzerdefinierter Bereich",
+  "[id='rfk-analytics-top-bar'] div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(1) div div div:nth-of-type(1)": "Geräte:",
+  "[id='rfk-analytics-top-bar'] div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(2) div div div div:nth-of-type(1)": "App-Typ:",
+  "[id='rfk-analytics-top-bar'] div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(3) div div div div:nth-of-type(1)": "Sprache:",
+  "[id='rfk-analytics-top-bar'] div:nth-of-type(2) div:nth-of-type(2) button": "Standard wiederherstellen",
+  "[id='rfk-analytics-top-bar'] div:nth-of-type(2) div:nth-of-type(2) span:nth-of-type(2) div button": "Speichern",
+  "[id='RFK-Analytics-Site-Performance'] div:nth-of-type(1) div div:nth-of-type(1) div:nth-of-type(2) div:nth-of-type(1) div div div div div:nth-of-type(3) div": "Besuche",
+  "[id='RFK-Analytics-Site-Performance'] div:nth-of-type(1) div div:nth-of-type(1) div:nth-of-type(2) div:nth-of-type(2) div div div div div:nth-of-type(2) div": "Seitenaufrufe",
+  "[id='RFK-Analytics-Site-Performance'] div:nth-of-type(1) div div:nth-of-type(1) div:nth-of-type(2) div:nth-of-type(3) div div div div div:nth-of-type(2) div": "Einzigartige Seitenaufrufe",
+  "[id='RFK-Analytics-Site-Performance'] div:nth-of-type(1) div div:nth-of-type(1) div:nth-of-type(2) div:nth-of-type(4) div div div div div:nth-of-type(2) div": "Anfragen",
+  "[id='RFK-Analytics-Site-Performance'] div:nth-of-type(1) div div:nth-of-type(1) div:nth-of-type(2) div:nth-of-type(5) div div div div div:nth-of-type(2) div": "Widget-Aufrufe",
+  "[id='RFK-Analytics-Site-Performance'] div:nth-of-type(1) div div:nth-of-type(1) div:nth-of-type(2) div:nth-of-type(6) div div div div div:nth-of-type(2) div": "Widget-Klicks",
+  "[id='RFK-Analytics-Site-Performance'] div:nth-of-type(1) div div:nth-of-type(1) div:nth-of-type(2) div:nth-of-type(7) div div div div div:nth-of-type(2) div": "Klick-Konversionen",
+  "[id='RFK-Analytics-Site-Performance'] div:nth-of-type(1) div div:nth-of-type(1) div:nth-of-type(2) div:nth-of-type(9) div div div div div:nth-of-type(2) div": "Konversionen",
+  "[id='RFK-Analytics-Site-Performance'] div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(1) div div span": "Gesamtengagement",
+  "[id='RFK-Analytics-Site-Performance'] div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(1) div div span": "Vorschau-Such-Engagement",
+  "[id='RFK-Analytics-Site-Performance'] div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(1) div div span": "Suchseiten-Engagement",
+  "[id='RFK-Analytics-Site-Performance'] div:nth-of-type(2) div:nth-of-type(4) div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(1) div div span": "Empfehlungs-Engagement",
+  "body div:nth-of-type(6) div ul li": "Daten exportieren"
+}
+
