@@ -1,21 +1,13 @@
 {
   "body div:nth-of-type(1) div div:nth-of-type(2) div div:nth-of-type(1) div:nth-of-type(1) div:nth-of-type(2) div span": "Site Performance",
-  "body div:nth-of-type(6) div div div div:nth-of-type(1) button span": "Yesterday",
-  "body div:nth-of-type(6) div div div div:nth-of-type(2) button span": "Last 7 Days",
-  "body div:nth-of-type(6) div div div div:nth-of-type(3) button span": "Last 14 Days",
-  "body div:nth-of-type(6) div div div div:nth-of-type(4) button span": "Last 30 Days",
-  "body div:nth-of-type(6) div div div div:nth-of-type(5) button span": "Last 90 Days",
-  "body div:nth-of-type(6) div div div div:nth-of-type(6) button span": "Customized Range",
   "[id='rfk-analytics-top-bar'] div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(1) div div div:nth-of-type(1)": "Devices:",
   "[id='rfk-analytics-top-bar'] div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(2) div div div div:nth-of-type(1)": "App Type:",
   "[id='rfk-analytics-top-bar'] div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(3) div div div div:nth-of-type(1)": "Locale:",
-  "[id='rfk-analytics-top-bar'] div:nth-of-type(2) div:nth-of-type(2) button": "Restore Default",
-  "[id='rfk-analytics-top-bar'] div:nth-of-type(2) div:nth-of-type(2) span:nth-of-type(2) div button": "Save",
-  "[id='RFK-Analytics-Site-Performance'] div:nth-of-type(1) div div:nth-of-type(1) div:nth-of-type(2) div:nth-of-type(1) div div div div div:nth-of-type(3) div": "Visits",
+  "[id='RFK-Analytics-Site-Performance'] div:nth-of-type(1) div div:nth-of-type(1) div:nth-of-type(2) div:nth-of-type(1) div div div div div:nth-of-type(2) div": "Visits",
   "[id='RFK-Analytics-Site-Performance'] div:nth-of-type(1) div div:nth-of-type(1) div:nth-of-type(2) div:nth-of-type(2) div div div div div:nth-of-type(2) div": "Page views",
   "[id='RFK-Analytics-Site-Performance'] div:nth-of-type(1) div div:nth-of-type(1) div:nth-of-type(2) div:nth-of-type(3) div div div div div:nth-of-type(2) div": "Unique page views",
   "[id='RFK-Analytics-Site-Performance'] div:nth-of-type(1) div div:nth-of-type(1) div:nth-of-type(2) div:nth-of-type(4) div div div div div:nth-of-type(2) div": "Requests",
-  "[id='RFK-Analytics-Site-Performance'] div:nth-of-type(1) div div:nth-of-type(1) div:nth-of-type(2) div:nth-of-type(5) div div div div div:nth-of-type(2) div": "Widget views",
+  "[id='RFK-Analytics-Site-Performance'] div:nth-of-type(1) div div:nth-of-type(1) div:nth-of-type(2) div:nth-of-type(5) div div div div div:nth-of-type(3) div": "Widget views",
   "[id='RFK-Analytics-Site-Performance'] div:nth-of-type(1) div div:nth-of-type(1) div:nth-of-type(2) div:nth-of-type(6) div div div div div:nth-of-type(2) div": "Widget clicks",
   "[id='RFK-Analytics-Site-Performance'] div:nth-of-type(1) div div:nth-of-type(1) div:nth-of-type(2) div:nth-of-type(7) div div div div div:nth-of-type(2) div": "Click conversions",
   "[id='RFK-Analytics-Site-Performance'] div:nth-of-type(1) div div:nth-of-type(1) div:nth-of-type(2) div:nth-of-type(9) div div div div div:nth-of-type(2) div": "Conversions",
@@ -23,6 +15,6 @@
   "[id='RFK-Analytics-Site-Performance'] div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(1) div div span": "Preview Search Engagement",
   "[id='RFK-Analytics-Site-Performance'] div:nth-of-type(2) div:nth-of-type(3) div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(1) div div span": "Search Page Engagement",
   "[id='RFK-Analytics-Site-Performance'] div:nth-of-type(2) div:nth-of-type(4) div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(1) div div span": "Recommendation Engagement",
-  "body div:nth-of-type(6) div ul li": "Export data"
+  "div ul li": "Export data"
 }
 

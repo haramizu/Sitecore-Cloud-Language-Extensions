@@ -7,6 +7,18 @@
   "[data-testid='components Button']": "Close",
   "[id='app'] div div:nth-of-type(2) div div:nth-of-type(2) div:nth-of-type(1) div div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(2)": "Site",
   "[id='app'] div div:nth-of-type(2) div div:nth-of-type(2) div:nth-of-type(1) div div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(1) div:nth-of-type(1)": "Widgets",
-  "[id='app'] div div:nth-of-type(2) div div:nth-of-type(2) div:nth-of-type(1) div div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(2) a:nth-of-type(1)": "Overview"
+  "[id='app'] div div:nth-of-type(2) div div:nth-of-type(2) div:nth-of-type(1) div div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(2) a:nth-of-type(1)": "Overview",
+  "div div div div:nth-of-type(1) button span": "Yesterday",
+  "div div div div:nth-of-type(2) button span": "Last 7 Days",
+  "div div div div:nth-of-type(3) button span": "Last 14 Days",
+  "div div div div:nth-of-type(4) button span": "Last 30 Days",
+  "div div div div:nth-of-type(5) button span": "Last 90 Days",
+  "div div div div:nth-of-type(6) button span": "Customized Range",
+  "[id='rfk-analytics-top-bar'] div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(1) div div div:nth-of-type(1)": "Entity:",
+  "[id='rfk-analytics-top-bar'] div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(2) div div div:nth-of-type(1)": "Devices:",
+  "[id='rfk-analytics-top-bar'] div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(3) div div div div:nth-of-type(1)": "App Type:",
+  "[id='rfk-analytics-top-bar'] div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(4) div div div div:nth-of-type(1)": "Locale:",
+  "[id='rfk-analytics-top-bar'] div:nth-of-type(2) div:nth-of-type(2) button": "Restore Default",
+  "[id='rfk-analytics-top-bar'] div:nth-of-type(2) div:nth-of-type(2) span:nth-of-type(2) div button": "Save"
 }
 
