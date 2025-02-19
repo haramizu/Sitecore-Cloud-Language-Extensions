@@ -19,6 +19,18 @@
   "[id='rfk-analytics-top-bar'] div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(3) div div div div:nth-of-type(1)": "アプリの種類:",
   "[id='rfk-analytics-top-bar'] div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(4) div div div div:nth-of-type(1)": "ロケール:",
   "[id='rfk-analytics-top-bar'] div:nth-of-type(2) div:nth-of-type(2) button": "デフォルトに戻す",
-  "[id='rfk-analytics-top-bar'] div:nth-of-type(2) div:nth-of-type(2) span:nth-of-type(2) div button": "保存"
+  "[id='rfk-analytics-top-bar'] div:nth-of-type(2) div:nth-of-type(2) span:nth-of-type(2) div button": "保存",
+  "[id='app'] div div:nth-of-type(2) div div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(1) a:nth-of-type(1)": "ウィジット種類",
+  "[id='app'] div div:nth-of-type(2) div div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(1) a:nth-of-type(2) div": "ウィジット設定",
+  "[id='app'] div div:nth-of-type(2) div div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(1) a:nth-of-type(3)": "スプリットテスト",
+  "[id='app'] div div:nth-of-type(2) div div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(2) div:nth-of-type(2) button": "公開",
+  "[id='app'] div div:nth-of-type(2) div div:nth-of-type(2) div:nth-of-type(2) div div:nth-of-type(1) div span:nth-of-type(2) span": "アーカイブを表示",
+  "[id='app'] div div:nth-of-type(2) div div:nth-of-type(2) div:nth-of-type(2) div div:nth-of-type(1) div span:nth-of-type(3) button": "種類追加",
+  "[id='app'] div div:nth-of-type(2) div div:nth-of-type(2) div:nth-of-type(2) div div:nth-of-type(2) div div:nth-of-type(1) div div:nth-of-type(1) div:nth-of-type(1) div div:nth-of-type(1) div:nth-of-type(1) div span:nth-of-type(1)": "名前",
+  "[id='app'] div div:nth-of-type(2) div div:nth-of-type(2) div:nth-of-type(2) div div:nth-of-type(2) div div:nth-of-type(1) div div:nth-of-type(1) div:nth-of-type(1) div div:nth-of-type(2) div:nth-of-type(1) div span:nth-of-type(1)": "トラフィック",
+  "[id='app'] div div:nth-of-type(2) div div:nth-of-type(2) div:nth-of-type(2) div div:nth-of-type(2) div div:nth-of-type(1) div div:nth-of-type(1) div:nth-of-type(1) div div:nth-of-type(3) div:nth-of-type(1) div span:nth-of-type(1)": "スケジュール",
+  "[id='app'] div div:nth-of-type(2) div div:nth-of-type(2) div:nth-of-type(2) div div:nth-of-type(2) div div:nth-of-type(1) div div:nth-of-type(1) div:nth-of-type(1) div div:nth-of-type(4) div:nth-of-type(1) div span:nth-of-type(1)": "ステータス",
+  "[id='app'] div div:nth-of-type(2) div div:nth-of-type(2) div:nth-of-type(2) div div:nth-of-type(2) div div:nth-of-type(1) div div:nth-of-type(1) div:nth-of-type(1) div div:nth-of-type(5) div:nth-of-type(1) div span:nth-of-type(1)": "最終編集日",
+  "[id='app'] div div:nth-of-type(2) div div:nth-of-type(2) div:nth-of-type(2) div div:nth-of-type(2) div div:nth-of-type(1) div div:nth-of-type(1) div:nth-of-type(1) div div:nth-of-type(6) div:nth-of-type(1) div span": "編集者"
 }
 

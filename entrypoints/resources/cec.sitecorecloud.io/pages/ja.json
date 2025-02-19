@@ -1,4 +1,16 @@
 {
-  "[id='app'] div div:nth-of-type(2) div div:nth-of-type(1) div:nth-of-type(1) div:nth-of-type(2) div span": "ページ"
+  "[id='app'] div div:nth-of-type(2) div div:nth-of-type(1) div:nth-of-type(1) div:nth-of-type(2) div span": "ページ",
+  "[id='app'] div div:nth-of-type(2) div div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(1) a": "ページ",
+  "[id='app'] div div:nth-of-type(2) div div:nth-of-type(2) div:nth-of-type(2) div div div div div:nth-of-type(2) div div:nth-of-type(1) div:nth-of-type(1)": "すべてのページ",
+  "[id='app'] div div:nth-of-type(2) div div:nth-of-type(2) div:nth-of-type(2) div div div div div:nth-of-type(2) div div:nth-of-type(1) div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(2)": "アーカイブ表示",
+  "[id='app'] div div:nth-of-type(2) div div:nth-of-type(2) div:nth-of-type(2) div div div div div:nth-of-type(2) div div:nth-of-type(1) div:nth-of-type(2) div:nth-of-type(3) button": "ページ作成",
+  "[id='app'] div div:nth-of-type(2) div div:nth-of-type(2) div:nth-of-type(2) div div div div div:nth-of-type(1) div:nth-of-type(2)": "すべてのページ",
+  "[id='app'] div div:nth-of-type(2) div div:nth-of-type(2) div:nth-of-type(2) div div div div div:nth-of-type(2) div div:nth-of-type(2) div div:nth-of-type(1) div div:nth-of-type(1) div:nth-of-type(1) div div:nth-of-type(1) div:nth-of-type(1) div span:nth-of-type(1)": "名前",
+  "[id='app'] div div:nth-of-type(2) div div:nth-of-type(2) div:nth-of-type(2) div div div div div:nth-of-type(2) div div:nth-of-type(2) div div:nth-of-type(1) div div:nth-of-type(1) div:nth-of-type(1) div div:nth-of-type(2) div:nth-of-type(1) div span:nth-of-type(1)": "タイプ",
+  "[id='app'] div div:nth-of-type(2) div div:nth-of-type(2) div:nth-of-type(2) div div div div div:nth-of-type(2) div div:nth-of-type(2) div div:nth-of-type(1) div div:nth-of-type(1) div:nth-of-type(1) div div:nth-of-type(3) div:nth-of-type(1) div span": "種類",
+  "[id='app'] div div:nth-of-type(2) div div:nth-of-type(2) div:nth-of-type(2) div div div div div:nth-of-type(2) div div:nth-of-type(2) div div:nth-of-type(1) div div:nth-of-type(1) div:nth-of-type(1) div div:nth-of-type(4) div:nth-of-type(1) div span": "ウィジット",
+  "[id='app'] div div:nth-of-type(2) div div:nth-of-type(2) div:nth-of-type(2) div div div div div:nth-of-type(2) div div:nth-of-type(2) div div:nth-of-type(1) div div:nth-of-type(1) div:nth-of-type(1) div div:nth-of-type(5) div:nth-of-type(1) div span": "ホスト",
+  "[id='app'] div div:nth-of-type(2) div div:nth-of-type(2) div:nth-of-type(2) div div div div div:nth-of-type(2) div div:nth-of-type(2) div div:nth-of-type(1) div div:nth-of-type(1) div:nth-of-type(1) div div:nth-of-type(6) div:nth-of-type(1) div span:nth-of-type(1)": "最終更新日",
+  "[id='app'] div div:nth-of-type(2) div div:nth-of-type(2) div:nth-of-type(2) div div div div div:nth-of-type(2) div div:nth-of-type(2) div div:nth-of-type(1) div div:nth-of-type(1) div:nth-of-type(1) div div:nth-of-type(7) div:nth-of-type(1) div span": "編集者"
 }
 

@@ -1,4 +1,16 @@
 {
-  "[id='app'] div div:nth-of-type(2) div div:nth-of-type(1) div:nth-of-type(1) div:nth-of-type(2) div span": "Pages"
+  "[id='app'] div div:nth-of-type(2) div div:nth-of-type(1) div:nth-of-type(1) div:nth-of-type(2) div span": "Pages",
+  "[id='app'] div div:nth-of-type(2) div div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(1) a": "Pages",
+  "[id='app'] div div:nth-of-type(2) div div:nth-of-type(2) div:nth-of-type(2) div div div div div:nth-of-type(2) div div:nth-of-type(1) div:nth-of-type(1)": "All Pages",
+  "[id='app'] div div:nth-of-type(2) div div:nth-of-type(2) div:nth-of-type(2) div div div div div:nth-of-type(2) div div:nth-of-type(1) div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(2)": "Show Archived",
+  "[id='app'] div div:nth-of-type(2) div div:nth-of-type(2) div:nth-of-type(2) div div div div div:nth-of-type(2) div div:nth-of-type(1) div:nth-of-type(2) div:nth-of-type(3) button": "Create Page",
+  "[id='app'] div div:nth-of-type(2) div div:nth-of-type(2) div:nth-of-type(2) div div div div div:nth-of-type(1) div:nth-of-type(2)": "All Pages",
+  "[id='app'] div div:nth-of-type(2) div div:nth-of-type(2) div:nth-of-type(2) div div div div div:nth-of-type(2) div div:nth-of-type(2) div div:nth-of-type(1) div div:nth-of-type(1) div:nth-of-type(1) div div:nth-of-type(1) div:nth-of-type(1) div span:nth-of-type(1)": "Name",
+  "[id='app'] div div:nth-of-type(2) div div:nth-of-type(2) div:nth-of-type(2) div div div div div:nth-of-type(2) div div:nth-of-type(2) div div:nth-of-type(1) div div:nth-of-type(1) div:nth-of-type(1) div div:nth-of-type(2) div:nth-of-type(1) div span:nth-of-type(1)": "Type",
+  "[id='app'] div div:nth-of-type(2) div div:nth-of-type(2) div:nth-of-type(2) div div div div div:nth-of-type(2) div div:nth-of-type(2) div div:nth-of-type(1) div div:nth-of-type(1) div:nth-of-type(1) div div:nth-of-type(3) div:nth-of-type(1) div span": "Variations",
+  "[id='app'] div div:nth-of-type(2) div div:nth-of-type(2) div:nth-of-type(2) div div div div div:nth-of-type(2) div div:nth-of-type(2) div div:nth-of-type(1) div div:nth-of-type(1) div:nth-of-type(1) div div:nth-of-type(4) div:nth-of-type(1) div span": "Widgets",
+  "[id='app'] div div:nth-of-type(2) div div:nth-of-type(2) div:nth-of-type(2) div div div div div:nth-of-type(2) div div:nth-of-type(2) div div:nth-of-type(1) div div:nth-of-type(1) div:nth-of-type(1) div div:nth-of-type(5) div:nth-of-type(1) div span": "Hosted",
+  "[id='app'] div div:nth-of-type(2) div div:nth-of-type(2) div:nth-of-type(2) div div div div div:nth-of-type(2) div div:nth-of-type(2) div div:nth-of-type(1) div div:nth-of-type(1) div:nth-of-type(1) div div:nth-of-type(6) div:nth-of-type(1) div span:nth-of-type(1)": "Last Modified",
+  "[id='app'] div div:nth-of-type(2) div div:nth-of-type(2) div:nth-of-type(2) div div div div div:nth-of-type(2) div div:nth-of-type(2) div div:nth-of-type(1) div div:nth-of-type(1) div:nth-of-type(1) div div:nth-of-type(7) div:nth-of-type(1) div span": "Modified By"
 }
 
