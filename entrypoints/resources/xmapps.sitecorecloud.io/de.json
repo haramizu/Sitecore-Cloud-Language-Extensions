@@ -13,7 +13,7 @@
   "[data-testid='siteSettingsMenuItem'] span:nth-of-type(2)": "Einstellungen",
   "[data-testid='renameSiteMenuItem'] span:nth-of-type(2)": "Umbenennen",
   "[data-testid='duplicateSiteMenuButton'] span:nth-of-type(2)": "Duplizieren",
-  "[data-testid='open-in-pages-link'] button span:nth-of-type(2)": "Im Seiteneditor bearbeiten",
+  "[data-testid='open-in-pages'] button span:nth-of-type(2)": "Im Seiteneditor bearbeiten",
   "[data-testid='create-dropdown-button'] span": "Erstellen",
   "[data-testid='sc-create-site-menu-item']": "Website",
   "[data-testid='create-collection']": "Sammlung",
@@ -103,6 +103,10 @@
   "section div div:nth-of-type(2) div:nth-of-type(3) button:nth-of-type(1)": "Abbrechen",
   "section div div:nth-of-type(2) div:nth-of-type(3) button:nth-of-type(2)": "Zuweisen",
   "[data-testid='edit-site-reset']": "Verwerfen",
-  "[data-testid='edit-site-submit']": "Speichern"
+  "[data-testid='edit-site-submit']": "Speichern",
+  "[data-testid='site-settings-page'] div:nth-of-type(2) div:nth-of-type(1) div a:nth-of-type(5)": "Markenkit (Stream)",
+  "[data-testid='brand-kit-field'] div:nth-of-type(1) label": "Markenkit",
+  "[data-testid='tab-link-Overview']": "Überblick",
+  "[data-testid='tab-link-Strategy']": "Strategie",
+  "[data-testid='widgets-section'] div:nth-of-type(1) div:nth-of-type(1) h2": "Engagement"
 }
-

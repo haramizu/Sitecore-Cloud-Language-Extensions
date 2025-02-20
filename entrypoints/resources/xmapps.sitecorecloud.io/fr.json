@@ -13,7 +13,7 @@
   "[data-testid='siteSettingsMenuItem'] span:nth-of-type(2)": "Paramètres",
   "[data-testid='renameSiteMenuItem'] span:nth-of-type(2)": "Renommer",
   "[data-testid='duplicateSiteMenuButton'] span:nth-of-type(2)": "Dupliquer",
-  "[data-testid='open-in-pages-link'] button span:nth-of-type(2)": "Modifier dans le constructeur de pages",
+  "[data-testid='open-in-pages'] button span:nth-of-type(2)": "Modifier dans le constructeur de pages",
   "[data-testid='create-dropdown-button'] span": "Créer",
   "[data-testid='sc-create-site-menu-item']": "Site",
   "[data-testid='create-collection']": "Collection",
@@ -103,6 +103,10 @@
   "section div div:nth-of-type(2) div:nth-of-type(3) button:nth-of-type(1)": "Annuler",
   "section div div:nth-of-type(2) div:nth-of-type(3) button:nth-of-type(2)": "Assigner",
   "[data-testid='edit-site-reset']": "Annuler les modifications",
-  "[data-testid='edit-site-submit']": "Enregistrer"
+  "[data-testid='edit-site-submit']": "Enregistrer",
+  "[data-testid='site-settings-page'] div:nth-of-type(2) div:nth-of-type(1) div a:nth-of-type(5)": "Kit de marque (Stream)",
+  "[data-testid='brand-kit-field'] div:nth-of-type(1) label": "Kit de marque",
+  "[data-testid='tab-link-Overview']": "Aperçu",
+  "[data-testid='tab-link-Strategy']": "Stratégie",
+  "[data-testid='widgets-section'] div:nth-of-type(1) div:nth-of-type(1) h2": "Engagement"
 }
-
