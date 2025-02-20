@@ -13,7 +13,7 @@
   "[data-testid='siteSettingsMenuItem'] span:nth-of-type(2)": "Settings",
   "[data-testid='renameSiteMenuItem'] span:nth-of-type(2)": "Rename",
   "[data-testid='duplicateSiteMenuButton'] span:nth-of-type(2)": "Duplicate",
-  "[data-testid='open-in-pages-link'] button span:nth-of-type(2)": "Edit in Page builder",
+  "[data-testid='open-in-pages'] button span:nth-of-type(2)": "Edit in Page builder",
   "[data-testid='create-dropdown-button'] span": "Create",
   "[data-testid='sc-create-site-menu-item']": "Site",
   "[data-testid='create-collection']": "Collection",
@@ -103,6 +103,10 @@
   "section div div:nth-of-type(2) div:nth-of-type(3) button:nth-of-type(1)": "Cancel",
   "section div div:nth-of-type(2) div:nth-of-type(3) button:nth-of-type(2)": "Assign",
   "[data-testid='edit-site-reset']": "Discard",
-  "[data-testid='edit-site-submit']": "Save"
+  "[data-testid='edit-site-submit']": "Save",
+  "[data-testid='site-settings-page'] div:nth-of-type(2) div:nth-of-type(1) div a:nth-of-type(5)": "Brand kit (Stream)",
+  "[data-testid='brand-kit-field'] div:nth-of-type(1) label": "Brand kit",
+  "[data-testid='tab-link-Overview']": "Overview",
+  "[data-testid='tab-link-Strategy']": "Strategy",
+  "[data-testid='widgets-section'] div:nth-of-type(1) div:nth-of-type(1) h2": "Engagement"
 }
-

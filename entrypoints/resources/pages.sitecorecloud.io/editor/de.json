@@ -70,5 +70,7 @@
   "app-warning-dialog ng-spd-dialog-panel ng-spd-dialog-header": "A/B/n-Test löschen",
   "app-warning-dialog ng-spd-dialog-panel ng-spd-dialog-actions button:nth-of-type(1)": "Abbrechen",
   "app-warning-dialog ng-spd-dialog-panel ng-spd-dialog-actions button:nth-of-type(2)": "Löschen",
-  "page-ab-tests-details-dialog app-empty-state div p": "Es sind keine Seiten-A/B/n-Tests verfügbar"
+  "page-ab-tests-details-dialog app-empty-state div p": "Es sind keine Seiten-A/B/n-Tests verfügbar",
+  "app-editor div:nth-of-type(2) app-lhs-panel app-page-data-view h1": "Seiteninhalt",
+  "app-optimize-content-button div button": "Inhalt optimieren"
 }

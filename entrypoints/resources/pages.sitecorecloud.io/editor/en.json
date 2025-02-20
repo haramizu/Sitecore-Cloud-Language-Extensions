@@ -5,7 +5,8 @@
   "ng-spd-list button:nth-of-type(2)": "Create a folder",
   "ng-spd-list button:nth-of-type(3)": "Duplicate",
   "ng-spd-list button:nth-of-type(4)": "Settings",
-  "ng-spd-list button:nth-of-type(5)": "Delete",
+  "ng-spd-list button:nth-of-type(5)": "Page content",
+  "ng-spd-list button:nth-of-type(6)": "Delete",
   "app-page-details-dialog h1": "Page settings",
   "app-page-details-dialog app-page-rename div label:nth-of-type(1)": "Item name",
   "app-page-details-dialog app-page-rename div p:nth-of-type(1)": "Used for underlying folders and back-end processes, as well as to build the URL of the page",
@@ -70,5 +71,7 @@
   "app-warning-dialog ng-spd-dialog-panel ng-spd-dialog-header": "Delete A/B/n test",
   "app-warning-dialog ng-spd-dialog-panel ng-spd-dialog-actions button:nth-of-type(1)": "Cancel",
   "app-warning-dialog ng-spd-dialog-panel ng-spd-dialog-actions button:nth-of-type(2)": "Delete",
-  "page-ab-tests-details-dialog app-empty-state div p": "There are no available page A/B/n tests"
+  "page-ab-tests-details-dialog app-empty-state div p": "There are no available page A/B/n tests",
+  "app-editor div:nth-of-type(2) app-lhs-panel app-page-data-view h1": "Page content",
+  "app-optimize-content-button div button": "Optimize content"
 }

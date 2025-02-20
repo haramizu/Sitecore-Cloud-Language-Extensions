@@ -13,7 +13,7 @@
   "[data-testid='siteSettingsMenuItem'] span:nth-of-type(2)": "Indstillinger",
   "[data-testid='renameSiteMenuItem'] span:nth-of-type(2)": "Omdøb",
   "[data-testid='duplicateSiteMenuButton'] span:nth-of-type(2)": "Duplikér",
-  "[data-testid='open-in-pages-link'] button span:nth-of-type(2)": "Rediger i Sidebygger",
+  "[data-testid='open-in-pages'] button span:nth-of-type(2)": "Rediger i Sidebygger",
   "[data-testid='create-dropdown-button'] span": "Opret",
   "[data-testid='sc-create-site-menu-item']": "Websted",
   "[data-testid='create-collection']": "Samling",
@@ -103,6 +103,10 @@
   "section div div:nth-of-type(2) div:nth-of-type(3) button:nth-of-type(1)": "Annuller",
   "section div div:nth-of-type(2) div:nth-of-type(3) button:nth-of-type(2)": "Tildel",
   "[data-testid='edit-site-reset']": "Kassér",
-  "[data-testid='edit-site-submit']": "Gem"
+  "[data-testid='edit-site-submit']": "Gem",
+  "[data-testid='site-settings-page'] div:nth-of-type(2) div:nth-of-type(1) div a:nth-of-type(5)": "Brand kit (Stream)",
+  "[data-testid='brand-kit-field'] div:nth-of-type(1) label": "Brand kit",
+  "[data-testid='tab-link-Overview']": "Oversigt",
+  "[data-testid='tab-link-Strategy']": "Strategi",
+  "[data-testid='widgets-section'] div:nth-of-type(1) div:nth-of-type(1) h2": "Engagement"
 }
-

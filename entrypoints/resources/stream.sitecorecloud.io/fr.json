@@ -1,7 +1,7 @@
 {
   "header div:nth-of-type(1) nav div:nth-of-type(1) a:nth-of-type(1) button": "Ma journée",
   "header div:nth-of-type(1) nav div:nth-of-type(1) a:nth-of-type(2) button": "Projets",
-  "header div:nth-of-type(1) nav div:nth-of-type(1) a:nth-of-type(3) button": "Chat",
+  "header div:nth-of-type(1) nav div:nth-of-type(1) a:nth-of-type(3) button": "Assistant",
   "header div:nth-of-type(1) nav div:nth-of-type(1) a:nth-of-type(4) button": "Kits de marque",
   "body div:nth-of-type(6) div div:nth-of-type(2) a": "Gérer le compte",
   "body div:nth-of-type(6) div div:nth-of-type(4) a": "Se déconnecter",
@@ -38,9 +38,11 @@
   "table thead tr th:nth-of-type(2) div": "État",
   "table thead tr th:nth-of-type(3)": "Type",
   "table thead tr th:nth-of-type(4)": "Tags de section",
-  "body div:nth-of-type(6) div button:nth-of-type(1)": "Éditer les tags",
-  "body div:nth-of-type(6) div div span": "Éditer la plage de pages",
+  "body div:nth-of-type(6) div button:nth-of-type(1)": "Modifier les tags",
+  "body div:nth-of-type(6) div div span": "Modifier la plage de pages",
   "body div:nth-of-type(6) div button:nth-of-type(2)": "Supprimer",
+  "body div:nth-of-type(6) div div:nth-of-type(1) span": "Notifications",
+  "body div:nth-of-type(6) div div:nth-of-type(1) div button": "Tout supprimer",
+  "body div:nth-of-type(6) div div:nth-of-type(2)": "Il n'y a pas encore de notifications.",
   "body div:nth-of-type(6) div div:nth-of-type(1) div div": "Redémarrer la visite de la page"
 }
-
