@@ -27,6 +27,14 @@
   "[id='tour-project-analytics'] div:nth-of-type(2) div:nth-of-type(4) div:nth-of-type(2) div div:nth-of-type(1) label": "Without deadline",
   "[id='tour-project-analytics'] div:nth-of-type(2) div:nth-of-type(4) div:nth-of-type(2) div div:nth-of-type(2) label": "Unassigned tasks",
   "[id='tour-project-analytics'] div:nth-of-type(2) div:nth-of-type(4) div:nth-of-type(2) div div:nth-of-type(3) label": "Not started",
-  "[id='tour-project-analytics'] div:nth-of-type(2) div:nth-of-type(4) div:nth-of-type(2) div div:nth-of-type(4) label": "Overdue tasks"
+  "[id='tour-project-analytics'] div:nth-of-type(2) div:nth-of-type(4) div:nth-of-type(2) div div:nth-of-type(4) label": "Overdue tasks",
+  "[id='tour-project-analytics'] div:nth-of-type(2) div:nth-of-type(1) div h2": "Total project status",
+  "[id='tour-project-analytics'] div:nth-of-type(2) div:nth-of-type(1) div p": "No data to display yet",
+  "[id='tour-project-analytics'] div:nth-of-type(2) div:nth-of-type(2) div h2": "Total project progress",
+  "[id='tour-project-analytics'] div:nth-of-type(2) div:nth-of-type(2) div p": "No data to display yet",
+  "[id='tour-project-analytics'] div:nth-of-type(2) div:nth-of-type(3) div h2": "Deadline management",
+  "[id='tour-project-analytics'] div:nth-of-type(2) div:nth-of-type(3) div p": "No data to display yet",
+  "[id='tour-project-analytics'] div:nth-of-type(2) div:nth-of-type(4) div h2": "Risk assessment",
+  "[id='tour-project-analytics'] div:nth-of-type(2) div:nth-of-type(4) div p": "No data to display yet"
 }
 

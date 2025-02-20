@@ -4,6 +4,20 @@
   "table thead tr th:nth-of-type(2)": "Projektnavn",
   "table thead tr th:nth-of-type(3)": "Status",
   "table thead tr th:nth-of-type(4)": "Mærkater",
-  "table thead tr th:nth-of-type(5)": "Teammedlemmer"
+  "table thead tr th:nth-of-type(5)": "Teammedlemmer",
+  "main div div:nth-of-type(2) div div div div:nth-of-type(1) div:nth-of-type(1) h3": "Orkestrer dit arbejde",
+  "main div div:nth-of-type(2) div div div div:nth-of-type(1) p": "Projekter strømliner organiseringen af leverancer og opgaver for dine marketinginitiativer på tværs af teams og Sitecore-produkter.",
+  "main div div:nth-of-type(2) div div div div:nth-of-type(1) div:nth-of-type(2) button": "Opret første projekt",
+  "form div:nth-of-type(1) h2": "Projektdetaljer",
+  "form div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(1) div:nth-of-type(1) label": "Projektnavn",
+  "form div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(1) div:nth-of-type(2) label": "Projektbeskrivelse",
+  "form div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(1) div:nth-of-type(3) label span span": "Inkluder Brand kit (valgfrit)",
+  "form div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(1) div:nth-of-type(4) label": "Mærkater",
+  "form div:nth-of-type(2) div:nth-of-type(2) h6": "Indstil et miniaturebillede til projektet",
+  "form div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(2) div div:nth-of-type(1) label": "Startdato",
+  "form div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(2) div div:nth-of-type(2) label": "Slutdato",
+  "form div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(2) div div:nth-of-type(3) label": "Samlede dage:",
+  "form div:nth-of-type(3) div:nth-of-type(2) button:nth-of-type(1)": "Annuller",
+  "form div:nth-of-type(3) div:nth-of-type(2) button:nth-of-type(2)": "Gem"
 }
 

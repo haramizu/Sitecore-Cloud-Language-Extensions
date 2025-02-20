@@ -27,6 +27,14 @@
   "[id='tour-project-analytics'] div:nth-of-type(2) div:nth-of-type(4) div:nth-of-type(2) div div:nth-of-type(1) label": "Uden deadline",
   "[id='tour-project-analytics'] div:nth-of-type(2) div:nth-of-type(4) div:nth-of-type(2) div div:nth-of-type(2) label": "Ufordelte opgaver",
   "[id='tour-project-analytics'] div:nth-of-type(2) div:nth-of-type(4) div:nth-of-type(2) div div:nth-of-type(3) label": "Ikke startet",
-  "[id='tour-project-analytics'] div:nth-of-type(2) div:nth-of-type(4) div:nth-of-type(2) div div:nth-of-type(4) label": "Forsinkede opgaver"
+  "[id='tour-project-analytics'] div:nth-of-type(2) div:nth-of-type(4) div:nth-of-type(2) div div:nth-of-type(4) label": "Forsinkede opgaver",
+  "[id='tour-project-analytics'] div:nth-of-type(2) div:nth-of-type(1) div h2": "Total projektstatus",
+  "[id='tour-project-analytics'] div:nth-of-type(2) div:nth-of-type(1) div p": "Ingen data at vise endnu",
+  "[id='tour-project-analytics'] div:nth-of-type(2) div:nth-of-type(2) div h2": "Total opgavefremskridt",
+  "[id='tour-project-analytics'] div:nth-of-type(2) div:nth-of-type(2) div p": "Ingen data at vise endnu",
+  "[id='tour-project-analytics'] div:nth-of-type(2) div:nth-of-type(3) div h2": "Deadline styring",
+  "[id='tour-project-analytics'] div:nth-of-type(2) div:nth-of-type(3) div p": "Ingen data at vise endnu",
+  "[id='tour-project-analytics'] div:nth-of-type(2) div:nth-of-type(4) div h2": "Risikovurdering",
+  "[id='tour-project-analytics'] div:nth-of-type(2) div:nth-of-type(4) div p": "Ingen data at vise endnu"
 }
 

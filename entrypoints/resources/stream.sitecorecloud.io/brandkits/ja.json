@@ -8,6 +8,16 @@
   "body div:nth-of-type(3) form div:nth-of-type(4) button": "ロゴをアップロード",
   "body div:nth-of-type(3) form div:nth-of-type(4) p": "ロゴはアプリ内リストにのみ使用されます。透明なPNGをアップロードしてください",
   "body div:nth-of-type(3) form div:nth-of-type(5) button:nth-of-type(1)": "キャンセル",
-  "body div:nth-of-type(3) form div:nth-of-type(5) button:nth-of-type(2)": "作成"
+  "body div:nth-of-type(3) form div:nth-of-type(5) button:nth-of-type(2)": "作成",
+  "body div:nth-of-type(7) div h2": "新しいブランド キット",
+  "body div:nth-of-type(7) form div:nth-of-type(1) label": "ブランド名",
+  "body div:nth-of-type(7) form div:nth-of-type(2) label": "会社名（異なる場合）",
+  "body div:nth-of-type(7) form div:nth-of-type(3) label": "業界",
+  "body div:nth-of-type(7) form div:nth-of-type(4) button": "ロゴをアップロード",
+  "body div:nth-of-type(7) form div:nth-of-type(4) p": "ロゴはアプリ内リストにのみ使用されます。透明なPNGをアップロードしてください",
+  "body div:nth-of-type(7) form div:nth-of-type(5) button:nth-of-type(1)": "キャンセル",
+  "body div:nth-of-type(7) form div:nth-of-type(5) button:nth-of-type(2)": "作成",
+  "main div div:nth-of-type(2) div div:nth-of-type(2) div:nth-of-type(1) div h2": "検索結果がありません",
+  "main div div:nth-of-type(2) div div:nth-of-type(2) div:nth-of-type(1) div p": "別の検索クエリを試してください。"
 }
 

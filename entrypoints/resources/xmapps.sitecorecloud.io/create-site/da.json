@@ -1,0 +1,19 @@
+{
+  "header h2": "Opret side",
+  "section div div div:nth-of-type(1) div:nth-of-type(1) div:nth-of-type(2) h3": "Sidetemplate",
+  "section div div div:nth-of-type(1) div:nth-of-type(2) div:nth-of-type(2) h3": "Sidedetaljer",
+  "section div div div:nth-of-type(2) div div:nth-of-type(2) div div:nth-of-type(2) h2": "Inkluderet i denne template",
+  "section div div div:nth-of-type(2) div div:nth-of-type(2) div div:nth-of-type(3) div:nth-of-type(1) p": "Oprettet af",
+  "section div div div:nth-of-type(2) div div:nth-of-type(2) div div:nth-of-type(3) div:nth-of-type(2) p": "Sidst opdateret",
+  "[data-testid='next-step-button']": "Næste trin",
+  "[data-testid='previous-step-button']": "Forrige trin",
+  "section div div div:nth-of-type(2) form div div:nth-of-type(1) div:nth-of-type(1) label": "Navn",
+  "section div div div:nth-of-type(2) form div div:nth-of-type(1) div:nth-of-type(2) div:nth-of-type(1) div": "Sidenavn inden for XM Cloud",
+  "section div div div:nth-of-type(2) form div div:nth-of-type(2) div:nth-of-type(1) label": "Beskrivelse",
+  "section div div div:nth-of-type(2) form div div:nth-of-type(3) div:nth-of-type(1) label": "Samling",
+  "section div div div:nth-of-type(2) form div div:nth-of-type(3) div:nth-of-type(3) div div": "Organiser relaterede sider i en samling for at dele indhold, templates, layout og indstillinger",
+  "section div div div:nth-of-type(2) form div div:nth-of-type(4) div:nth-of-type(1) label": "Sprog",
+  "section div div div:nth-of-type(2) form div div:nth-of-type(4) div:nth-of-type(3) div div": "De sprog, denne side vil understøtte. Du kan ændre dit valg senere fra sideindstillingerne.",
+  "section div div div:nth-of-type(2) form div div:nth-of-type(5) div:nth-of-type(1) label": "Standardsprog"
+}
+

@@ -4,6 +4,20 @@
   "table thead tr th:nth-of-type(2)": "プロジェクト名",
   "table thead tr th:nth-of-type(3)": "ステータス",
   "table thead tr th:nth-of-type(4)": "ラベル",
-  "table thead tr th:nth-of-type(5)": "チームメンバー"
+  "table thead tr th:nth-of-type(5)": "チームメンバー",
+  "main div div:nth-of-type(2) div div div div:nth-of-type(1) div:nth-of-type(1) h3": "あなたの仕事をコーディネート",
+  "main div div:nth-of-type(2) div div div div:nth-of-type(1) p": "プロジェクトは、チームやSitecore製品全体でのマーケティングイニシアチブの成果物とタスクの整理を合理化します。",
+  "main div div:nth-of-type(2) div div div div:nth-of-type(1) div:nth-of-type(2) button": "最初のプロジェクトを作成",
+  "form div:nth-of-type(1) h2": "プロジェクトの詳細",
+  "form div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(1) div:nth-of-type(1) label": "プロジェクト名",
+  "form div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(1) div:nth-of-type(2) label": "プロジェクトの説明",
+  "form div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(1) div:nth-of-type(3) label span span": "ブランドキットを含める（オプション）",
+  "form div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(1) div:nth-of-type(4) label": "ラベル",
+  "form div:nth-of-type(2) div:nth-of-type(2) h6": "プロジェクトのサムネイルを設定",
+  "form div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(2) div div:nth-of-type(1) label": "開始日",
+  "form div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(2) div div:nth-of-type(2) label": "終了日",
+  "form div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(2) div div:nth-of-type(3) label": "合計日数：",
+  "form div:nth-of-type(3) div:nth-of-type(2) button:nth-of-type(1)": "キャンセル",
+  "form div:nth-of-type(3) div:nth-of-type(2) button:nth-of-type(2)": "保存"
 }
 

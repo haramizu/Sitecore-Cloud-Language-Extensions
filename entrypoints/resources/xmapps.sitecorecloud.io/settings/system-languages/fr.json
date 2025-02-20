@@ -15,5 +15,11 @@
   "table thead tr th:nth-of-type(2)": "Langue de secours",
   "table thead tr th:nth-of-type(3)": "Code de langue",
   "table tbody tr:nth-of-type(2) td:nth-of-type(4) div div div button:nth-of-type(1) span:nth-of-type(2)": "Éditer",
-  "table tbody tr:nth-of-type(2) td:nth-of-type(4) div div div button:nth-of-type(2) span:nth-of-type(2)": "Supprimer"
+  "table tbody tr:nth-of-type(2) td:nth-of-type(4) div div div button:nth-of-type(2) span:nth-of-type(2)": "Supprimer",
+  "section header": "Modifier la langue",
+  "section form div div:nth-of-type(1) div:nth-of-type(1) label": "Langue",
+  "section form div div:nth-of-type(2) div:nth-of-type(1) label div": "Langue de secours",
+  "section form div div:nth-of-type(3) label": "Code de langue",
+  "section form footer div button:nth-of-type(1)": "Annuler",
+  "section form footer div button:nth-of-type(2)": "Enregistrer"
 }
