@@ -108,5 +108,16 @@
   "[data-testid='brand-kit-field'] div:nth-of-type(1) label": "Brand kit",
   "[data-testid='tab-link-Overview']": "Overview",
   "[data-testid='tab-link-Strategy']": "Strategy",
-  "[data-testid='widgets-section'] div:nth-of-type(1) div:nth-of-type(1) h2": "Engagement"
+  "[data-testid='widgets-section'] div:nth-of-type(1) div:nth-of-type(1) h2": "Engagement",
+  "[data-testid='content-section-Analytics'] div:nth-of-type(1) div:nth-of-type(1) div div h2": "Analytics",
+  "[data-testid='content-section-Analytics'] div:nth-of-type(2) div p:nth-of-type(1)": "Need meanighful insights?",
+  "[data-testid='content-section-A/B/n tests'] div:nth-of-type(1) div:nth-of-type(1) div h2": "A/B/n tests",
+  "[data-testid='content-section-A/B/n tests'] div:nth-of-type(2) div div p:nth-of-type(1)": "Boost performance",
+  "[data-testid='widgets-section'] div:nth-of-type(2) div:nth-of-type(1) h2": "Mission control",
+  "[data-testid='content-section-Localization'] div:nth-of-type(1) div:nth-of-type(1) div div h2": "Localization",
+  "[data-testid='content-section-Localization'] a": "Manage languages",
+  "[data-testid='content-section-Workflows'] div:nth-of-type(1) div:nth-of-type(1) div h2": "Workflows",
+  "[data-testid='content-section-Workflows'] div:nth-of-type(3) p": "The pages of this site don’t have a workflow assigned",
+  "[data-testid='tab-A/B/n-tests']": "A/B/n tests"
 }
+

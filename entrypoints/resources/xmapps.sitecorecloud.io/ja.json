@@ -108,5 +108,16 @@
   "[data-testid='brand-kit-field'] div:nth-of-type(1) label": "ブランドキット",
   "[data-testid='tab-link-Overview']": "概要",
   "[data-testid='tab-link-Strategy']": "戦略",
-  "[data-testid='widgets-section'] div:nth-of-type(1) div:nth-of-type(1) h2": "エンゲージメント"
+  "[data-testid='widgets-section'] div:nth-of-type(1) div:nth-of-type(1) h2": "エンゲージメント",
+  "[data-testid='content-section-Analytics'] div:nth-of-type(1) div:nth-of-type(1) div div h2": "アナリティクス",
+  "[data-testid='content-section-Analytics'] div:nth-of-type(2) div p:nth-of-type(1)": "意味のある洞察をお求めですか？",
+  "[data-testid='content-section-A/B/n tests'] div:nth-of-type(1) div:nth-of-type(1) div h2": "A/B/n テスト",
+  "[data-testid='content-section-A/B/n tests'] div:nth-of-type(2) div div p:nth-of-type(1)": "パフォーマンスを向上させる",
+  "[data-testid='widgets-section'] div:nth-of-type(2) div:nth-of-type(1) h2": "ミッションコントロール",
+  "[data-testid='content-section-Localization'] div:nth-of-type(1) div:nth-of-type(1) div div h2": "ローカライズ",
+  "[data-testid='content-section-Localization'] a": "言語を管理",
+  "[data-testid='content-section-Workflows'] div:nth-of-type(1) div:nth-of-type(1) div h2": "ワークフロー",
+  "[data-testid='content-section-Workflows'] div:nth-of-type(3) p": "このサイトのページにはワークフローが割り当てられていません",
+  "[data-testid='tab-A/B/n-tests']": "A/B/n テスト"
 }
+
